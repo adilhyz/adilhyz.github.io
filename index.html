@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aplikasi Hitung Volume</title>
+    <link rel="shortcut icon" href="https://i.pinimg.com/564x/32/b3/a3/32b3a37d0b0c705286da2bd789baf6d4.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Righteous&display=swap');
+    body{
+        background-color: #746e6e99;
+        text-align: center;
+    }
+    .kuliku  {
+        padding: 10px;
+        background-color: transparent;
+        border-radius: 40%;
+        letter-spacing: 5px;
+        font-family: 'Righteous';
+        color: #d4d4d4;
+        text-shadow: 0px 0px 3px #adadad;
+        box-shadow: 0px 2px 3px #c4c4c4;
+    }
+    .kuliku:hover {
+        color: white;
+        box-shadow: 0px 2px 3px whitesmoke;
+    }
+    .judul {
+        font-family: 'Righteous';
+        letter-spacing: 2px;
+        text-align: center;
+        justify-content: center;
+        font-size: 30px;
+        text-shadow: 0px 2px 5px white;
+        margin-bottom: 20px;
+    }
+    img {
+        border-radius: 50%;
+        box-shadow: 0px 0px 10px black;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+</style>
+<body>
+    <script>
+        function klik() {
+            let masukan = prompt("Pilih bangun ruang untuk menghitung volume XD\n1.KUBUS\n2.BALOK\n3.Lingkaran");
+            switch(masukan){
+                case"1":
+                var sisi = prompt("masukkan sisi kubus");
+                var susis =sisi*sisi*sisi;
+                alert("= "+susis);
+                break;
+                case"2":
+                var lebar = prompt("masukan lebar");
+                var pjg = prompt("masukan panjang");
+                var t = prompt("masukan tinggi");
+                var res = lebar*pjg*t;
+                alert("= "+res);
+                break;
+                case"3":
+                var r = prompt("masukan jari-jari lingkaran yang akan di hitung");
+                var phi = 3.14;
+                var res = r*phi*r;
+                alert("= "+res);
+                break;
+                default:
+                    alert("maaf nomor tidak tersedia!, lihat menu yang tersedia ente kadang kadang");
+            } 
+        }
+    </script>
+    <!--img src="https://media.tenor.com/blaQJlxG7-8AAAAC/jun-suzuki-k-on.gif" alt="" width="300px" height="250px"-->
+    <img src="https://media.tenor.com/GHSF-v48hVwAAAAC/anime-found.gif" alt="" width="350px" height="350px"><br>
+    <br>
+    <h1 class="judul animate__animated animate__zoomInUp">Aplikasi Hitung Volume<i class="fa-solid fa-meteor"></i></h1>
+    <button class="kuliku bg-secondary animate__animated animate__flip" onclick="klik()">Gaskeun<i class="fa-solid fa-exclamation"></i><i class="fa-solid fa-face-grin-beam-sweat"></i></button><br><br>
+    <button class="btn btn-secondary animate__animated  animate__lightSpeedInLeft" onclick="toggleMusic()" id="btn-playback" data-play="false">
+        <i class="fa fa-play"></i>
+        <span id="btn-text">PLAY</span>
+    </button>
+    <audio id="audio" src="https://l.top4top.io/m_24916ydd81.mp3" />  
+    <script>
+        //Audio Button With Iconsus
+        const myAudio = document.getElementById("audio");
+        const btn = document.getElementById("btn-playback");
+        const btnIcon = document.querySelector("#btn-playback > i");
+        const btnText = document.getElementById("btn-text");
+        
+        const toggleMusic = () => {      
+        const dataPlay = btn.getAttribute('data-play');
+                
+        if(dataPlay === 'false') {
+            btn.setAttribute('data-play', 'true');
+            myAudio.play();
+            btnIcon.classList.remove("fa-play");
+            btnIcon.classList.add("fa-pause");
+            btnText.innerText = "PAUSE";
+        } else {
+            btn.setAttribute('data-play', 'false');
+            myAudio.pause();
+            btnIcon.classList.remove("fa-pause");
+            btnIcon.classList.add("fa-play");
+            btnText.innerText = "PLAY";
+        }
+        };
+        
+        myAudio.onpause = () => {
+        btn.setAttribute('data-play', 'false');
+            myAudio.pause();
+            btnIcon.classList.remove("fa-pause");
+            btnIcon.classList.add("fa-play");
+            btnText.innerText = "PLAY";
+        };  
+    </script>
+</body>
+</html>
