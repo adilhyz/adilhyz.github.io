@@ -1,0 +1,4 @@
+[hugoVersion]
+  extended = false
+  path = "github.com/nunocoracao/blowfish"
+  min = "0.87.0"
