@@ -5,7 +5,6 @@ date = "2022-09-22"
 description = "Swift’in gücünü sunucu tarafında da görelim."
 tags = [
     "linux",
-    "server side",
 ]
 categories = [
     "programming",
