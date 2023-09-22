@@ -3,13 +3,16 @@ title: "Arch Linux Dotfiles"
 date: 2023-09-20T22:08:51+07:00
 draft: false
 tags: ["Linux","ArchLinux","dotfiles",]
-categories: ["OS","Linux","Indonesian_Article"]
+categories: ["OS","Linux","Indonesian Article"]
 ---
 
+![](./dots.gif)
+
+<!-- <img src="http://localhost:1313/posts/dots.gif" width="550px"> -->
 
 ![](https://raw.githubusercontent.com/adilhyz/dotfiles-v1/master/preview/all.gif)
 
-[`Dotfiles`](https://github.com/adilhyz/dotfiles-v1) Bspwm Simple Unik Dan Menarik nan Elegan.
+[`Dotfiles`](https://github.com/adilhyz/dotfiles-v1) Bspwm Simple Unik Menarik nan Elegan.
 
 ## Apa itu dotfiles?
 

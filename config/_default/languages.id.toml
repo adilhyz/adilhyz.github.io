@@ -17,7 +17,7 @@ dateFormat = "2 January 2006"
   name = "Adilhyz"
   image = "img/me.png"
   headline = "Linux Enthusiast"
-  bio = ""
+  bio = "Just People"
   links = [
     { github = "https://github.com/adilhyz" },
   ]
@@ -25,7 +25,7 @@ dateFormat = "2 January 2006"
 
 # [author]
 #   name = "Your name here"
-#   image = "img/blowfish_logo.png"
+#   image = "img/me.png"
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
 #   links = [

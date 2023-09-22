@@ -68,7 +68,7 @@ disableImageOptimization = false
   showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = true
-  showSummary = true
+  showSummary = false
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 
 [list]
