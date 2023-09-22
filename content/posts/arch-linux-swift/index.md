@@ -46,8 +46,8 @@ Berikut adalah langkah-langkah untuk mengembangkan di Linux;
 
 Pertama, siapkan editor teks favorit Anda. Karena saya menggunakan Arch Linux di komputer saya, saya mengkompilasi Visual Studio Code dari AUR
 
-    yay -S visual-studio-code-bin #Stabil olan
-    yay -S visual-studio-code-insider-bin #Bu da Insider sürümü(kararsız)
+    yay -S visual-studio-code-bin #Stabil
+    yay -S visual-studio-code-insider-bin #versi Insider (tidak stabil)
 
 Setelah menginstal editor teks, sekarang saatnya menginstal Swift.Situs web Swift menyediakan instalasi untuk Ubuntu, CentOS 7 dan Amazon Linux 2. Anda bisa menemukannya dengan mencari repositori distribusi yang Anda gunakan. Untuk instalasi Arch Linux, Anda bisa menginstalnya sebagai paket biner untuk Fedora dari AUR ([swift-bin](https://aur.archlinux.org/packages/swift-bin/)), atau Anda bisa mengkompilasinya sendiri ([swift-language](https://aur.archlinux.org/packages/swift-language/)). Saya mengunggah berkas biner untuk menghemat waktu, Anda dapat mengunggahnya sebagai berikut;
 
