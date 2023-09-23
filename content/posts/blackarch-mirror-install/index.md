@@ -17,7 +17,7 @@ Dalam konteks BlackArch, mirror adalah salinan repositori perangkat lunak BlackA
 
 ![](ba-slider.png)
 
-## Instalasi Cermin BlackArch.
+## Instalasi Mirror BlackArch.
 
 Installer ini hanya bekerja untuk [`ARCH`](https://archlinux.org) Linux, dan distro basenya.
 
