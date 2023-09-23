@@ -37,7 +37,7 @@ disableImageOptimization = false
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/bg.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 5
+  showRecentItems = 3
   showMoreLink = true
   showMoreLinkDest = "/posts"
   cardView = false
@@ -50,7 +50,7 @@ disableImageOptimization = false
   showLikes = false
   showDateUpdated = false
   showAuthor = true
-  showHero = false
+  showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
@@ -68,7 +68,7 @@ disableImageOptimization = false
   showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = true
-  showSummary = false
+  showSummary = true
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 
 [list]

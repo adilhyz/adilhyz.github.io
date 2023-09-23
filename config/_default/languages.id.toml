@@ -19,6 +19,7 @@ dateFormat = "2 January 2006"
   headline = "Linux Enthusiast"
   bio = "Just People"
   links = [
+    #{ email = "mailto:inouesanrei@protonmail.com" },
     { github = "https://github.com/adilhyz" },
   ]
 

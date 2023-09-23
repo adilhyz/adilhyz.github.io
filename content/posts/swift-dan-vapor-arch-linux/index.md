@@ -1,7 +1,7 @@
 +++
 author = "Sanrei Adilhyz"
-title = "Arch Linux Swift"
-date = "2022-09-22"
+title = "Swift dan Vapor Arch Linux"
+date = "2023-09-19"
 description = "Mari kita lihat kekuatan Swift di sisi server."
 tags = [
     "linux",
@@ -84,7 +84,7 @@ Sekarang setelah kita menyelesaikan instalasi, mari kita buat sebuah proyek baru
 Sekarang mari kita masuk ke dalam proyek kita dan membuka proyek kita dengan editor teks.
 
     cd merhaba
-    code . Saya menulis perintah ini karena saya menggunakan #vscode
+    code . #Saya menulis perintah ini karena saya menggunakan vscode
 
     #Jika Anda berada di lingkungan Mac
     open Package.swift #Jika Anda berada di lingkungan Mac

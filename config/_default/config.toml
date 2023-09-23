@@ -33,3 +33,4 @@ buildFuture = false
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+  

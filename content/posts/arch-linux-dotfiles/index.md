@@ -6,10 +6,6 @@ tags: ["Linux","ArchLinux","dotfiles",]
 categories: ["OS","Linux","Indonesian Article"]
 ---
 
-![](./dots.gif)
-
-<!-- <img src="http://localhost:1313/posts/dots.gif" width="550px"> -->
-
 ![](https://raw.githubusercontent.com/adilhyz/dotfiles-v1/master/preview/all.gif)
 
 [`Dotfiles`](https://github.com/adilhyz/dotfiles-v1) Bspwm Simple Unik Menarik nan Elegan.
@@ -22,7 +18,7 @@ Singkatnya [`Dotfiles`](https://github.com/adilhyz/dotfiles-v1) yaitu kumpulan [
 
 ## Instalasi dotfiles
 
-The installer only works for [`ARCH`](https://archlinux.org) Linux, and `based distros`.
+Penginstal hanya berfungsi untuk [`ARCH`](https://archlinux.org) Linux, dan `based` distros.
 
 <b>Buka terminal di HOME</b>
 - **Pertama, unduh paket penginstal**
