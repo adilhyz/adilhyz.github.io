@@ -1,9 +1,11 @@
-languageCode = "id-id"
-languageName = "Bahasa Indonesia"
-displayName = "ID"
-isoCode = "id"
-weight = 1
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+contentDir= "content/en"
+weight = 2
 rtl = false
+
 
 title = "サンレイ"
 # logo = "img/logo.png"

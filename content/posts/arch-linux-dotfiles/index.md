@@ -2,8 +2,8 @@
 title: "Arch Linux Dotfiles"
 date: 2023-09-20T22:08:51+07:00
 draft: false
-tags: ["Linux","ArchLinux","dotfiles",]
-categories: ["OS","Linux","Indonesian Article"]
+tags: ["Linux","ArchLinux","dotfiles"]
+categories: ["OS"]
 ---
 
 ![](https://raw.githubusercontent.com/adilhyz/dotfiles-v1/master/preview/all.gif)
