@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Adilhyz :cat: 's blog"
-description: "Main page of adilhyz.github.io"
+title: "Selamat Datang di Adilhyz :cat: 's blog"
+description: "Halaman Utama dari adilhyz.github.io"
 ---
 
 {{< lead >}} `Just People`

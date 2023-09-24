@@ -2,7 +2,7 @@ languageCode = "en"
 languageName = "English"
 displayName = "EN"
 isoCode = "en"
-contentDir= "content/en"
+contentDir= "en"
 weight = 2
 rtl = false
 

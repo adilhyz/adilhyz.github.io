@@ -18,7 +18,7 @@ Summary [`Dotfiles`](https://github.com/adilhyz/dotfiles-v1) is a [`configuratio
 
 ## Installation
 
-The installer only works for [`ARCH`](https://archlinux.org) Linux, dan `based` distros.
+The installer only works for [`Arch Linux`](https://archlinux.org), dan `based` distros.
 
 <b>Open a terminal in HOME</b>
 - **First download the installer**

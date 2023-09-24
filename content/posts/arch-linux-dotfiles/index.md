@@ -18,7 +18,7 @@ Singkatnya [`Dotfiles`](https://github.com/adilhyz/dotfiles-v1) yaitu kumpulan [
 
 ## Instalasi dotfiles
 
-Penginstal hanya berfungsi untuk [`ARCH`](https://archlinux.org) Linux, dan `based` distros.
+Penginstal hanya berfungsi untuk [`Arch Linux`](https://archlinux.org), dan `based` distros.
 
 <b>Buka terminal di HOME</b>
 - **Pertama, unduh paket penginstal**
