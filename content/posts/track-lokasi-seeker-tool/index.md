@@ -27,10 +27,10 @@ Seeker merupakan tools open-source yang digunakan untuk melacak lokasi seseorang
 {{< /gallery >}}
 
 <ul>
-  <li>Mengidentifikasi bug: Tool seeker dapat membantu dalam mengidentifikasi bug keamanan dalam sistem, aplikasi web, atau jaringan.</li>
+  <li>Sederhana dan Mudah Digunakan: Seeker memiliki antarmuka yang sederhana dan mudah digunakan, yang memungkinkan pengguna dengan cepat memulai pencarian informasi.</li>
+  <li>Pencarian Geolokasi: Seeker berfokus pada pencarian informasi yang terkait dengan lokasi fisik pengguna (geolokasi), yang dapat berguna seperti keamanan siber atau investigasi digital.</li>
   <li>Pemindaian Otomatis: Ini dapat melakukan pemindaian otomatis yang memungkinkan untuk mendeteksi potensi masalah lebih cepat daripada pemeriksaan manual.</li>
-  <li>Manajemen Risiko: Membantu dalam mengelola risiko dengan mengidentifikasi dan mengklasifikasikan potensi masalah keamanan.</li>
-  <li>Manajemen Risiko: Membantu dalam mengelola risiko dengan mengidentifikasi dan mengklasifikasikan potensi masalah keamanan.</li>
+  <li>Integrasi dengan Peta Lokasi: Seeker mengintegrasikan hasil pencarian dengan peta lokasi, visualisasi yang berguna untuk data geolokasi yang ditemukan.</li>
 </ul>
 
 {{< /timelineItem >}}
@@ -44,10 +44,10 @@ Seeker merupakan tools open-source yang digunakan untuk melacak lokasi seseorang
 {{< /gallery >}}
 
 <ul>
-  <li>Hasil Palsu: Terkadang tool pemindaian dapat menghasilkan positif palsu, yaitu mengidentifikasi bug yang sebenarnya tidak ada.</li>
-  <li>Diperlukan Keahlian: Penggunaan tool seeker yang efektif memerlukan pemahaman teknis yang mendalam tentang keamanan dan konfigurasi yang tepat.</li>
+  <li>Data Tidak Akurat: Informasi geolokasi tidak selalu akurat karena data yang ditemukan oleh Seeker dipengaruhi oleh seberapa banyak data yang tersedia secara publik.</li>
+  <li>Pemahaman Konteks: Hasil pencarian yang ditemukan oleh Seeker mungkin memerlukan pemahaman konteks yang baik untuk diinterpretasikan dengan benar.</li>
   <li>Pemecahan Masalah: Tool ini dapat mengidentifikasi masalah, tetapi tidak selalu memberikan solusi yang konkret. Pengguna masih perlu menganalisis hasil pemindaian dan mengambil langkah-langkah yang diperlukan.</li>
-  <li>Penting untuk diingat bahwa kelebihan dan kekurangan dapat bervariasi berdasarkan penggunaan yang tepat dan implementasi yang benar dari tool ini. Selalu penting untuk menggunakan tool keamanan dengan etika yang baik dan mematuhi hukum yang berlaku.</li>
+  <li>Penting bahwa kelebihan dan kekurangan bervariasi berdasarkan penggunaan yang tepat dan implementasi yang benar dari tool ini. Selalu penting untuk menggunakan tool keamanan dengan etika yang baik dan mematuhi hukum yang berlaku.</li>
 </ul>
 {{< /timelineItem >}}
 
@@ -70,9 +70,9 @@ Seeker merupakan tools open-source yang digunakan untuk melacak lokasi seseorang
 > -
 > - Download [Ngrok](./ngrok.png) Untuk Windows.
 > - Pastikan Anda Telah Mempunyai akun [Ngrok](https://ngrok.com).
-> - Ekstrak file zip ngrok di C:\ngrok.
+> - Ekstrak file zip ngrok di `C:\ngrok`
 > - Cari 'Environment' di pencarian windows dan pilih [Edit the Environment Variable Settings](./EnvVarSettings.png).
-> - Edit [PATH](./EnvVarPath1.png). Lalu Tambahkan C:\ngrok ke daftar [PATH](./EnvVarPath2.png).
+> - Edit [PATH](./EnvVarPath1.png). Lalu Tambahkan `C:\ngrok` ke daftar [PATH](./EnvVarPath2.png).
 > - Lalu 'Ok' Untuk Menyimpan Semua Perubahan.
 
 
@@ -110,11 +110,11 @@ Setelah semua instalasi terinstall, mari kita
 
 #### Jalankan Tool Seeker
 
-- Jika [`Windows`](/tags/windows):
+- [`Windows`](/tags/windows) :
 
       python seeker.py -p 1337
 
-- Jika [`Arch Linux`](/tags/archlinux):
+- [`Arch Linux`](/tags/archlinux) :
 
       sudo seeker -p 1337
 
@@ -129,6 +129,7 @@ Autentikasi konfig [Ngrok](https://dashboard.ngrok.com/get-started/your-authtoke
 - Isi [`YOUR_AUTH_TOKEN`](./authtoken.png) dengan token kalian. hubungkan localhost dengan ngrok dengan:
 
       ngrok http 1337
+
 ## Pratinjau
 
 ![](./seeker.gif)
