@@ -1,5 +1,6 @@
 ---
 title: "BlackArch Mirror Install"
+description: "BlackArch is a mirror the BlackArch Linux software repository which contains various security and hacking tools."
 date: 2023-09-22
 draft: false
 tags: ["Linux","ArchLinux","BlackArch","Mirrors"]

@@ -1,5 +1,6 @@
 ---
 title: "BlackArch Mirror Install"
+description: "BlackArch adalah sebuah repositori perangkat lunak BlackArch Linux yang berisi berbagai tools."
 date: 2023-09-22
 draft: false
 tags: ["Linux","ArchLinux","BlackArch","Mirrors"]

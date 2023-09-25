@@ -1,5 +1,6 @@
 ---
 title: "Arch Linux Dotfiles"
+description: "Dotfiles Bspwm Simple Unik Menarik nan Elegan."
 date: 2023-09-20T22:08:51+07:00
 draft: false
 tags: ["Linux","ArchLinux","dotfiles"]
