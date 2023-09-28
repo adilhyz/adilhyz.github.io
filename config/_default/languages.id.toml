@@ -1,11 +1,13 @@
 languageCode = "id-id"
 languageName = "Bahasa Indonesia"
-displayName = "ID"
-isoCode = "id"
 weight = 1
-rtl = false
-
 title = "サンレイ"
+
+[params]
+  displayName = "ID"
+  isoCode = "id"
+  rtl = false
+
 # logo = "img/logo.png"
 # description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
