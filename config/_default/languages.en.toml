@@ -1,6 +1,6 @@
 languageCode = "en"
 languageName = "English"
-contentDir= "en"
+contentDir= "content/en"
 weight = 2
 title = "サンレイ"
 

@@ -1,5 +1,6 @@
 languageCode = "id-id"
 languageName = "Bahasa Indonesia"
+contentDir= "content/id"
 weight = 1
 title = "サンレイ"
 
