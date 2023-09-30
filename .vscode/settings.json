@@ -1,0 +1,7 @@
+{
+    "grammarly.selectors": [{
+        "language": "markdown",
+        "scheme": "file",
+        "pattern": "en/**/*.md"
+    }]
+}

@@ -37,3 +37,4 @@ chmod +x RiceInstaller
 
 ## Ending
 
+Happy Ricing.
