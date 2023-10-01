@@ -136,3 +136,7 @@ smartTOCHideUnfocusedChildren = true
   # bing = ""
   # pinterest = ""
   # yandex = ""
+
+[umamiAnalytics]
+  websiteid = "c7283904-4ad8-4970-9e65-d1d8369d83c3"
+  domain = "adilhyz.github.io"
