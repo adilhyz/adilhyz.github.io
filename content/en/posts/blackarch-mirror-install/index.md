@@ -4,7 +4,7 @@ description: "BlackArch is a mirror the BlackArch Linux software repository whic
 date: 2023-09-22
 draft: false
 tags: ["Linux","ArchLinux","BlackArch","Mirrors"]
-categories: ["OS"]
+categories: ["Tutorial","OS"]
 ---
 
 ![](/posts/blackarch-mirror-install/already.png)

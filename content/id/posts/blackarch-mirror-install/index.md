@@ -4,7 +4,7 @@ description: "BlackArch adalah sebuah repositori perangkat lunak BlackArch Linux
 date: 2023-09-22
 draft: false
 tags: ["Linux","ArchLinux","BlackArch","Mirrors"]
-categories: ["OS"]
+categories: ["Tutorial","OS"]
 ---
 
 ![](./already.png)

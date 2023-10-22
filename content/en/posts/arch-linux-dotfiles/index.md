@@ -3,7 +3,7 @@ title: "Arch Linux Dotfiles"
 description: "Bspwm Dotfiles Simple & Elegant."
 date: 2023-09-20T22:08:51+07:00
 draft: false
-tags: ["Linux","ArchLinux","dotfiles"]
+tags: ["Linux","ArchLinux","dotfiles", "bspwm"]
 categories: ["OS"]
 ---
 
