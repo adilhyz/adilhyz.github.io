@@ -84,8 +84,8 @@ reflector --country Indonesia --latest 5 --sort rate --save /etc/pacman.d/mirror
 update semua key
 
 ```
-sudo pacman -S archlinux-keyring
-sudo pacman-key --populate
+pacman -S archlinux-keyring
+pacman-key --populate
 ```
 
 ### 1.5 Membuat Subvolume dan Mounting
