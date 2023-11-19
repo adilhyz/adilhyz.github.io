@@ -166,7 +166,7 @@ pacstrap /mnt base linux linux-zen linux-firmware git vim intel-ucode
 genfstab -U /mnt >> /mnt/etc/fstab
 cat /mnt/etc/fstab
 ```
-Lalu backup mirrorlist dengan:
+Lalu copy backupan mirrorlist dengan:
 
 ```sh
 cp /etc/pacman.d/mirrorlist.ori /mnt/etc/pacman.d/mirrorlist.ori
@@ -295,14 +295,12 @@ Tambahkan password ```user```
 passwd sanrei
 ```
 
-### 
-
-Edit ```/etc/sudoers``` jalankan ```visudo``` dan hapus baris berikut:
+Edit ```/etc/sudoers``` run ```visudo``` and delete the following line:
 
 ```sh
 EDITOR=nvim visudo
 
-#Hapus Komentar wheel
+#Delete Comment wheel
 %wheel ALL=(ALL) ALL
 ```
 
