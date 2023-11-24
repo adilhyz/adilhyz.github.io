@@ -7,7 +7,7 @@ tags: ["Linux","ArchLinux","dotfiles","bspwm"]
 categories: ["OS"]
 ---
 
-![](https://raw.githubusercontent.com/adilhyz/dotfiles-v1/master/preview/all.gif)
+![](https://raw.githubusercontent.com/adilhyz/dotfiles-v1/master/preview/z.gif)
 
 [`Dotfiles`](https://github.com/adilhyz/dotfiles-v1) Bspwm Simple Unik Menarik nan Elegan.
 
