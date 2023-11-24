@@ -35,7 +35,7 @@ smartTOCHideUnfocusedChildren = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/signal_lost_microbot.webp" # used in: hero, and card
+  homepageImage = "img/signal_lost_microbot.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
   showMoreLink = true
