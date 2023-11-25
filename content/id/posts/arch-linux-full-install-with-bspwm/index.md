@@ -11,7 +11,7 @@ categories: ["OS","Tutorial"]
 ![pendahuluan](./pendahuluan.gif "Hai semua, kali ini saya akan mengshare cara menginstal Arch Linux dengan lingkungan desktop bspwm.   juga dibandel oleh btrfs dan snapshots")
 
 - Mode bootingnya adalah **EFI**.
-- Saya beranggapan bahwa Anda sudah memiliki stik USB dengan ISO Arch Linux dan sudah [```BOOTABLE```](https://id.wikipedia.org/wiki/List_of_tools_to_create_bootable_USB)
+- Saya beranggapan bahwa Anda sudah memiliki stik USB dengan ISO Arch Linux dan sudah [```BOOTABLE```](https://en.wikipedia.org/wiki/List_of_tools_to_create_bootable_USB)
 
 Jangan lupa bawa cemilan untuk menikmati santuy ☕ ...
 

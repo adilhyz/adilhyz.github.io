@@ -11,7 +11,7 @@ categories: ["OS","Tutorial"]
 ![introduction](./pendahuluan.gif "Hi minna, in this article I will share how to install Arch Linux with the bspwm desktop environment. also bundled by btrfs and snapshots")
 
 - The boot mode is **EFI**.
-- I'm assuming that you already have a USB stick with an Arch Linux ISO and are already  [```BOOTABLE```](https://id.wikipedia.org/wiki/List_of_tools_to_create_bootable_USB)
+- I'm assuming that you already have a USB stick with an Arch Linux ISO and are already  [```BOOTABLE```](https://en.wikipedia.org/wiki/List_of_tools_to_create_bootable_USB)
 
 Bring something in your food cupboard to enjoy the relaxing process ☕ ...
 
