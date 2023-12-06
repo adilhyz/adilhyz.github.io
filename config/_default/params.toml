@@ -46,7 +46,7 @@ smartTOCHideUnfocusedChildren = true
 
 [article]
   showDate = true
-  showViews = true
+  showViews = false
   showLikes = false
   showDateUpdated = false
   showAuthor = true
@@ -112,13 +112,13 @@ smartTOCHideUnfocusedChildren = true
   cardViewScreenWidth = false
 
 [firebase]
-  apiKey = "AIzaSyA-cHCq8fFEp_bIRQGQKiZ8o5ajN0hqEqU"
-  authDomain = "adilhyz.firebaseapp.com"
-  projectId = "adilhyz"
-  storageBucket = "adilhyz.appspot.com"
-  messagingSenderId = "1063051753951"
-  appId = "1:1063051753951:web:a2cc66f09e10a57cfaac6a"
-  measurementId = "G-71Y5ZP8TEG"
+  # apiKey = "AIzaSyA-cHCq8fFEp_bIRQGQKiZ8o5ajN0hqEqU"
+  # authDomain = "adilhyz.firebaseapp.com"
+  # projectId = "adilhyz"
+  # storageBucket = "adilhyz.appspot.com"
+  # messagingSenderId = "1063051753951"
+  # appId = "1:1063051753951:web:a2cc66f09e10a57cfaac6a"
+  # measurementId = "G-71Y5ZP8TEG"
 
 [fathomAnalytics]
   # site = "ABC12345"
