@@ -97,7 +97,7 @@ Kenapa gak ada ~~~`fedora`~~~?
 
 ya gw males aja :v
 
-Intinya kalau `fedora` masih bisa, sama seperti [Debian Based](https://en.wikipedia.org/wiki/Category:Debian-based_distributions).
+Intinya kalau `fedora` masih bisa, sama seperti [Debian Based](#12-debian-based).
 
 ## 2. Windows
 ![wedus](./winanim.png)

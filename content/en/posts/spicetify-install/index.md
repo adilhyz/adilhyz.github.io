@@ -100,7 +100,7 @@ For other distros such as `Alpine Linux`, `NixOS`, `Gentoo`, and `FreeBSD`. the 
 
 Why is there no ~~~`fedora`~~~?
 
-For `fedora` it's still possible, just like [Debian Based](https://en.wikipedia.org/wiki/Category:Debian-based_distributions).
+For `fedora` it's still possible, just like [Debian Based](#12-debian-based).
 
 ## 2. Windows
 ![wedus](./winanim.png)
