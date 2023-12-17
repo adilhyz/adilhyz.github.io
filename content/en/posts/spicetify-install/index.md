@@ -93,7 +93,7 @@ Next to install **spicetify-marketplace**
 curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.sh | sh
 ```
 
-### 1.3 Distro Lain
+### 1.3 Other Distro
 ![otherlinux](./othlinux.png)
 
 For other distros such as `Alpine Linux`, `NixOS`, `Gentoo`, and `FreeBSD`. the installation method for Spicetify is similar to [Debian](#12-debian-based), but differs based on the package management and root commands used on each distro. It is important to install the necessary dependency packages and read the distro and Spicetify documentation thoroughly for more specific instructions.
