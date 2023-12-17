@@ -1,5 +1,5 @@
 module github.com/adilhyz/adilhyz.github.io
 
-go 1.23
+go 1.21.5
 
-require github.com/nunocoracao/blowfish/v2 v2.47.2 // indirect
+require github.com/nunocoracao/blowfish/v2 v2.48.0 // indirect
