@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Adilhyz :cat: 's blog"
+title: "Welcome to Adilhyz :space_invader: 's blog"
 description: "Main page of adilhyz.github.io"
 ---
 
