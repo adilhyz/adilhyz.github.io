@@ -20,7 +20,9 @@ In the context of BlackArch, a mirror is a copy of the BlackArch Linux software 
 
 ## BlackArch Mirror Installations.
 
-The installer only works for [`ARCH`](https://archlinux.org) Linux, and `based distros`.
+{{< alert icon="triangle-exclamation" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+The installer only works for [<abbr title="Arch Linux">*Arch*</abbr>](https://archlinux.org), and <abbr title="Based Distro">based</abbr> distros.
+{{< /alert >}}
 
 Run https://blackarch.org/strap.sh as root and follow the instructions.
 

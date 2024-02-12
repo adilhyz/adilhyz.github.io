@@ -3,7 +3,7 @@ title: "Track Location Seeker Tool"
 description: "Seeker Tools and Their Role in Digital Security"
 date: 2023-09-23
 draft: false
-tags: ["Windows","Linux","ArchLinux"]
+tags: ["Windows","Linux","ArchLinux", "Hacking"]
 categories: ["Tutorial","OS", "Tools", "Social Engineering"]
 ---
 

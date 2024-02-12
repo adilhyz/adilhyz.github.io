@@ -3,7 +3,7 @@ title: "Track Lokasi Seeker Tool"
 description: "Mengungkap Kehebatan Tool Seeker, Memahami Perannya dalam Dunia Keamanan Digital"
 date: 2023-09-23
 draft: false
-tags: ["Windows","Linux","ArchLinux"]
+tags: ["Windows","Linux","ArchLinux", "Hacking"]
 categories: ["Tutorial","OS", "Tools", "Social Engineering"]
 ---
 

@@ -12,19 +12,39 @@
 
 [[main]]
  name = "Blog"
+ pre = "dribbble"
  pageRef = "posts"
  weight = 10
  
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 10
+  name = "Projects"
+  pre = "lightbulb"
+  pageRef = "projects"
+  weight = 11
 
 [[main]]
-  name = "GitHub"
+  name = "Github"
+  pre = "github"
   url = "https://github.com/adilhyz"
-  weight = 40
+  weight = 12
 
+[[main]]
+ name = ""
+ pre = "rss"
+ url = "index.xml"
+ weight = 13
+
+[[subnavigation]]
+  name = "Tags"
+  pre = "tag"
+  pageRef = "tags"
+  weight = 14
+
+[[subnavigation]]
+  name = "Categories"
+  pre = "bars"
+  pageRef = "categories"
+  weight = 15
 
 #[[main]]
 #  name = "Parent"
@@ -69,17 +89,12 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-[[footer]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 10
+#[[footer]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 10
 
-[[footer]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 20
-
-[[footer]]
-  name = "GitHub"
-  url = "https://github.com/adilhyz"
-  weight = 40
+#[[footer]]
+#  name = "Categories"
+#  pageRef = "categories"
+#  weight = 20

@@ -19,7 +19,9 @@ Dalam konteks BlackArch, mirror adalah salinan repositori perangkat lunak BlackA
 
 ## Instalasi Mirror BlackArch.
 
-Installer ini hanya bekerja untuk [`ARCH`](https://archlinux.org) Linux, dan distro basenya.
+{{< alert icon="triangle-exclamation" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+Installer ini hanya bekerja untuk [<abbr title="Arch Linux">*Arch*</abbr>](https://archlinux.org), dan <abbr title="Based Distro">Distro</abbr> basenya.
+{{< /alert >}}
 
 Download file dari https://blackarch.org/strap.sh dengan menggunakan curl
 
