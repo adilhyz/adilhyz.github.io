@@ -3,16 +3,14 @@ title: "Selamat Datang di Adilhyz :space_invader: 's blog"
 description: "Halaman Utama dari adilhyz.github.io"
 ---
 
-{{< lead >}} `Just People`
-
 {{< typeit 
   tag=h5
   bold=true
-  lifeLike=false
-  breakLines=true
+  lifeLike=true
+  breakLines=false
   loop=false
+  waitUntilVisible=true
 >}} 
-I Use Arch Btw~!
+{{< lead >}} `127.0.0.1` {{< /lead >}}
+Arch Btw~!
 {{< /typeit >}}
-
- {{< /lead >}}
