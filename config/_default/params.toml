@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "congo"
+colorScheme = "Congo"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
@@ -108,6 +108,7 @@ smartTOCHideUnfocusedChildren = true
 [term]
   showHero = false
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundHeaderSpace = false
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -115,6 +116,7 @@ smartTOCHideUnfocusedChildren = true
   groupByYear = false
   cardView = false
   cardViewScreenWidth = false
+
 
 [firebase]
   # apiKey = "AIzaSyA-cHCq8fFEp_bIRQGQKiZ8o5ajN0hqEqU"
