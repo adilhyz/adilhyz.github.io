@@ -7,7 +7,7 @@ tags: ["Linux","ArchLinux","BlackArch","Mirrors"]
 categories: ["Tutorial","OS"]
 ---
 
-![](/posts/blackarch-mirror-install/already.png)
+![](already.png)
 
 Arch Linux, a "mirror" refers to a copy of the software package repository that allows users to quickly download and manage software. Mirror repositories are servers that provide access to these packages from various geographical locations, facilitating better network load distribution and faster download speeds. Mirror mirrorsync, on the other hand, is a copy of all Arch Linux repositories organized by the main repository, used to ensure that mirror repositories stay up-to-date by automatically managing and replenishing them.
 
@@ -16,7 +16,7 @@ Arch Linux, a "mirror" refers to a copy of the software package repository that 
 In the context of BlackArch, a mirror is a copy of the BlackArch Linux software repository, which contains various security and hacking tools. This mirror allows users to quickly download and install BlackArch packages.
 
 
-![](/posts/blackarch-mirror-install/ba-slider.png)
+![](ba-slider.png)
 
 ## BlackArch Mirror Installations.
 
@@ -53,6 +53,6 @@ You can also view blackarch categories by using the command
 
     sudo pacman -S blackarch-<category>
 
-![](/posts/blackarch-mirror-install/ba-social.png)
+![](ba-social.png)
 
 In today's article, I explain how to install BlackArch Mirror. BlackArch Mirror is my preferred Mirror and I use it. If you are still confused, you can check my [Youtube](https://youtube.com/@adilhyz).またね!
