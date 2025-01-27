@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'mono';
+    src: url('/fonts/mono.ttf');
+}
+
+html {
+    font-family: 'mono';
+}

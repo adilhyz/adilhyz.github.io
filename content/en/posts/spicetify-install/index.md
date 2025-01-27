@@ -144,6 +144,6 @@ Your Spicetify is already installed on spotify but it's still plain. I recommend
 curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.sh | sh
 ```
 
-# Pra-Instalasi
+## Pra-Installations
 
 Now you can customize extensions, themes, snippets, and apps. Importantly, all of this is free of charge with no additional costs whatsoever. Hope this information is useful in maximizing your music ¬‿¬

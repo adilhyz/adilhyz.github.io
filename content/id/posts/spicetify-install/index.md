@@ -141,6 +141,6 @@ Spicetify mu sudah terinstall di spotify tapi masih polos bawaan, nih. Saya mere
 curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.sh | sh
 ```
 
-# Pra-Instalasi
+## Pra-Instalasi
 
 Sekarang Anda bisa mengkombinasikan beberapa kustomisasi berupa Ekstensi, Tema, Snippet, Dan juga Apps. Penting bahwa semua ini gratis tidak ada biaya tambahan sedikit pun. Semoga informasi ini berguna dalam memaksimalkan musik Anda ¬‿¬

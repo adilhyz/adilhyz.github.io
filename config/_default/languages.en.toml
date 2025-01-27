@@ -8,22 +8,20 @@ title = "サンレイ"
   displayName = "EN"
   isoCode = "en"
   rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
 
-# logo = "img/logo.png"
-# description = "My awesome website"
-# copyright = "Copy, _right?_ :thinking_face:"
-
-dateFormat = "2 January 2006"
-
-
-[author]
+[params.author]
   name = "Adilhyz"
-  image = "img/3rei.png"
+  image = "img/1.png"
   headline = "Linux Enthusiast"
   bio = "Just People"
   links = [
     { email = "mailto:sandyadilhayyi@gmail.com" },
     { github = "https://github.com/adilhyz" },
+    { youtube = "https://youtube.com/@adilhyz" },
   ]
 
 

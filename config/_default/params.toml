@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "blowfish"
+colorScheme = "Congo"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
@@ -16,8 +16,11 @@ enableCodeCopy = true
 # robots = ""
 
 disableImageOptimization = false
+disableTextInHeader = false
+# backgroundImageWidth = 1200
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
+# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -35,7 +38,7 @@ smartTOCHideUnfocusedChildren = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/signal_lost_microbot.png" # used in: hero, and card
+  homepageImage = "img/sakura.gif" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
   showMoreLink = true
