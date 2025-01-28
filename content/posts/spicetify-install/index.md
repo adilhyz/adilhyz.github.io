@@ -93,7 +93,7 @@ curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/mai
 
 Untuk distro lain seperti `Alpine Linux`, `NixOS`, `Gentoo`, dan `FreeBSD`. metode instalasi untuk Spicetify mirip dengan [Debian](#12-debian-based), tetapi berbeda berdasarkan manajemen paket dan perintah root yang digunakan pada setiap distro. Penting untuk menginstal paket dependensi yang diperlukan dan membaca dokumentasi distro dan Spicetify secara menyeluruh untuk instruksi yang lebih spesifik.
 
-Kenapa gak ada ~~~`fedora`~~~?
+Kenapa gak ada ~~`fedora`~~?
 
 ya gw males aja :v
 
