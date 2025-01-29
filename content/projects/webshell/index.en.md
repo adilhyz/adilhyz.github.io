@@ -6,6 +6,7 @@ externalUrl: "https://adilhyz.github.io/WebShell"
 draft: false
 tags: ["Backdoor","Hacking"]
 categories: ["Projects","BlackHat", "Tools"]
+summary: "Most collection of webshells may can be useful for needs of."
 ---
 
 Webshell Collection 💥

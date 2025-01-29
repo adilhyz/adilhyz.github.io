@@ -5,6 +5,7 @@ date: 2023-08-07
 draft: false
 tags: ["Linux","ArchLinux","dotfiles", "bspwm"]
 categories: ["Projects", "OS"]
+summary: "Simply Dotfiles, not bad useful!!"
 ---
 
 {{< alert icon="fire" cardColor="#1e40af" iconColor="#60a5fa" textColor="#f1faee" >}}

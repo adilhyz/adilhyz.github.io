@@ -5,6 +5,7 @@ date: 2023-11-23
 draft: false
 tags: ["Windows","Linux","ArchLinux","Debian","Ubuntu","LinuxMint","Spotify"]
 categories: ["Music","Tools","Tutorial","OS"]
+summary: "Penggemar Spotify Perlu Mencoba Spicetify."
 ---
 
 ![pendahuluan](./3961-spotify.png "Spotify merupakan alat pemutar musik online populer, namun pengguna biasa dibatasi oleh iklan yang menggagu lagi asik asiknya ngemusik eh malah muncul iklan kalau gini mah mending banned aja iklan nya wkwkwk.")

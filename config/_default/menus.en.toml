@@ -42,7 +42,7 @@
 
 [[subnavigation]]
   name = "Categories"
-  pre = "bars"
+  pre = "list"
   pageRef = "categories"
   weight = 15
 
@@ -89,12 +89,14 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-#[[footer]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 10
+[[footer]]
+ name = "Tags"
+ pre = "tag"
+ pageRef = "tags"
+ weight = 15
 
-#[[footer]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
+[[footer]]
+ name = "Categories"
+ pre = "list"
+ pageRef = "categories"
+ weight = 20

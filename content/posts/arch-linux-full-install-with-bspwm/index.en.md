@@ -6,6 +6,7 @@ date: 2023-10-22T13:28:35+07:00
 draft: false
 tags: ["Linux","ArchLinux","Kernel","bspwm"]
 categories: ["OS","Tutorial"]
+summary: "Ultimate Guide: Install Arch Linux from Scratch with Bspwm! Perfect for both beginners and advanced users looking to set up a lightweight, powerful Arch Linux system with Bspwm and fully customizable!"
 ---
 
 ![introduction](/posts/arch-linux-full-install-with-bspwm/pendahuluan.gif "Hi minna, in this article I will share how to install Arch Linux with the bspwm desktop environment. also bundled by btrfs and snapshots")

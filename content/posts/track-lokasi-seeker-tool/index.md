@@ -5,9 +5,8 @@ date: 2023-09-23
 draft: false
 tags: ["Windows","Linux","ArchLinux", "Hacking"]
 categories: ["Tutorial","OS", "Tools", "Social Engineering"]
+summary: "Mengungkap Kehebatan Tool Seeker, Memahami Perannya dalam Dunia Keamanan Digital."
 ---
-
-Mengungkap Kehebatan Tool Seeker, Memahami Perannya dalam Dunia Keamanan Digital.
 
 ## Apa itu Seeker?
 

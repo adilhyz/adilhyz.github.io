@@ -5,11 +5,10 @@ date: 2023-09-22
 draft: false
 tags: ["Linux","ArchLinux","BlackArch","Mirrors"]
 categories: ["Tutorial","OS"]
+summary: "Di Arch Linux, mirror yaitu repositori paket perangkat lunak yang memungkinkan pengguna mengunduh dan memperbarui software dengan lebih cepat dan stabil. Mirror tersebar di berbagai server di seluruh dunia, memastikan beban jaringan lebih merata dan kecepatan unduhan optimal."
 ---
 
 ![](./already.png)
-
-Pada Arch Linux, "mirror" merujuk pada salinan repositori paket perangkat lunak yang memungkinkan pengguna mengunduh dan mengelola perangkat lunak dengan cepat. Repositori mirror adalah server yang menyediakan akses ke paket-paket ini dari berbagai lokasi geografis, memfasilitasi distribusi beban jaringan yang lebih baik dan kecepatan unduh yang lebih cepat. Mirror mirrorsync, di sisi lain, adalah salinan semua repositori Arch Linux yang diorganisir oleh repositori utama, yang digunakan untuk memastikan bahwa repositori mirror tetap mutakhir dengan secara otomatis mengelola dan mengisinya.
 
 ## Pendahuluan
 Dalam konteks BlackArch, mirror adalah salinan repositori perangkat lunak BlackArch Linux, yang berisi berbagai alat keamanan dan peretasan. Mirror ini memungkinkan pengguna untuk mengunduh dan menginstal paket BlackArch dengan cepat.

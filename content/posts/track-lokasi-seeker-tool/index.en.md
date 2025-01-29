@@ -5,9 +5,8 @@ date: 2023-09-23
 draft: false
 tags: ["Windows","Linux","ArchLinux", "Hacking"]
 categories: ["Tutorial","OS", "Tools", "Social Engineering"]
+summary: "Seeker Tools and Their Role in Digital Security"
 ---
-
-Seeker Tools and Their Role in Digital Security
 
 ## Seeker?
 

@@ -5,6 +5,7 @@ date: 2023-11-23
 draft: false
 tags: ["Windows","Linux","ArchLinux","Debian","Ubuntu","LinuxMint","Spotify"]
 categories: ["Music","Tools","Tutorial","OS"]
+summary: "Spicetify Tool for Freebie Lovers."
 ---
 
 ![pendahuluan](/posts/spicetify-install/3961-spotify.png "Do you think the official Spotify for Linux client would look better with a major restyle? So did the devs behind customisation tool Spicetify, which can do just that.")

@@ -74,7 +74,7 @@ smartTOCHideUnfocusedChildren = true
   showWordCount = true
   showSummary = true
   showZenMode = true
-  # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  sharingLinks = [ "linkedin", "twitter", "reddit", "facebook", "whatsapp", "telegram"]
 
 [list]
   showHero = false
@@ -147,4 +147,4 @@ smartTOCHideUnfocusedChildren = true
 
 [umamiAnalytics]
   websiteid = "40753570-2c69-4a05-8fb7-13f0b8163a58"
-  # domain = "adilhyz.github.io"
+  domain = "adilhyz.github.io"

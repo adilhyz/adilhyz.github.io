@@ -5,6 +5,7 @@ date: 2023-04-14
 draft: false
 tags: ["Linux","ArchLinux","dotfiles", "bspwm"]
 categories: ["Projects", "OS"]
+summary: "The first dotfiles bspwm I made."
 ---
 
 ![bspwm img](https://raw.githubusercontent.com/adilhyz/arco-bspwm-dotfiles/master/screenshots.jpg)

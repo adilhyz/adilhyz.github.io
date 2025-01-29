@@ -6,6 +6,7 @@ date: 2023-10-22T13:28:35+07:00
 draft: false
 tags: ["Linux","ArchLinux","Kernel","bspwm"]
 categories: ["OS","Tutorial"]
+summary: "Cara Install Arch Linux dari Nol Hingga Siap Pakai dengan Bspwm! Cocok untuk pemula dan pengguna lanjutan yang ingin mencoba Arch Linux dengan Bspwm."
 ---
 
 ![pendahuluan](./pendahuluan.gif "Hai semua, kali ini saya akan mengshare cara menginstal Arch Linux dengan lingkungan desktop bspwm.   juga dibandel oleh btrfs dan snapshots")

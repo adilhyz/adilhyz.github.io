@@ -5,6 +5,7 @@ date: 2023-09-20T22:08:51+07:00
 draft: false
 tags: ["Linux","ArchLinux","dotfiles", "bspwm"]
 categories: ["OS"]
+summary: "Dotfiles Bspwm Simple & Elegant."
 ---
 
 ![](https://raw.githubusercontent.com/adilhyz/dotfiles-v1/master/preview/z.gif)

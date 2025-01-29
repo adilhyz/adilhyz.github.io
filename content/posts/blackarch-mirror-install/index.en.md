@@ -5,6 +5,7 @@ date: 2023-09-22
 draft: false
 tags: ["Linux","ArchLinux","BlackArch","Mirrors"]
 categories: ["Tutorial","OS"]
+summary: "On Arch Linux, mirrors are software package repositories that allow users to download and update software more quickly and stably. Mirrors are spread across various servers around the world, ensuring a more even network load and optimal download speeds."
 ---
 
 ![](/posts/blackarch-mirror-install/already.png)

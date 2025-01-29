@@ -6,6 +6,7 @@ externalUrl: "https://adilhyz.github.io/WebShell"
 draft: false
 tags: ["Backdoor","Hacking"]
 categories: ["Projects","BlackHat", "Tools"]
+summary: "Koleksi webshell mungkin dapat berguna untuk kebutuhan."
 ---
 
 Koleksi Webshell 💥
