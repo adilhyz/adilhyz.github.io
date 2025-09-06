@@ -1,12 +1,56 @@
 @font-face {
-    font-family: 'Baloo Da 2';
-    src: url('/assets/balooda2.woff2') format('woff2');
+    font-family: 'mono';
+    src: url('/assets/mono.woff2') format('woff2');
     font-weight: 100 700;
     font-display: swap;
 }
 
 :root {
-    --primary-color: #6366F1;
+    /* Congo custom */
+    --color-success: 143, 240, 137; 
+    --P_color1: rgba(var(--color-secondary-600));
+    --P_color2: rgba(var(--color-secondary-700));
+    --P_color3: rgba(var(--color-secondary-800));
+    --P_color4: rgba(var(--color-secondary-900));
+    --P_color5: rgba(var(--color-primary-700));
+    --P_color6: rgba(var(--color-primary-900));
+    /* Gray */
+    --color-neutral: rgba(255, 255, 255);
+    --color-neutral-50: rgba(245, 246, 248);
+    --color-neutral-100: rgba(235, 237, 241);
+    --color-neutral-200: rgba(209, 211, 219);
+    --color-neutral-300: rgba(169, 172, 185);
+    --color-neutral-400: rgba(127, 131, 149);
+    --color-neutral-500: rgba(92, 96, 115);
+    --color-neutral-600: rgba(60, 63, 83);
+    --color-neutral-700: rgba(40, 42, 60);
+    --color-neutral-800: rgba(20, 22, 35);
+    --color-neutral-900: rgba(12, 13, 22);
+
+    /* Violet */
+    --color-primary-50: rgba(239, 237, 255);
+    --color-primary-100: rgba(225, 222, 252);
+    --color-primary-200: rgba(202, 194, 250);
+    --color-primary-300: rgba(175, 159, 247);
+    --color-primary-400: rgba(146, 115, 243);
+    --color-primary-500: rgba(119, 85, 237);
+    --color-primary-600: rgba(103, 72, 215);
+    --color-primary-700: rgba(85, 58, 192);
+    --color-primary-800: rgba(69, 47, 162);
+    --color-primary-900: rgba(55, 38, 135);
+
+    /* Fuchsia */
+    --color-secondary-50: rgba(251, 240, 255);
+    --color-secondary-100: rgba(243, 225, 255);
+    --color-secondary-200: rgba(232, 200, 254);
+    --color-secondary-300: rgba(219, 163, 251);
+    --color-secondary-400: rgba(205, 108, 245);
+    --color-secondary-500: rgba(186, 65, 232);
+    --color-secondary-600: rgba(160, 43, 201);
+    --color-secondary-700: rgba(135, 33, 172);
+    --color-secondary-800: rgba(110, 28, 143);
+    --color-secondary-900: rgba(92, 24, 118);
+    --primary-color: var(--color-primary-600);
     --background-dark: #111827;
     --background-light: #F9FAFB;
     --card-bg-dark: rgba(30, 41, 59, 0.8);
@@ -17,13 +61,24 @@
     --text-light: #111827;
     --border-dark: rgba(255, 255, 255, 0.1);
     --border-light: rgba(0, 0, 0, 0.1);
+    /* --color-primary-600: var(--color-primary-600);
+    --background-dark: var(--color-neutral-900);
+    --background-light: var(--color-neutral-50);
+    --card-bg-dark: rgba( var(--color-neutral-800), 0.8 );
+    --card-bg-light: rgba( var(--color-neutral-100), 0.8 );
+    --footer-bg-dark: rgba( var(--color-neutral-700), 0.6 );
+    --footer-bg-light: rgba( var(--color-neutral-200), 0.6 );
+    --text-dark: var(--color-neutral-50);
+    --text-light: var(--color-neutral-900);
+    --border-dark: rgba( var(--color-neutral-50), 0.1 );
+    --border-light: rgba( var(--color-neutral-900), 0.1 ); */
 }
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Baloo Da 2', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-family: 'mono', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
 
@@ -98,9 +153,18 @@ body {
 }
 
 .profile-bio {
+    font-size: 0.85rem;
+    text-align: center;
+    margin-bottom: 0.2rem;
+    max-width: 100%;
+    animation: fadeIn 0.5s ease-out 0.1s both;
+}
+.snake img {
     text-align: center;
     margin-bottom: 1.5rem;
     max-width: 100%;
+    height: auto;
+    display: inline-block;
     animation: fadeIn 0.5s ease-out 0.1s both;
 }
 
@@ -146,7 +210,7 @@ body {
 
 .link-title {
     flex: 1;
-    padding: 0 0.75rem;
+    padding: 0 0.65rem;
     font-weight: 500;
     white-space: nowrap;
     overflow: hidden;
@@ -157,7 +221,7 @@ body {
 }
 
 .photo-credit {
-    font-size: 0.75rem;
+    font-size: 0.65rem;
     opacity: 0.7;
     margin-top: 1rem;
     text-align: center;
@@ -165,7 +229,7 @@ body {
 
 .page-footer {
     width: 100%;
-    padding: 0.75rem 1rem;
+    padding: 0.65rem 1rem;
     border-radius: 0.5rem;
     text-align: center;
     opacity: 0.8;
