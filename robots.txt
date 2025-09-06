@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adilhyz.github.io/sitemap.xml
+Sitemap: https://adilhuz.github.io/blog/sitemap.xml
