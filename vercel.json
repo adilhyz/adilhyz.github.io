@@ -1,0 +1,53 @@
+{
+  "headers": [
+    {
+      "source": "/service-worker.min.js",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
+      ]
+    },
+    {
+      "source": "(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, s-maxage=86400, max-age=86400"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "max-age=3600"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/_/",
+      "destination": "/404.html",
+      "permanent": true
+    },
+    {
+      "source": "/_/page/(.*)",
+      "destination": "/404.html",
+      "permanent": true
+    },
+    {
+      "source": "/posts/d651bdd/",
+      "destination": "/projects/apple-devices-preview/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/3fd72ec/",
+      "destination": "/projects/vercel-gravatar/",
+      "statusCode": 301
+    },
+    {
+      "source": "/posts/fixit-cli/",
+      "destination": "/projects/fixit-cli/",
+      "statusCode": 301
+    }
+  ]
+}
