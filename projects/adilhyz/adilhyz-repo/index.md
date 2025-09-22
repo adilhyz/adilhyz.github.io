@@ -1,7 +1,7 @@
-# binary pkgs 
+# Adilhyz Repo
 
-# [Adilhyz Repository](https://adilhyz.github.io/adilhyz-repo/)
-Adilhyz binary package [(x86_64 package)](https://github.com/ADILHYZ/adilhyz-repo/tree/master/x86_64)
+
+`https://adilhyz.github.io/adilhyz-repo`
 
 ## Package List
 
@@ -13,14 +13,26 @@ Adilhyz binary package [(x86_64 package)](https://github.com/ADILHYZ/adilhyz-rep
 | [cyberfox](https://adilhyz.github.io/adilhyz-repo/x86_64/cyberfox-52.9.1-1-x86_64.pkg.tar.zst)   | 52.9.1-1   |
 
 
-## Binnary Packages?
-Binary packages in Arch Linux are already compiled versions of software. you can simply download, install and get started with the application without the need for manual compilation or configuration. This simplifies software management, making it easier and more efficient.
 
-only works for `Arch Linux` because for my [```dotfiles```](https://adilhyz.github.io/posts/arch-linux-dotfiles/)
+<!--more-->
+
+`Auto Install Repo`：
+
+```bash {title="Open In Terminal"}
+sudo echo -e "\n[adilhyz-repo]\nSigLevel = Optional TrustAll\nServer = http://adilhyz.github.io/adilhyz-repo/x86_64\n" | sudo tee -a /etc/pacman.conf > /dev/null
+```
+
+Or Manual。
+
+```bash {title="/etc/pacman.conf"}
+[adilhyz-repo]
+SigLevel = Optional TrustAll
+Server = http://adilhyz.github.io/adilhyz-repo/x86_64
+```
 
 
 ---
 
-> Penulis: [adilhyz](https://github.com/adilhyz)  
+> Penulis: [Adilhyz](https://github.com/adilhyz)  
 > URL: https://adilhyz.github.io/projects/adilhyz/adilhyz-repo/  
 

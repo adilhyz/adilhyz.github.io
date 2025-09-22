@@ -1,1 +1,36 @@
-{"version":"https://jsonfeed.org/version/1.1","title":"OS - Kategori | Adilhyz — Website","description":"Personal site of Adilhyz — Just People, Linux Enthusiast &amp; Software Engineer. Find me online at adilhyz.github.io。","home_page_url":"http://localhost:1313/","language":"id","icon":"http://localhost:1313/apple-touch-icon.png","favicon":"http://localhost:1313/favicon.ico","authors":[{"name":"Adilhyz","url":"https://github.com/adilhyz","avatar":"http://localhost:1313/images/avatar.jpg"}],"items":[{"title":"Bspwm Dotfiles","date_published":"2023-08-06T20:51:11&#43;07:00","date_modified":"2025-09-22T21:31:02&#43;07:00","id":"http://localhost:1313/projects/adilhyz/dotfiles-v1/","url":"http://localhost:1313/projects/adilhyz/dotfiles-v1/","authors":[{"name":"Adilhyz","url":"https://github.com/adilhyz","avatar":"https://gravatar.loli.net/avatar/d418572bde7f02845dfe189e34579ccb?s=32&amp;d=mp"}],"tags":["Linux","ArchLinux","dotfiles","bspwm"],"image":"https://raw.githubusercontent.com/adilhyz/dotfiles-v1/master/preview/z.gif","summary":" Dotfiles Bspwm! Instalasi Mudah, Berbagai multifungsi。 ","content_html":"\u003cdiv class=\"details admonition success open\"\u003e\n  \u003cdiv class=\"details-summary admonition-title\"\u003e\u003ci class=\"icon fa-fw fa-solid fa-check\" aria-hidden=\"true\"\u003e\u003c/i\u003eDotfiles Bspwm!\u003ci class=\"details-icon fa-solid fa-angle-right fa-fw\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/div\u003e\n  \u003cdiv class=\"details-content\"\u003e\n    \u003cdiv class=\"admonition-content\"\u003eInstalasi Mudah, Berbagai multifungsi。\u003c/div\u003e\n  \u003c/div\u003e\n\u003c/div\u003e"}]}
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "OS - Kategori | Adilhyz — Website",
+  "description": "Personal site of Adilhyz — Just People, Linux Enthusiast &amp; Software Engineer. Find me online at adilhyz.github.io。",
+  "home_page_url": "https://adilhyz.github.io/",
+  "language": "id",
+  "icon": "https://adilhyz.github.io/apple-touch-icon.png",
+  "favicon": "https://adilhyz.github.io/favicon.ico",
+  "authors": [
+    {
+      "name": "Adilhyz",
+      "url": "https://github.com/adilhyz",
+      "avatar": "https://adilhyz.github.io/images/avatar.jpg"
+    }
+  ],
+  "items": [
+    {
+      "title": "Bspwm Dotfiles",
+      "date_published": "2023-08-06T20:51:11&#43;07:00",
+      "date_modified": "2025-09-22T22:17:22&#43;07:00",
+      "id": "https://adilhyz.github.io/projects/adilhyz/dotfiles-v1/",
+      "url": "https://adilhyz.github.io/projects/adilhyz/dotfiles-v1/",
+      "authors": [
+        {
+          "name": "Adilhyz",
+          "url": "https://github.com/adilhyz",
+          "avatar": "https://gravatar.loli.net/avatar/d418572bde7f02845dfe189e34579ccb?s=32&amp;d=mp"
+        }
+      ],
+      "tags": ["Linux","ArchLinux","dotfiles","bspwm"],
+      "image": "https://raw.githubusercontent.com/adilhyz/dotfiles-v1/master/preview/z.gif",
+      "summary": " Dotfiles Bspwm! Instalasi Mudah, Berbagai multifungsi。 ",
+      "content_html": "\u003cdiv class=\"details admonition success open\"\u003e\n  \u003cdiv class=\"details-summary admonition-title\"\u003e\u003ci class=\"icon fa-fw fa-solid fa-check\" aria-hidden=\"true\"\u003e\u003c/i\u003eDotfiles Bspwm!\u003ci class=\"details-icon fa-solid fa-angle-right fa-fw\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/div\u003e\n  \u003cdiv class=\"details-content\"\u003e\n    \u003cdiv class=\"admonition-content\"\u003eInstalasi Mudah, Berbagai multifungsi。\u003c/div\u003e\n  \u003c/div\u003e\n\u003c/div\u003e"
+    }
+  ]
+}
