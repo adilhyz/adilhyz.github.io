@@ -1,41 +1,172 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://adilhyz.github.io/</loc>
-    <lastmod>2025-09-09T00:32:03+07:00</lastmod>
+    <loc>https://adilhyz.github.io/about/</loc>
+    <lastmod>2025-09-22T21:48:32+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/projects/</loc>
-    <lastmod>2025-09-09T00:04:10+07:00</lastmod>
+    <loc>https://adilhyz.github.io/</loc>
+    <lastmod>2025-09-22T21:48:32+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/cv/</loc>
+    <lastmod>2025-09-22T21:24:40+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/resume/</loc>
+    <lastmod>2025-09-22T21:24:55+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://adilhyz.github.io/friends/</loc>
-    <lastmod>2025-09-09T00:32:03+07:00</lastmod>
+    <lastmod>2025-09-09T17:08:21+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/about/</loc>
-    <lastmod>2025-09-09T00:31:31+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://adilhyz.github.io/projects/adilhyz/kasirsan/</loc>
+    <lastmod>2024-03-04T19:13:13+00:00</lastmod>
+    <priority>0</priority>
   </url>
   <url>
     <loc>https://adilhyz.github.io/categories/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://adilhyz.github.io/collections/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/categories/github/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/collections/project/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/projects/adilhyz/adilhyz-repo/</loc>
+    <lastmod>2025-05-28T09:15:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/projects/adilhyz/root-config/</loc>
+    <lastmod>2024-09-20T19:05:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/projects/adilhyz/dotfiles-v1/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/tags/archlinux-dotfiles/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/tags/bspwm/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/tags/bspwm-dotfiles/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/tags/dotfiles/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/tags/dotfiles-install/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/tags/dotfiles-installer/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/tags/dotfiles-linux/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/tags/linux/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/tags/polybar/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/tags/polybar-config/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/tags/shell/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://adilhyz.github.io/tags/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/tags/unixporn/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/tags/zsh/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/tags/zshrc/</loc>
+    <lastmod>2025-09-05T09:05:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/projects/</loc>
+    <lastmod>2025-09-10T05:13:59+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

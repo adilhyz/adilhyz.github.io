@@ -98,9 +98,3 @@ User-agent: ClaudeBot
 Disallow: /
 
 Sitemap: https://adilhyz.github.io/sitemap.xml
-
-User-agent: *
-Allow: /
-
-Sitemap: https://adilhyz.github.io/sitemap.xml
-Sitemap: https://adilhyz.github.io/blog/sitemap.xml
