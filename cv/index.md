@@ -6,5 +6,5 @@
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://adilhyz.github.io/cv/  
+> URL: http://localhost:1313/cv/  
 

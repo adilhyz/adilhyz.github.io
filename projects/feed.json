@@ -2,15 +2,15 @@
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Projects | Adilhyz — Website",
   "description": "Personal site of Adilhyz — Just People, Linux Enthusiast &amp; Software Engineer. Find me online at adilhyz.github.io。",
-  "home_page_url": "https://adilhyz.github.io/",
+  "home_page_url": "http://localhost:1313/",
   "language": "id",
-  "icon": "https://adilhyz.github.io/apple-touch-icon.png",
-  "favicon": "https://adilhyz.github.io/favicon.ico",
+  "icon": "http://localhost:1313/apple-touch-icon.png",
+  "favicon": "http://localhost:1313/favicon.ico",
   "authors": [
     {
       "name": "Adilhyz",
       "url": "https://github.com/adilhyz",
-      "avatar": "https://adilhyz.github.io/images/avatar.jpg"
+      "avatar": "http://localhost:1313/images/avatar.jpg"
     }
   ],
   "items": [
@@ -18,8 +18,8 @@
       "title": "Adilhyz Repo",
       "date_published": "2024-04-17T12:51:35&#43;08:00",
       "date_modified": "2025-09-22T22:17:13&#43;07:00",
-      "id": "https://adilhyz.github.io/projects/adilhyz/adilhyz-repo/",
-      "url": "https://adilhyz.github.io/projects/adilhyz/adilhyz-repo/",
+      "id": "http://localhost:1313/projects/adilhyz/adilhyz-repo/",
+      "url": "http://localhost:1313/projects/adilhyz/adilhyz-repo/",
       "authors": [
         {
           "name": "Adilhyz",
@@ -28,7 +28,7 @@
         }
       ],
       "tags": ["Linux","ArchLinux","dotfiles"],
-      "image": "https://adilhyz.github.io/projects/adilhyz/adilhyz-repo/repo.png",
+      "image": "http://localhost:1313/projects/adilhyz/adilhyz-repo/repo.png",
       "summary": "https://adilhyz.github.io/adilhyz-repo\n3 Package List Package Version adilhyz-cursors 1.1.1 adilhyz-icons 1.1.1 adilhyz-themes 1.1.1 cyberfox 52.9.1-1 ",
       "content_html": "\u003cp\u003e\u003ccode\u003ehttps://adilhyz.github.io/adilhyz-repo\u003c/code\u003e\u003c/p\u003e\n\u003ch2 class=\"heading-element\" id=\"package-list\"\u003e\u003cspan\u003e3 Package List\u003c/span\u003e\n  \u003ca href=\"#package-list\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003ctable\u003e\n  \u003cthead\u003e\n      \u003ctr\u003e\n          \u003cth\u003ePackage\u003c/th\u003e\n          \u003cth\u003eVersion\u003c/th\u003e\n      \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n      \u003ctr\u003e\n          \u003ctd\u003e\u003ca href=\"https://adilhyz.github.io/adilhyz-repo/x86_64/adilhyz-cursors-1.1-1-any.pkg.tar.zst\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003eadilhyz-cursors\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e\u003c/td\u003e\n          \u003ctd\u003e1.1.1\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n          \u003ctd\u003e\u003ca href=\"https://adilhyz.github.io/adilhyz-repo/x86_64/adilhyz-icons-1.1-1-any.pkg.tar.zst\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003eadilhyz-icons\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e\u003c/td\u003e\n          \u003ctd\u003e1.1.1\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n          \u003ctd\u003e\u003ca href=\"https://adilhyz.github.io/adilhyz-repo/x86_64/adilhyz-themes-1.1-1-any.pkg.tar.zst\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003eadilhyz-themes\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e\u003c/td\u003e\n          \u003ctd\u003e1.1.1\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n          \u003ctd\u003e\u003ca href=\"https://adilhyz.github.io/adilhyz-repo/x86_64/cyberfox-52.9.1-1-x86_64.pkg.tar.zst\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003ecyberfox\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e\u003c/td\u003e\n          \u003ctd\u003e52.9.1-1\u003c/td\u003e\n      \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e"
     },
@@ -36,8 +36,8 @@
       "title": "Bspwm Dotfiles",
       "date_published": "2023-08-06T20:51:11&#43;07:00",
       "date_modified": "2025-09-22T22:17:22&#43;07:00",
-      "id": "https://adilhyz.github.io/projects/adilhyz/dotfiles-v1/",
-      "url": "https://adilhyz.github.io/projects/adilhyz/dotfiles-v1/",
+      "id": "http://localhost:1313/projects/adilhyz/dotfiles-v1/",
+      "url": "http://localhost:1313/projects/adilhyz/dotfiles-v1/",
       "authors": [
         {
           "name": "Adilhyz",

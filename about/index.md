@@ -70,5 +70,5 @@ events:
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://adilhyz.github.io/about/  
+> URL: http://localhost:1313/about/  
 

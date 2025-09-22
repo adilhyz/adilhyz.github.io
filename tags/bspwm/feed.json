@@ -2,15 +2,15 @@
   "version": "https://jsonfeed.org/version/1.1",
   "title": "bspwm - Tag | Adilhyz — Website",
   "description": "Personal site of Adilhyz — Just People, Linux Enthusiast &amp; Software Engineer. Find me online at adilhyz.github.io。",
-  "home_page_url": "https://adilhyz.github.io/",
+  "home_page_url": "http://localhost:1313/",
   "language": "id",
-  "icon": "https://adilhyz.github.io/apple-touch-icon.png",
-  "favicon": "https://adilhyz.github.io/favicon.ico",
+  "icon": "http://localhost:1313/apple-touch-icon.png",
+  "favicon": "http://localhost:1313/favicon.ico",
   "authors": [
     {
       "name": "Adilhyz",
       "url": "https://github.com/adilhyz",
-      "avatar": "https://adilhyz.github.io/images/avatar.jpg"
+      "avatar": "http://localhost:1313/images/avatar.jpg"
     }
   ],
   "items": [
@@ -18,8 +18,8 @@
       "title": "Bspwm Dotfiles",
       "date_published": "2023-08-06T20:51:11&#43;07:00",
       "date_modified": "2025-09-22T22:17:22&#43;07:00",
-      "id": "https://adilhyz.github.io/projects/adilhyz/dotfiles-v1/",
-      "url": "https://adilhyz.github.io/projects/adilhyz/dotfiles-v1/",
+      "id": "http://localhost:1313/projects/adilhyz/dotfiles-v1/",
+      "url": "http://localhost:1313/projects/adilhyz/dotfiles-v1/",
       "authors": [
         {
           "name": "Adilhyz",

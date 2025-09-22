@@ -6,5 +6,5 @@
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://adilhyz.github.io/resume/  
+> URL: http://localhost:1313/resume/  
 

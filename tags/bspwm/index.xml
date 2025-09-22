@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bspwm - Tag | Adilhyz — Website</title>
-    <link>https://adilhyz.github.io/tags/bspwm/</link>
+    <link>http://localhost:1313/tags/bspwm/</link>
     <description>Personal site of Adilhyz — Just People, Linux Enthusiast &amp; Software Engineer. Find me online at adilhyz.github.io。</description>
     <generator>Hugo 0.150.0 &amp; FixIt v0.4.0-alpha-20250908085635-fde7e1cf</generator>
     <language>id</language>
@@ -10,13 +10,13 @@
     <webMaster>sandyadilhayyi@gmail.com (Adilhyz)</webMaster>
     <copyright>Karya ini dilisensikan di bawah Lisensi Creative Commons Attribution-NonCommercial 4.0 Internasional.</copyright>
     <lastBuildDate>Mon, 22 Sep 2025 22:17:22 +0700</lastBuildDate>
-    <atom:link href="https://adilhyz.github.io/tags/bspwm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/bspwm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bspwm Dotfiles</title>
-      <link>https://adilhyz.github.io/projects/adilhyz/dotfiles-v1/</link>
+      <link>http://localhost:1313/projects/adilhyz/dotfiles-v1/</link>
       <pubDate>Sun, 06 Aug 2023 20:51:11 +0700</pubDate><author>sandyadilhayyi@gmail.com (Adilhyz)</author>
-      <guid>https://adilhyz.github.io/projects/adilhyz/dotfiles-v1/</guid>
-      <category domain="https://adilhyz.github.io/categories/os/">OS</category>
+      <guid>http://localhost:1313/projects/adilhyz/dotfiles-v1/</guid>
+      <category domain="http://localhost:1313/categories/os/">OS</category>
       <description>&lt;div class=&#34;details admonition success open&#34;&gt;&#xA;  &lt;div class=&#34;details-summary admonition-title&#34;&gt;&lt;i class=&#34;icon fa-fw fa-solid fa-check&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;Dotfiles Bspwm!&lt;i class=&#34;details-icon fa-solid fa-angle-right fa-fw&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/div&gt;&#xA;  &lt;div class=&#34;details-content&#34;&gt;&#xA;    &lt;div class=&#34;admonition-content&#34;&gt;Instalasi Mudah, Berbagai multifungsi。&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>

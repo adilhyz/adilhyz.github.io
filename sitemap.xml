@@ -1,109 +1,109 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://adilhyz.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-09-22T22:18:02+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-09-22T22:18:02+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/cv/</loc>
+    <loc>http://localhost:1313/cv/</loc>
     <lastmod>2025-09-22T21:24:40+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/resume/</loc>
+    <loc>http://localhost:1313/resume/</loc>
     <lastmod>2025-09-22T21:24:55+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/friends/</loc>
+    <loc>http://localhost:1313/friends/</loc>
     <lastmod>2025-09-09T17:08:21+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/projects/adilhyz/adilhyz-repo/</loc>
+    <loc>http://localhost:1313/projects/adilhyz/adilhyz-repo/</loc>
     <lastmod>2025-09-22T22:17:13+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/tags/archlinux/</loc>
+    <loc>http://localhost:1313/tags/archlinux/</loc>
     <lastmod>2025-09-22T22:17:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-09-22T22:17:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/collections/</loc>
+    <loc>http://localhost:1313/collections/</loc>
     <lastmod>2025-09-22T22:17:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/tags/dotfiles/</loc>
+    <loc>http://localhost:1313/tags/dotfiles/</loc>
     <lastmod>2025-09-22T22:17:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/tags/linux/</loc>
+    <loc>http://localhost:1313/tags/linux/</loc>
     <lastmod>2025-09-22T22:17:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/collections/project/</loc>
+    <loc>http://localhost:1313/collections/project/</loc>
     <lastmod>2025-09-22T22:17:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/categories/repo/</loc>
+    <loc>http://localhost:1313/categories/repo/</loc>
     <lastmod>2025-09-22T22:17:13+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-09-22T22:17:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/tags/bspwm/</loc>
+    <loc>http://localhost:1313/tags/bspwm/</loc>
     <lastmod>2025-09-22T22:17:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/projects/adilhyz/dotfiles-v1/</loc>
+    <loc>http://localhost:1313/projects/adilhyz/dotfiles-v1/</loc>
     <lastmod>2025-09-22T22:17:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/categories/os/</loc>
+    <loc>http://localhost:1313/categories/os/</loc>
     <lastmod>2025-09-22T22:17:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2025-09-10T05:13:59+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

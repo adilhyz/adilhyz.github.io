@@ -1,6 +1,6 @@
-https://adilhyz.github.io/about/
-https://adilhyz.github.io/cv/
-https://adilhyz.github.io/resume/
-https://adilhyz.github.io/friends/
-https://adilhyz.github.io/projects/adilhyz/adilhyz-repo/
-https://adilhyz.github.io/projects/adilhyz/dotfiles-v1/
+http://localhost:1313/about/
+http://localhost:1313/cv/
+http://localhost:1313/resume/
+http://localhost:1313/friends/
+http://localhost:1313/projects/adilhyz/adilhyz-repo/
+http://localhost:1313/projects/adilhyz/dotfiles-v1/
