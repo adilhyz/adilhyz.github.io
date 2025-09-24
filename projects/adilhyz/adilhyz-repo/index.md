@@ -1,7 +1,7 @@
 # Adilhyz Repo
 
 
-`https://adilhyz.github.io/adilhyz-repo`
+[**`https://adilhyz.github.io/adilhyz-repo`**](https://adilhyz.github.io/adilhyz-repo)
 
 ## Package List
 
@@ -34,5 +34,5 @@ Server = http://adilhyz.github.io/adilhyz-repo/x86_64
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: http://localhost:1313/projects/adilhyz/adilhyz-repo/  
+> URL: https://adilhyz.github.io/projects/adilhyz/adilhyz-repo/  
 

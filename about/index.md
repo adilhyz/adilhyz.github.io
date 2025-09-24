@@ -9,7 +9,7 @@ Nishimura Kazuto
 
 Saya Sanrei, seorang pegiat *GNU/Linux*, Gemar mempelajari komputasi, keamanan siber, mendengar musik, menonton film, dan membaca.
 
-> Kenapa ada _***[adilhyz.github.io](https://adilhyz.github.io)***_。
+> Kenapa ada _***[adilhyz.github.io](adilhyz.github.io)***_。
 
 Akhir akhir ini, berkali-kali saya mengalami kasus yang dimana akun saya di tandai dan dibatasi oleh bot, karena saya menggunakan website hugo yang diduga spam, namun saya bersyukur kini berhasil kembali setelah beberapa penolakan kompensasi dan akhirnya kembali juga.
 
@@ -47,28 +47,27 @@ events:
 ```
 {{< /details >}}
 
-## Sistem yang Saya gunakan
-> [!info] Fetch System
->
->``` shell {title="neofetch"}
+## Sistem Yang Saya Gunakan
+
+> [!NOTE] Fetch System
+> ``` shell {title="neofetch"}
 >       /\         sanrei@adilhyz
 >      /  \        OS: Arch
 >     /\   \       Packages: (pacman)
 >    /      \      Shell: zsh
 >   /   ,,   \     WM: bspwm, hyprland
->  /   |  |  -\    Kernel: 6.15.x Arch / zen2-1-zen
->/_-''    ''-_\   Memory: 11777MiB (12Gib)
->```
+>  /   |  |  -\    Kernel: 6.16.x Arch / zen1-1-zen
+> /_-''    ''-_\   Memory: 11777MiB (12Gib)
+> ```
 
 ---
 
 {{< busuanzi_embed >}}
 
-<!-- markdownlint-disable-file -->
-
+<!-- markdownlint-disable-file MD004 MD007 MD032 MD036 -->
 
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: http://localhost:1313/about/  
+> URL: https://adilhyz.github.io/about/  
 
