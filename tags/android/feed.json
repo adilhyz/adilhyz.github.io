@@ -1,0 +1,36 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Android - Tag | Adilhyz — Website",
+  "description": "Personal site of Adilhyz — Just People, Linux Enthusiast &amp; Software Engineer. Find me online at adilhyz.github.io。",
+  "home_page_url": "https://adilhyz.github.io/",
+  "language": "id",
+  "icon": "https://adilhyz.github.io/apple-touch-icon.png",
+  "favicon": "https://adilhyz.github.io/favicon.ico",
+  "authors": [
+    {
+      "name": "Adilhyz",
+      "url": "https://github.com/adilhyz",
+      "avatar": "https://adilhyz.github.io/images/aing.png"
+    }
+  ],
+  "items": [
+    {
+      "title": "Android Adalah Linux?",
+      "date_published": "2025-06-29T16:35:53&#43;07:00",
+      "date_modified": "2025-09-26T19:17:27&#43;07:00",
+      "id": "https://adilhyz.github.io/posts/android-linux/",
+      "url": "https://adilhyz.github.io/posts/android-linux/",
+      "authors": [
+        {
+          "name": "Adilhyz",
+          "url": "https://github.com/adilhyz",
+          "avatar": "https://gravatar.loli.net/avatar/d418572bde7f02845dfe189e34579ccb?s=32&amp;d=wavatar"
+        }
+      ],
+      "tags": ["Android","Kernel","Open Source"],
+      "image": "https://adilhyz.github.io/posts/android-linux/featured.png",
+      "summary": "Android Ya, Android memanglah populer dikalangan pengguna smartphone, data menunjukan bahwa Android menduduki peringkat pertama pengguna smartphone terbanyak di Dunia. Android merupakan sistem operasi sumber terbuka yang dikembangkan oleh Google dan Open Handset Alliance. Android dirancang untuk perangkat ponsel pintar dan tablet.\n",
+      "content_html": "\u003ch2 class=\"heading-element\" id=\"android\"\u003e\u003cspan\u003eAndroid\u003c/span\u003e\n  \u003ca href=\"#android\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003eYa, Android memanglah populer dikalangan pengguna smartphone, \u003ca href=\"https://gs.statcounter.com/os-market-share/mobile/worldwide\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003edata\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e menunjukan bahwa Android menduduki peringkat pertama pengguna smartphone terbanyak di Dunia. Android merupakan sistem operasi sumber terbuka yang dikembangkan oleh \u003ca href=\"https://www.android.com/\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003eGoogle\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e dan \u003ca href=\"https://www.openhandsetalliance.com/android_overview.html\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003eOpen Handset Alliance\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e.  Android dirancang untuk perangkat ponsel pintar dan tablet.\u003c/p\u003e"
+    }
+  ]
+}
