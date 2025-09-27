@@ -73,7 +73,7 @@ sudo pacman -S cyberfox
 ```
 
 > [!SUCCESS] Selesai
-> Setelah Instalasi Firefox Menggunakan mirror [adilhyz-repo](/projects/adilhyz/adilhyz-repo/) Cyberfox Siap Di Jalankan.
+> Setelah Instalasi CyberFox Menggunakan mirror [adilhyz-repo](/projects/adilhyz/adilhyz-repo/) Cyberfox Siap Di Jalankan.
 
 
 #### Debian based

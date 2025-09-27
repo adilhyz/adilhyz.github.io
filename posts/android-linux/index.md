@@ -5,8 +5,8 @@
 
 Ya, Android memanglah populer dikalangan pengguna smartphone, [data](https://gs.statcounter.com/os-market-share/mobile/worldwide) menunjukan bahwa Android menduduki peringkat pertama pengguna smartphone terbanyak di Dunia. Android merupakan sistem operasi sumber terbuka yang dikembangkan oleh [Google](https://www.android.com/) dan [Open Handset Alliance](https://www.openhandsetalliance.com/android_overview.html).  Android dirancang untuk perangkat ponsel pintar dan tablet. 
 
-> [!QUESTION]+ Apa hubungan Android dengan kernel Linux 
-> *Ya, **Kernel Linux** menjadi pondasi Android.* tetapi bukan merupakan **distribusi Linux**. Sebaliknya, Android adalah sebuah runtime berbasis Java yang berjalan di atas **Kernel Linux** dan memiliki arsitektur serta komponen yang berbeda dari sistem operasi *GNU/Linux* pada umumnya.
+> [!QUESTION]+ Apa hubungan Android dengan kernel Linux
+> **Kernel Linux** menjadi pondasi Android.* tetapi bukan merupakan **distribusi Linux**. Sebaliknya, Android adalah sebuah runtime berbasis Java yang berjalan di atas **Kernel Linux** dan memiliki arsitektur serta komponen yang berbeda dari sistem operasi *GNU/Linux* pada umumnya.
 
 Android tidak bisa disebut sebagai distribusi Linux, karena Perbedaan utama terletak pada lapisan atas sistem pengguna dan lingkungan runtime yang sangat berbeda dari distribusi Linux:
 
