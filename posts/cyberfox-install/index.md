@@ -84,7 +84,7 @@ sudo pacman -S cyberfox
 
 ## Run CyberFox
 
-{{< image src="awal.png" width="530px" caption="Jalankan CyberFox" >}}
+{{< image src="awal.webp" width="530px" caption="Jalankan CyberFox" >}}
 
 
 Setelah [Instalasi](#download) CyberFox, untuk pertama kali kita ditampilkan untuk mengkustom tampilan awal, silahkan isi sesuai selera masing-masing. Setelah di pilih, lanjut menginstall Ekstensi terlebih dahulu.
@@ -107,7 +107,7 @@ Setelah [Instalasi](#download) CyberFox, untuk pertama kali kita ditampilkan unt
 Sesudah Menginstall ekstensi HackBar, kemudian restore backup ke Tools lalu pilih Ikon settings dan file Import File [.json](https://github.com/adilhyz/EXT/raw/refs/heads/main/HackbarGweh.json)
 
 {{< image src="impor.gif" class="grid-w70" width="530px" caption="Pilih Backup [**HackbarGweh.json**](https://github.com/adilhyz/EXT/raw/refs/heads/main/HackbarGweh.json)" >}}
-{{< image src="akhira.png" class="grid-w70" width="530px" caption="Dan Ya, Cyberfox sudah siap untuk Pentesting" >}}
+{{< image src="akhira.webp" class="grid-w70" width="530px" caption="Dan Ya, Cyberfox sudah siap untuk Pentesting" >}}
 
 
 ## FAQ

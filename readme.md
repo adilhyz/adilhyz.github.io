@@ -2,7 +2,7 @@
 
 > Personal site of Adilhyz — Just People, Linux Enthusiast & Software Engineer. Find me online at adilhyz.github.io。
 
-Total 4 artikel by [Adilhyz](https://github.com/adilhyz).
+Total 5 artikel by [Adilhyz](https://github.com/adilhyz).
 
 ## 2025
 
@@ -26,8 +26,9 @@ Total 4 artikel by [Adilhyz](https://github.com/adilhyz).
 ## 2023
 
 <details>
-<summary>Total 1 artikel</summary>
+<summary>Total 2 artikel</summary>
 
+- 11-23 [Spicetify Tool Untuk Spotify Premium](https://adilhyz.github.io/posts/spicetify-install/ "2023-11-23 16:35:53")
 - 08-06 [Bspwm Dotfiles](https://adilhyz.github.io/projects/adilhyz/dotfiles-v1/ "2023-08-06 20:51:11")
 
 </details>

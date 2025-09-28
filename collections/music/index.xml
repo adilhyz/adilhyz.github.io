@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music - Koleksi | Adilhyz — Website</title>
+    <link>https://adilhyz.github.io/collections/music/</link>
+    <description>Personal site of Adilhyz — Just People, Linux Enthusiast &amp; Software Engineer. Find me online at adilhyz.github.io。</description>
+    <generator>Hugo 0.150.0 &amp; FixIt v0.4.0-alpha.1</generator>
+    <language>id</language>
+    <managingEditor>sandyadilhayyi@gmail.com (Adilhyz)</managingEditor>
+    <webMaster>sandyadilhayyi@gmail.com (Adilhyz)</webMaster>
+    <copyright>Karya ini dilisensikan di bawah Lisensi Creative Commons Attribution-NonCommercial 4.0 Internasional.</copyright>
+    <lastBuildDate>Sun, 28 Sep 2025 20:32:25 +0700</lastBuildDate>
+    <atom:link href="https://adilhyz.github.io/collections/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spicetify Tool Untuk Spotify Premium</title>
+      <link>https://adilhyz.github.io/posts/spicetify-install/</link>
+      <pubDate>Thu, 23 Nov 2023 16:35:53 +0700</pubDate><author>sandyadilhayyi@gmail.com (Adilhyz)</author>
+      <guid>https://adilhyz.github.io/posts/spicetify-install/</guid>
+      <category domain="https://adilhyz.github.io/categories/audio/">Audio</category>
+      <description>&lt;h2 class=&#34;heading-element&#34; id=&#34;spotify&#34;&gt;&lt;span&gt;Spotify&lt;/span&gt;&#xA;  &lt;a href=&#34;#spotify&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Spotify&lt;/strong&gt; adalah salah satu pemutar musik online paling populer. Namun, Pengguna biasa sering diganggu oleh &lt;u&gt;iklan yang berkepanjangan&lt;/u&gt;. lagi asik-asiknya dengerin musik, eh tiba-tiba nongol iklan. Kalau begini terus basmi saja semuanya.&lt;/p&gt;&#xA;&lt;!-- &lt;a class=&#34;lightgallery&#34; href=&#34;./3961-spotify.png&#34; title=&#34;Spotify&#34; data-thumbnail=&#34;./3961-spotify.png&#34; data-sub-html=&#34;&lt;h2&gt;Spotify&lt;/h2&gt;&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#39;./3961-spotify.png&#39; alt=&#34;Spotify&#34;&gt;&lt;/a&gt; --&gt;&#xA;&lt;div class=&#34;alert alert-note&#34;&gt;&lt;p class=&#34;alert-title&#34;&gt;&lt;svg class=&#34;icon&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34; height=&#34;16&#34;&gt;&lt;path d=&#34;M0 8a8 8 0 1116 0A8 8 0 010 8zm8-6.5a6.5 6.5.0 100 13 6.5 6.5.0 000-13zM6.5 7.75A.75.75.0 017.25 7h1a.75.75.0 01.75.75v2.75h.25a.75.75.0 010 1.5h-2a.75.75.0 010-1.5h.25v-2h-.25a.75.75.0 01-.75-.75zM8 6a1 1 0 110-2 1 1 0 010 2z&#34;/&gt;&lt;/svg&gt;Catatan&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

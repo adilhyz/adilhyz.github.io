@@ -5,4 +5,5 @@ https://adilhyz.github.io/friends/
 https://adilhyz.github.io/posts/android-linux/
 https://adilhyz.github.io/posts/cyberfox-install/
 https://adilhyz.github.io/projects/adilhyz/adilhyz-repo/
+https://adilhyz.github.io/posts/spicetify-install/
 https://adilhyz.github.io/projects/adilhyz/dotfiles-v1/
