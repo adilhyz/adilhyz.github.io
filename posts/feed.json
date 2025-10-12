@@ -15,6 +15,24 @@
   ],
   "items": [
     {
+      "title": "Instalasi Arch Linux Full Dengan Bspwm",
+      "date_published": "2025-10-12T21:17:54&#43;07:00",
+      "date_modified": "2025-10-13T00:28:11&#43;07:00",
+      "id": "https://adilhyz.github.io/posts/arch-linux-full-install-with-bspwm/",
+      "url": "https://adilhyz.github.io/posts/arch-linux-full-install-with-bspwm/",
+      "authors": [
+        {
+          "name": "Adilhyz",
+          "url": "https://github.com/adilhyz",
+          "avatar": "https://adilhyz.github.io/images/aing.png"
+        }
+      ],
+      "tags": ["ArchLinux","Linux","bspwm","kernel"],
+      "image": "https://adilhyz.github.io/posts/arch-linux-full-install-with-bspwm/featured.png",
+      "summary": "Arch Linux Hai semua, kali ini saya akan mengshare, cara menginstal Arch Linux dengan Window Manager bspwm. File sistemnya btrfs, Ada dua Opsi untuk instalasi Arch Linux Yaitu Otomatis dengan archinstall Dan Manual.\nCatatan\n",
+      "content_html": "\u003ch2 class=\"heading-element\" id=\"arch-linux\"\u003e\u003cspan\u003eArch Linux\u003c/span\u003e\n  \u003ca href=\"#arch-linux\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003eHai semua, kali ini saya akan mengshare, cara menginstal \u003cstrong\u003eArch Linux\u003c/strong\u003e dengan Window Manager \u003cstrong\u003ebspwm\u003c/strong\u003e. File sistemnya \u003cstrong\u003ebtrfs\u003c/strong\u003e, Ada dua Opsi untuk instalasi \u003cstrong\u003eArch Linux\u003c/strong\u003e Yaitu Otomatis dengan \u003ca href=\"https://wiki.archlinux.org/title/Archinstall\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003earchinstall\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e Dan Manual.\u003c/p\u003e\n\u003cdiv class=\"alert alert-note\"\u003e\u003cp class=\"alert-title\"\u003e\u003csvg class=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\" width=\"16\" height=\"16\"\u003e\u003cpath d=\"M0 8a8 8 0 1116 0A8 8 0 010 8zm8-6.5a6.5 6.5.0 100 13 6.5 6.5.0 000-13zM6.5 7.75A.75.75.0 017.25 7h1a.75.75.0 01.75.75v2.75h.25a.75.75.0 010 1.5h-2a.75.75.0 010-1.5h.25v-2h-.25a.75.75.0 01-.75-.75zM8 6a1 1 0 110-2 1 1 0 010 2z\"/\u003e\u003c/svg\u003eCatatan\u003c/p\u003e"
+    },
+    {
       "title": "Android Adalah Linux?",
       "date_published": "2025-06-29T16:35:53&#43;07:00",
       "date_modified": "2025-09-28T00:05:06&#43;07:00",
@@ -35,7 +53,7 @@
     {
       "title": "Instalasi Cyberfox untuk Penetration Testing",
       "date_published": "2025-05-29T16:35:53&#43;07:00",
-      "date_modified": "2025-09-28T20:35:47&#43;07:00",
+      "date_modified": "2025-09-28T20:43:47&#43;07:00",
       "id": "https://adilhyz.github.io/posts/cyberfox-install/",
       "url": "https://adilhyz.github.io/posts/cyberfox-install/",
       "authors": [
@@ -53,7 +71,7 @@
     {
       "title": "Spicetify Tool Untuk Spotify Premium",
       "date_published": "2023-11-23T16:35:53&#43;07:00",
-      "date_modified": "2025-09-28T20:32:25&#43;07:00",
+      "date_modified": "2025-10-13T00:11:04&#43;07:00",
       "id": "https://adilhyz.github.io/posts/spicetify-install/",
       "url": "https://adilhyz.github.io/posts/spicetify-install/",
       "authors": [

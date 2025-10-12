@@ -4,13 +4,21 @@
     <title>bspwm - Tag | Adilhyz — Website</title>
     <link>https://adilhyz.github.io/tags/bspwm/</link>
     <description>Personal site of Adilhyz — Just People, Linux Enthusiast &amp; Software Engineer. Find me online at adilhyz.github.io。</description>
-    <generator>Hugo 0.150.0 &amp; FixIt v0.4.0-alpha.1</generator>
+    <generator>Hugo 0.151.0 &amp; FixIt v0.4.0-alpha.1</generator>
     <language>id</language>
     <managingEditor>sandyadilhayyi@gmail.com (Adilhyz)</managingEditor>
     <webMaster>sandyadilhayyi@gmail.com (Adilhyz)</webMaster>
     <copyright>Karya ini dilisensikan di bawah Lisensi Creative Commons Attribution-NonCommercial 4.0 Internasional.</copyright>
-    <lastBuildDate>Fri, 26 Sep 2025 19:06:52 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 00:28:11 +0700</lastBuildDate>
     <atom:link href="https://adilhyz.github.io/tags/bspwm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalasi Arch Linux Full Dengan Bspwm</title>
+      <link>https://adilhyz.github.io/posts/arch-linux-full-install-with-bspwm/</link>
+      <pubDate>Sun, 12 Oct 2025 21:17:54 +0700</pubDate><author>sandyadilhayyi@gmail.com (Adilhyz)</author>
+      <guid>https://adilhyz.github.io/posts/arch-linux-full-install-with-bspwm/</guid>
+      <category domain="https://adilhyz.github.io/categories/os/">OS</category>
+      <description>&lt;h2 class=&#34;heading-element&#34; id=&#34;arch-linux&#34;&gt;&lt;span&gt;Arch Linux&lt;/span&gt;&#xA;  &lt;a href=&#34;#arch-linux&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&lt;p&gt;Hai semua, kali ini saya akan mengshare, cara menginstal &lt;strong&gt;Arch Linux&lt;/strong&gt; dengan Window Manager &lt;strong&gt;bspwm&lt;/strong&gt;. File sistemnya &lt;strong&gt;btrfs&lt;/strong&gt;, Ada dua Opsi untuk instalasi &lt;strong&gt;Arch Linux&lt;/strong&gt; Yaitu Otomatis dengan &lt;a href=&#34;https://wiki.archlinux.org/title/Archinstall&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;archinstall&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt; Dan Manual.&lt;/p&gt;&#xA;&lt;div class=&#34;alert alert-note&#34;&gt;&lt;p class=&#34;alert-title&#34;&gt;&lt;svg class=&#34;icon&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34; height=&#34;16&#34;&gt;&lt;path d=&#34;M0 8a8 8 0 1116 0A8 8 0 010 8zm8-6.5a6.5 6.5.0 100 13 6.5 6.5.0 000-13zM6.5 7.75A.75.75.0 017.25 7h1a.75.75.0 01.75.75v2.75h.25a.75.75.0 010 1.5h-2a.75.75.0 010-1.5h.25v-2h-.25a.75.75.0 01-.75-.75zM8 6a1 1 0 110-2 1 1 0 010 2z&#34;/&gt;&lt;/svg&gt;Catatan&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Bspwm Dotfiles</title>
       <link>https://adilhyz.github.io/projects/adilhyz/dotfiles-v1/</link>

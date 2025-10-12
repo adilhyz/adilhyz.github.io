@@ -41,7 +41,7 @@ Sumedang 45371, West Java | sandyadilhayyi@gmail.com | https://adilhyz.github.io
 >{{< admonition type=quote title="`NOVEMBER 2024 - APRIL 2025`" open=true >}}
 >{{< image src="im.png" alt="IM Japan" >}}
 >
-> IM JAPAN | APPRENTICESHIP
+> IM JAPAN | JOB TRAINING
 > {{< /admonition >}}
 > - Japanese work ethic
 > - Thoroughly studying Tobi's manufacturing work

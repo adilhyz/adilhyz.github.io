@@ -2,13 +2,14 @@
 
 > Personal site of Adilhyz — Just People, Linux Enthusiast & Software Engineer. Find me online at adilhyz.github.io。
 
-Total 5 artikel by [Adilhyz](https://github.com/adilhyz).
+Total 6 artikel by [Adilhyz](https://github.com/adilhyz).
 
 ## 2025
 
 <details open>
-<summary>Total 2 artikel</summary>
+<summary>Total 3 artikel</summary>
 
+- 10-12 [Instalasi Arch Linux Full Dengan Bspwm](https://adilhyz.github.io/posts/arch-linux-full-install-with-bspwm/ "2025-10-12 21:17:54")
 - 06-29 [Android Adalah Linux?](https://adilhyz.github.io/posts/android-linux/ "2025-06-29 16:35:53")
 - 05-29 [Instalasi Cyberfox untuk Penetration Testing](https://adilhyz.github.io/posts/cyberfox-install/ "2025-05-29 16:35:53")
 

@@ -9,11 +9,24 @@ Nishimura Kazuto
 
 Saya Sanrei, seorang pegiat *GNU/Linux*, Gemar mempelajari komputasi, keamanan siber, mendengar musik, menonton film, dan membaca.
 
-> Kenapa ada _***[adilhyz.github.io](adilhyz.github.io)***_。
+> [!question] Kenapa ada _***[adilhyz.github.io](adilhyz.github.io)***_。
+> Seringkali hal yang jarang dilakukan mudah terlupakan. Maka dibangunlah situs ini untuk membantu merawat ingatan. Namun jika suatu saat ternyata bisa membantu orang lain, anggaplah itu sebagai keberkahan ilmu, `Sebab ilmu sejatinya mengalir jangan sampai berhenti di kamu`
 
-Akhir akhir ini, berkali-kali saya mengalami kasus yang dimana akun saya di tandai dan dibatasi oleh bot, karena saya menggunakan website hugo yang diduga spam, namun saya bersyukur kini berhasil kembali setelah beberapa penolakan kompensasi dan akhirnya kembali juga.
+## Apakah ini Gratis dan Open-Source?
 
-Seringkali hal yang jarang dilakukan mudah terlupakan. Maka dibangunlah situs ini untuk membantu merawat ingatan. Namun jika suatu saat ternyata bisa membantu orang lain, anggaplah itu sebagai keberkahan ilmu, `Sebab ilmu sejatinya mengalir jangan sampai berhenti di kamu`
+Ya, tentu saja website ini ditenagai oleh Github Pages yang 100% Gratis. jika anda mempunyai Akun GitHub Anda bisa membuat Portfolio sederhana dengan Hugo, dan banyak tema populer yang saya gunakan yaitu [FixIt](https://fixit.lruihao.cn/) by [Lruihao](https://github.com/Lruihao/).
+
+
+{{< details "Perjalanan Web Ini" >}}
+```timeline {reverse=true, animation=true, height="280px"}
+events:
+  - timestamp: 2023-08-20 08:13:51
+    content: Membuat repo GitHub Pages lama。
+```
+{{< /details >}}
+
+> [!note]
+> Akhir akhir ini, berkali-kali saya mengalami kasus yang dimana akun saya di tandai dan dibatasi oleh bot, karena saya menggunakan website hugo yang diduga spam, namun saya bersyukur kini berhasil kembali setelah beberapa penolakan kompensasi dan akhirnya kembali juga.
 
 - 🫶 [Dotfiles Arch Linux](https://github.com/dotfiles-v1)
 
@@ -34,18 +47,6 @@ class Blog {
 const site = new Blog('Sanrei', 'Adilhyz', 'https://adilhyz.github.io');
 {{< /typeit >}}
 {{< /style >}}
-
-## Apakah ini Gratis dan Open-Source?
-
-Ya, tentu saja website ini ditenagai oleh Github Pages yang 100% Gratis. jika anda mempunyai Akun GitHub Anda bisa membuat Portfolio sederhana dengan Hugo, dan banyak tema populer yang saya gunakan yaitu [FixIt](https://fixit.lruihao.cn/) by [Lruihao](https://github.com/Lruihao/).
-
-{{< details "Perjalanan Web Ini" >}}
-```timeline {reverse=true, animation=true, height="280px"}
-events:
-  - timestamp: 2023-08-20 08:13:51
-    content: Membuat repo GitHub Pages lama。
-```
-{{< /details >}}
 
 ## Sistem Yang Saya Gunakan
 

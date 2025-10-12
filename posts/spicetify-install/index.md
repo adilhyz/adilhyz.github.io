@@ -159,7 +159,7 @@ Kalau `fedora` masih bisa, sama seperti [Debian Based](#12-debian-based).
 {{< image src="marketplace.webp" caption="[spicetify marketplace](https://github.com/spicetify/marketplace)" width="570px">}}
 
 > [!TIP]
-> Saya sarankan untuk segera menginstall **Adblock** segera untuk membasi iklan berkepanjangan.
+> Saya sarankan untuk segera menginstall **Adblock** segera untuk membasmi iklan berkepanjangan.
 
 Disini kita Disajikan dengan UI Yang Ramah Pengguna. Ekstensi, Tema, Snippet, Dan juga Apps. Penting bahwa semua ini gratis tidak ada biaya tambahan sedikit pun. Semoga informasi ini bermanfaat dalam memaksimalkan Pengalaman mendengarkan musik Anda
 

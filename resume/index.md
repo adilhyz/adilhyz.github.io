@@ -19,7 +19,7 @@
 >{{< admonition type=quote title="`NOVEMBER 2024 - APRIL 2025`" open=true >}}
 >{{< image src="/cv/im.png" alt="IM Japan" >}}
 >
-> IM JAPAN | ***APPRENTICESHIP***
+> IM JAPAN | ***JOB TRAINING***
 > - Japanese work ethic
 > - Thoroughly studying Tobi's manufacturing work
 > - Adapts to FMD (Physical, Mental, Discipline)

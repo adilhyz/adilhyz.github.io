@@ -1,4 +1,5 @@
 https://adilhyz.github.io/about/
+https://adilhyz.github.io/posts/arch-linux-full-install-with-bspwm/
 https://adilhyz.github.io/resume/
 https://adilhyz.github.io/cv/
 https://adilhyz.github.io/friends/
