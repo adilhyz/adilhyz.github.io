@@ -1,4 +1,4 @@
-# Tomodachi
+# Teman
 
 
 {{< busuanzi_embed false "本页共 " >}}
