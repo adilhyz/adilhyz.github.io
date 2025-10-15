@@ -1,4 +1,5 @@
 https://adilhyz.github.io/about/
+https://adilhyz.github.io/posts/ai-gantikan-stackoverflow/
 https://adilhyz.github.io/disclaimer/
 https://adilhyz.github.io/privacy/
 https://adilhyz.github.io/posts/arch-linux-full-install-with-bspwm/
