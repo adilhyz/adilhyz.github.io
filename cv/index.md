@@ -63,6 +63,7 @@ Sumedang 45371, West Java | sandyadilhayyi@gmail.com | https://adilhyz.github.io
 https://adilhyz.github.io
 {{< /qr >}} -->
 
+
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  

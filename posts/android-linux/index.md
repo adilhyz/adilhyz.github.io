@@ -76,7 +76,7 @@ Meskipun Tidak semua perubahan kontribusi di merge kembali ke kernel utama Linux
 
 Beberapa celah kerentanan seperti <abbr title="Dirty Copy-On-Write">Dirty COW</abbr> masih bisa mengancam Android lawas
 
-{{< image src="DirtyCow.svg.png" caption="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/DirtyCow.svg/250px-DirtyCow.svg.png" >}}
+{{< image src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/DirtyCow.svg/250px-DirtyCow.svg.png" caption="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/DirtyCow.svg/250px-DirtyCow.svg.png" >}}
 
 Kerentanan yang dieksploitasi secara aktif setidaknya sejak *Oktober 2016* silam. bahwa memang masih rentan terhadap Kerentanan telah ada di kernel Linux sejak versi **2.6.22** yang dirilis pada *September 2007*
 
@@ -117,6 +117,7 @@ Kerentanan telah di Patch pada kernel Linux versi **4.8.3**, **4.7.9**, **4.4.26
 > [!IMPORTANT]
 > Secara bawaan tidak bisa. Namun, dengan akses root device atau tools seperti Termux, Linux Deploy, atau `proot`, Android bisa menjalankan lingkungan Linux (seperti Arch, Ubuntu). Tapi, ini bersifat terbatas dan tidak sama dengan pengalaman desktop asli.
 {{< /details >}}
+
 
 ---
 

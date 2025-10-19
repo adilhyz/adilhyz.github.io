@@ -67,6 +67,7 @@ const site = new Blog('Sanrei', 'Adilhyz', 'https://adilhyz.github.io');
 
 <!-- markdownlint-disable-file MD004 MD007 MD032 MD036 -->
 
+
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
