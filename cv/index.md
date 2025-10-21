@@ -8,32 +8,24 @@ Sumedang 45371, West Java | sandyadilhayyi@gmail.com | https://adilhyz.github.io
 {{< /typeit >}}
 {{< /center-quote >}}
 
-## EDUCATION 
-<!-- > [!INFO] `2011 - 2024` -->
-```timeline {reverse=true, animation=true}
- events:
-    - timestamp: 2021 - 2024
-      content: SMKN SITURAJA | `SOFTWARE ENGINEER`
-      type: success
-      size: large
-    - timestamp: 2021
-      content: SMAN SITURAJA | `SOCIAL STUDIES`
-```
+# PROFILE
 
-## LANGUAGES
+Software Engineer & Linux Enthusiast fast-growing experience in web development, Modification linux dotfiles, see my [Projects](https://adilhyz.github.io/projects) to details.
 
-- Basa Sunda: Daily Languages
-- Bahasa Indonesia: Second Languages
-- 日本語: Daisuki Nihon-go
-- English: Little Bit
+# SKILLS
 
-## COMPETETION
+- Operating System: Arch Linux `Bspwm/Hyprland`, Windows 11 `LTSC`
+- Back-end Development: `JAVA`, `PHP`, `SQL`, `Laravel`, `Node.js`
+- Front-end Development: `HTML`, `CSS`, `JavaScript`
+- Tools: `Hugo`, `Neovim`
+- Version Control: `Git`
 
-- Linux Enthusiast (Arch Linux `Bspwm`/`Hyprland`)
-- Programmation Oriented Objets `Java`
-- Shell Script `Bash`
-- Database Connection `SQL`
-- Developments WEB, SSG (`HUGO`, `GO`) + CMS (`HTML`/`CSS`, `PHP`, `JS`, DataTables+Editor…)
+# LANGUAGES
+
+- Daily Languages: Basa Sunda
+- Native Languages: Bahasa Indonesia
+- Preferred Languages: 日本語
+- Formal Languages: English
 
 ## EXPERIENCE
 
@@ -54,14 +46,26 @@ Sumedang 45371, West Java | sandyadilhayyi@gmail.com | https://adilhyz.github.io
 > PT SAWARGA DIGITAL INDONESIA | SOFTWARE DEVELOPMENT
 > {{< /admonition >}}
 >
-> - Analyze, design, and install framework needs in build up App, products, schools, government, etc.
 > - Engineer on Website
+> - Analyze, design, and install framework needs in build up App, products, schools, government, etc.
 > - DevOps a Aplikasi Kasir, (Cashier App), Web Testing Simasko App.
-<br>
 
-<!-- {{< qr >}}
-https://adilhyz.github.io
-{{< /qr >}} -->
+## EDUCATION 
+<!-- > [!INFO] `2011 - 2024` -->
+```timeline {reverse=true, animation=true}
+ events:
+    - timestamp: 2021 - 2024
+      content: SMKN SITURAJA | `SOFTWARE ENGINEER`
+      type: success
+      size: large
+    - timestamp: 2021
+      content: SMAN SITURAJA | `SOCIAL STUDIES`
+```
+
+
+<!-- {{< qr >}} -->
+<!-- https://tako.id/adilhyz -->
+<!-- {{< /qr >}} -->
 
 
 ---

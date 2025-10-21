@@ -5,10 +5,10 @@
 
 Oke kali ini saya akan sharing bagaimana cara memainkan game Roblox di Linux.
 
->[!roblox] Roblox
+> [!roblox] Roblox
 > Sebenarnya, untuk Roblox sendiri belum ada versi native-nya di Linux.
 Jadi, untuk memainkannya dibutuhkan aplikasi pihak ketiga.
-Salah satu yang cukup stabil saat ini adalah Sober,
+Salah satu yang cukup stabil saat ini adalah Sober.
 
 jadi di tutorial ini saya akan sharing sedikit mengenai cara memainkan Roblox di Linux menggunakan Sober.
 
