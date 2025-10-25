@@ -62,10 +62,16 @@ Flathub sudah dikonfigurasi secara default sebagai bagian dari Repositori Pihak 
 ## Instalasi Sober
 
 
-Kalau Flatpak sudah siap di Sistem yang kita gunakan, sekarang kita lanjut install Sober:
+Kalau Flatpak sudah siap di Sistem yang kita gunakan, Kita tambahkan flathub untuk instalasi sober:
 
 ```bash {title=Terminal}
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+```
+
+Jika flathub sudah terinstall, sekarang kita lanjut install Sober:
+
+```bash {title=Terminal}
+flatpak install flathub org.vinegarhq.Sober
 ```
 
 {{< image src="sober-install.png" caption="Instalasi Sober" width="570px">}}
