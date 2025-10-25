@@ -72,7 +72,7 @@ return {
 }
 ```
 
-Disini saya menggunakan alur kerja tidak auto preview, karena Saya mengalami kasus
+Saya menggunakan alur kerja tidak auto preview, karena Saya mengalami kasus
 dimana render-markdown dan KNAP conflict antara mdtopdfbufferasstdin, dan render-markdown tidak jalan semestinya.
 
 ```diff {title="lsp-config.lua" linenos=inline linenostart=9}
@@ -126,9 +126,9 @@ Dengan setup ini:
 
 - Disini KNAP menggunakan Zathura sebagai pembaca PDF
 
-- Saat mengedit berkas Markdown, saya dapat menekan <leader>kt untuk mengaktifkan atau menonaktifkan pratinjau otomatis
+- Saat mengedit berkas Markdown, Tekan <leader>o untuk meng-compile Markdown ke PDF
 
-- Setelah diaktifkan, setiap kali saya menyimpan berkas Markdown, Knap secara otomatis menjalankan Pandoc untuk menghasilkan PDF dan memperbarui pembaca
+- Setelah diaktifkan, setiap kali saya menyimpan berkas Markdown, Knap menjalankan Pandoc untuk mengkonversi PDF
 
 ## Tampilan Konversi
 
