@@ -86,9 +86,9 @@ yay -S spicetify-cli
 Berikan **izin akses** directory Spotify untuk mengeksekusi Spicetify.
 
 ```sh {title="Terminal"}
-sudo chmod a+wr /usr/share/spotify
+sudo chmod a+wr /opt/spotify
 
-sudo chmod a+wr /usr/share/spotify/Apps -R
+sudo chmod a+wr /opt/spotify/Apps -R
 ```
 
 Backup Spotify, Untuk memberikan **izin akses** directory Spotify untuk mengeksekusi Spicetify.
@@ -124,9 +124,9 @@ curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/inst
 Berikan **izin akses** directory Spotify untuk mengeksekusi Spicetify.
 
 ```sh {title=Terminal}
-sudo chmod a+wr /usr/share/spotify
+sudo chmod a+wr /opt/spotify
 
-sudo chmod a+wr /usr/share/spotify/Apps -R
+sudo chmod a+wr /opt/spotify/Apps -R
 ```
 
 

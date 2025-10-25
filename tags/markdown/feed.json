@@ -1,0 +1,36 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "markdown - Tag | Adilhyz — Website",
+  "description": "Personal site of Adilhyz — Just People, Linux Enthusiast &amp; Software Engineer. Find me online at adilhyz.github.io。",
+  "home_page_url": "https://adilhyz.github.io/",
+  "language": "id",
+  "icon": "https://adilhyz.github.io/apple-touch-icon.png",
+  "favicon": "https://adilhyz.github.io/favicon.ico",
+  "authors": [
+    {
+      "name": "Adilhyz",
+      "url": "https://github.com/adilhyz",
+      "avatar": "https://adilhyz.github.io/images/aing.png"
+    }
+  ],
+  "items": [
+    {
+      "title": "Konversi Markdown Ke Pdf dengan Nvim KNAP",
+      "date_published": "2025-10-24T16:17:32&#43;07:00",
+      "date_modified": "2025-10-25T13:14:59&#43;07:00",
+      "id": "https://adilhyz.github.io/posts/nvim-markdown-ke-pdf/",
+      "url": "https://adilhyz.github.io/posts/nvim-markdown-ke-pdf/",
+      "authors": [
+        {
+          "name": "Adilhyz",
+          "url": "https://github.com/adilhyz",
+          "avatar": "https://adilhyz.github.io/images/aing.png"
+        }
+      ],
+      "tags": ["neovim","markdown","pandoc","zathura","produktifitas","latex"],
+      "image": "https://adilhyz.github.io/posts/nvim-markdown-ke-pdf/featured.png",
+      "summary": "KNAP (Kevin’s Neovim Auto-Previewer) merupakan Plugin Neovim yang berfungsi untuk menampilkan pratinjau yang diperbarui (Live Preview) dengan Zathura. KNAP mendukung berbagai jenis file seperti LaTeX, Markdown, dan format lainnya, dengan tampilan pratinjau (viewer). KNAP bisa digunakan dengan fleksibel untuk memantau jenis file tertentu serta menjalankan perintah kustom untuk proses kompilasi dan pratinjau.\nFlow diagram Ini adalah diagram untuk proses Plugin KNAP yang akan Saya gunakan:\n",
+      "content_html": "\u003cp\u003eKNAP \u003cem\u003e(Kevin’s Neovim Auto-Previewer)\u003c/em\u003e merupakan Plugin Neovim yang berfungsi\nuntuk menampilkan pratinjau yang diperbarui \u003cem\u003e(Live Preview)\u003c/em\u003e dengan \u003ca href=\"https://pwmt.org/projects/zathura/\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003eZathura\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e.\nKNAP mendukung berbagai jenis file seperti \u003cstrong\u003eLaTeX\u003c/strong\u003e, \u003cstrong\u003eMarkdown\u003c/strong\u003e, dan format lainnya, dengan tampilan pratinjau (viewer).\nKNAP bisa digunakan dengan fleksibel untuk memantau jenis file tertentu serta menjalankan\nperintah kustom untuk proses kompilasi dan pratinjau.\u003c/p\u003e\n\u003ch2 class=\"heading-element\" id=\"flow-diagram\"\u003e\u003cspan\u003eFlow diagram\u003c/span\u003e\n  \u003ca href=\"#flow-diagram\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003eIni adalah diagram untuk proses Plugin KNAP yang akan Saya gunakan:\u003c/p\u003e"
+    }
+  ]
+}
