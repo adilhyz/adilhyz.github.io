@@ -14,7 +14,11 @@ Saya Sanrei, seorang pegiat *GNU/Linux*, Gemar mempelajari komputasi, keamanan s
 
 ## Apakah ini Gratis dan Open-Source?
 
-Ya, tentu saja website ini ditenagai oleh Github Pages yang 100% Gratis. jika anda mempunyai Akun GitHub Anda bisa membuat Portfolio sederhana dengan Hugo, dan banyak tema populer yang saya gunakan yaitu [FixIt](https://fixit.lruihao.cn/) by [Lruihao](https://github.com/Lruihao/).
+Ya, tentu saja website ini dihosting oleh Github Pages yang 100% Gratis. Website ini dibuat prinsip 
+*Static Website Pages* **(SSG)**, jika mempunyai Akun GitHub
+Kalian bisa membuat Project sederhana dengan Hugo dan di Hosting dengan [Github Pages](https://github.com/adilhyz/adilhyz.github.io),
+dengan Hugo kalian bisa membuat website dan banyak tema populer,
+dan yang saya gunakan yaitu [FixIt](https://fixit.lruihao.cn/).
 
 
 {{< details "Perjalanan Web Ini" >}}
@@ -31,20 +35,26 @@ events:
 - 🫶 [Dotfiles Arch Linux](https://github.com/dotfiles-v1)
 
 {{< style "min-height: 350px;" >}}
-{{< typeit code=javascript speed=20 >}}
-/**
- * Licensed under CC BY-NC-SA 4.0
- * @since 2023-09-20 08:01:01
- */
-class Blog {
-  constructor(name, author, url) {
-    this.name = name;
-    this.author = author;
-    this.url = url;
-  }
-}
+{{< typeit code=lua speed=20 >}}
 
-const site = new Blog('Sanrei', 'Adilhyz', 'https://adilhyz.github.io');
+-- ╭────────────────────────────────────╮
+-- │   Licensed under CC BY-NC-SA 4.0   │
+-- │   @since 2023-09-20 08:01:01       │
+-- ╰────────────────────────────────────╯
+
+local name = "Sanrei"
+local author = "Adilhyz"
+local url = "https://adilhyz.github.io"
+
+local blog = function (name,author,url)
+    return {
+        name = name,
+        author = author,
+        url = url,
+    }
+end
+
+return blog(name, author, url)
 {{< /typeit >}}
 {{< /style >}}
 

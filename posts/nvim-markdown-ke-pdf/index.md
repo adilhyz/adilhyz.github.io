@@ -1,11 +1,12 @@
 # Konversi Markdown Ke Pdf Dengan Nvim KNAP
 
 
-KNAP *(Kevin’s Neovim Auto-Previewer)* merupakan Plugin Neovim yang berfungsi 
+Kevin’s Neovim Auto-Previewer **(KNAP)**, merupakan Plugin Neovim yang berfungsi 
 untuk menampilkan pratinjau yang diperbarui *(Live Preview)* dengan [Zathura](https://pwmt.org/projects/zathura/).
 KNAP mendukung berbagai jenis file seperti **LaTeX**, **Markdown**, dan format lainnya, dengan tampilan pratinjau (viewer).
 KNAP bisa digunakan dengan fleksibel untuk memantau jenis file tertentu serta menjalankan 
 perintah kustom untuk proses kompilasi dan pratinjau.
+
 
 ## Flow diagram
 Ini adalah diagram untuk proses Plugin KNAP yang akan Saya gunakan:

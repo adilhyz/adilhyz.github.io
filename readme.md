@@ -1,6 +1,6 @@
 # [Adilhyz — Website](https://adilhyz.github.io/ "Beranda")
 
-> Personal site of Adilhyz — Just People, Linux Enthusiast & Software Engineer. Find me online at adilhyz.github.io。
+> Just People, Linux Enthusiast & Software Engineer. Find me online at adilhyz.github.io。
 
 Total 9 artikel by [Adilhyz](https://github.com/adilhyz).
 
