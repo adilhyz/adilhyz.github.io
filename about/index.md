@@ -24,8 +24,17 @@ dan yang saya gunakan yaitu [FixIt](https://fixit.lruihao.cn/).
 {{< details "Perjalanan Web Ini" >}}
 ```timeline {reverse=true, animation=true, height="280px"}
 events:
+  - timestamp: 2025-09-27 08:13:51
+    content: Bermigrasi ke fixit.
+    type: success
+  - timestamp: 2025-09-20 08:13:51
+    content: Akun pulih kembali setelah beberapa kompensasi dan kembali normal.
+  - timestamp: 2025-05-28 08:13:51
+    content: Akun terkena flagged untuk Pertama Kali.
+  - timestamp: 2023-09-20 08:13:51
+    content: 'Beralih menggunakan SSG(HUGO).'
   - timestamp: 2023-08-20 08:13:51
-    content: Membuat repo GitHub Pages lama。
+    content: Membuat repo adilhyz.github.io dan menggunakan GitHub Pages lama。
 ```
 {{< /details >}}
 
@@ -37,10 +46,9 @@ events:
 {{< style "min-height: 350px;" >}}
 {{< typeit code=lua speed=20 >}}
 
--- ╭────────────────────────────────────╮
--- │   Licensed under CC BY-NC-SA 4.0   │
--- │   @since 2023-09-20 08:01:01       │
--- ╰────────────────────────────────────╯
+--  Licensed under CC BY-SA 4.0
+--  @since 2023-09-20
+--  @updated at 2025-10-30
 
 local name = "Sanrei"
 local author = "Adilhyz"
