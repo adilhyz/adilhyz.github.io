@@ -11,8 +11,7 @@ Ya, Android memanglah populer dikalangan pengguna smartphone, [data](https://gs.
 Android tidak bisa disebut sebagai distribusi Linux, karena Perbedaan utama terletak pada lapisan atas sistem pengguna dan lingkungan runtime yang sangat berbeda dari distribusi Linux:
 
 - Kernel Linux menangani beberapa tugas seperti **manajemen memori**, **penjadwal tugas**, dan **driver hardware**.
-- Namun, di Android, ke
-rnel ini mendapat beberapa modifikasi khusus. seperti <abbr title="Untuk inter proses communication (IPC)">Binder</abbr>, <abbr title="untuk manajemen pengelolaan sumber daya">wakelocks</abbr>, <abbr title="untuk shared memory">ashmem</abbr>, dan lainnya.
+- Namun, di Android, kernel ini mendapat beberapa modifikasi khusus. seperti <abbr title="Untuk inter proses communication (IPC)">Binder</abbr>, <abbr title="untuk manajemen pengelolaan sumber daya">wakelocks</abbr>, <abbr title="untuk shared memory">ashmem</abbr>, dan lainnya.
 
 {{< image src="android-open-source.jpg" caption="https://www.makeuseof.com/tag/android-really-open-source-matter/" >}}
 
