@@ -1,4 +1,4 @@
-# [Adilhyz — Website](https://adilhyz.github.io/ "Beranda")
+# [AdilHyz](https://adilhyz.github.io/ "Beranda")
 
 > Just People, Linux Enthusiast & Software Engineer. Find me online at adilhyz.github.io。
 
