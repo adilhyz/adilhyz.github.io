@@ -7,9 +7,9 @@
 > [!kaminari] Skills
 > OS: [`Arch Linux`](/tags/archlinux) & `Windows 11 LTSC`
 >
-> Languages: `HTML`  `CSS` `PHP` `JS` `LUA` 
+> Languages: `go`  `HTML`  `CSS` `PHP` `JS`
 >
-> Framework: `Express.js` `laravel`
+> Framework: `hugo`  `laravel`
 >
 > Tools: `git` `vscode` `neovim` 
 
@@ -53,7 +53,6 @@
 - Indonesian: Fluent
 - 日本語: Advanced
 - English: Advanced
-
 
 ---
 
