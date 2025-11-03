@@ -7,14 +7,18 @@ Kenapa harus takut gelap kalau ada banyak hal indah yang hanya bisa dilihat sewa
 Nishimura Kazuto
 {{< /center-quote >}}
 
-Saya Sanrei, seorang pegiat *GNU/Linux*, Gemar mempelajari komputasi, keamanan siber, mendengar musik, menonton film, dan membaca.
+Saya Sanrei, seorang *GNU/Linux* Enthusiast dan suka dengan eksperimen, Gemar mempelajari komputasi, cyber security,
+mendengar musik, menonton film, dan membaca.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/14BISlm4iLphnEwcdmViaG?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 > [!question] Kenapa ada _***[adilhyz.github.io](adilhyz.github.io)***_。
-> Seringkali hal yang jarang dilakukan mudah terlupakan. Maka dibangunlah situs ini untuk membantu merawat ingatan. Namun jika suatu saat ternyata bisa membantu orang lain, anggaplah itu sebagai keberkahan ilmu, `Sebab ilmu sejatinya mengalir jangan sampai berhenti di kamu`
+> Situs ini dibuat semata-mata hanya Catatan yang bertujuan untuk membantu merawat ingatan. Namun jika suatu saat ternyata bisa membantu orang lain, anggaplah itu sebagai keberkahan ilmu, ++Sebab ilmu sejatinya mengalir jangan sampai berhenti di kamu.++
+
 
 ## Apakah ini Gratis dan Open-Source?
 
-Ya, tentu saja website ini dihosting oleh Github Pages yang 100% Gratis. Website ini dibuat prinsip 
+Ya, tentu saja website ini dihosting oleh Github Pages yang 100% Gratis. Website ini dibuat prinsip
 *Static Website Pages* **(SSG)**, jika mempunyai Akun GitHub
 Kalian bisa membuat Project sederhana dengan Hugo dan di Hosting dengan [Github Pages](https://github.com/adilhyz/adilhyz.github.io),
 dengan Hugo kalian bisa membuat website dan banyak tema populer,
@@ -41,7 +45,7 @@ events:
 > [!note]
 > Akhir akhir ini, berkali-kali saya mengalami kasus yang dimana akun saya di tandai dan dibatasi oleh bot, karena saya menggunakan website hugo yang diduga spam, namun saya bersyukur kini berhasil kembali setelah beberapa penolakan kompensasi dan akhirnya kembali juga.
 
-- 🫶 [Dotfiles Arch Linux](https://github.com/dotfiles-v1)
+- 🫶 [Dotfiles Arch Linux](https://github.com/adilhyz/dotfiles-v1)
 
 {{< style "min-height: 350px;" >}}
 {{< typeit code=lua speed=20 >}}
@@ -68,7 +72,7 @@ return blog(name, author, url)
 
 ## Sistem Yang Saya Gunakan
 
-> [!NOTE] Fetch System
+> [!note] Fetch System
 > ``` shell {title="neofetch"}
 >       /\         sanrei@adilhyz
 >      /  \        OS: Arch

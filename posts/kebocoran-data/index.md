@@ -1,7 +1,7 @@
 # Kebocoran Data, Fenomena Atau Drama Tahunan
 
 
-Di zaman semua serba **“gratis”**. Kita, pengguna internet, seringkali tergiur dengan 
+Di zaman semua serba **“Gratis”**. Kita, pengguna internet, seringkali tergiur dengan 
 kata sakti tidak lain dan tidak bukan ya **GRATIS.**
 Jika tidak asing dengan *“Gratis ongkir”*, *“Gratis kuota”*, *“Gratis nonton”*. seketika langsung reflek klik ***“Setuju dan lanjutkan”***
 tanpa mikir dua kali.
