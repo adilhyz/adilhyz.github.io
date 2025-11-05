@@ -10,6 +10,9 @@ Nishimura Kazuto
 Saya Sanrei, seorang *GNU/Linux* Enthusiast dan suka dengan eksperimen, Gemar mempelajari komputasi, cyber security,
 mendengar musik, menonton film, dan membaca.
 
+
+{{ partial "plugin/icon.html" (dict "Src" "assets/images/icons/sun.svg") }}
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/14BISlm4iLphnEwcdmViaG?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 > [!question] Kenapa ada _***[adilhyz.github.io](adilhyz.github.io)***_。
