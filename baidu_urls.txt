@@ -1,4 +1,5 @@
 https://adilhyz.github.io/about/
+https://adilhyz.github.io/posts/tab-vs-spasi/
 https://adilhyz.github.io/posts/kebocoran-data/
 https://adilhyz.github.io/posts/nvim-markdown-ke-pdf/
 https://adilhyz.github.io/posts/cara-bermain-roblox-di-linux/
