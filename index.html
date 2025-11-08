@@ -414,18 +414,50 @@ Salah satu yang cukup stabil saat ini adalah Sober.</p></div>
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   
+  if (localStorage.getItem("adblockNoticeClosed") === "true") return;
 
-  const bait = document.createElement('div');
+  
+  var bait = document.createElement('div');
   bait.className = 'adsbox';
-  bait.style.display = 'none';
+  
+  bait.setAttribute('style',
+    'width: 1px !important; height: 1px !important; position: absolute !important; left: -10000px !important; top: -1000px !important;'
+  );
+  
   document.body.appendChild(bait);
 
-  setTimeout(() => {
-    if (!bait.offsetParent) {
-      const notice = document.createElement('div');
+  
+  setTimeout(function() {
+    var detected = false;
+
+    try {
+      
+      if (bait.offsetParent === null ||
+          bait.offsetHeight === 0 ||
+          bait.offsetWidth === 0 ||
+          bait.clientHeight === 0 ||
+          bait.clientWidth === 0) {
+        detected = true;
+      } else if (window.getComputedStyle) {
+        var cs = window.getComputedStyle(bait);
+        if (cs && (cs.getPropertyValue('display') === 'none' || cs.getPropertyValue('visibility') === 'hidden' || cs.getPropertyValue('opacity') === '0')) {
+          detected = true;
+        }
+      }
+    } catch (e) {
+      
+      detected = true;
+    }
+
+    
+    if (bait && bait.parentNode) bait.parentNode.removeChild(bait);
+
+    if (detected) {
+      
+      var notice = document.createElement('div');
       notice.className = 'adblock-notice';
       notice.innerHTML = `
-        <div class="adblock-inner"><span title="nonaktifkan ad-blocker" class="adblock-emoji text-danger">\u003ci class=\u0022fa-solid fa-ban fa-fw fa-beat-fade\u0022 aria-hidden=\u0022true\u0022\u003e\u003c\/i\u003e</span>
+         <div class="adblock-inner"><span title="nonaktifkan ad-blocker" class="adblock-emoji text-danger">\u003ci class=\u0022fa-solid fa-ban fa-fw fa-beat-fade\u0022 aria-hidden=\u0022true\u0022\u003e\u003c\/i\u003e</span>
           <div class="adblock-text">
             <strong>Adblock terdeteksi</strong><br>
             <span>Mohon nonaktifkan Adblock untuk mendukung situs ini </span><span title="nonaktifkan ad-blocker" class="text-primary">\u003ci class=\u0022fa-solid fa-heartbeat fa-fw\u0022 aria-hidden=\u0022true\u0022\u003e\u003c\/i\u003e</span>
@@ -435,12 +467,13 @@ document.addEventListener("DOMContentLoaded", function() {
       `;
       document.body.appendChild(notice);
 
-      const closeBtn = notice.querySelector(".adblock-close");
-      closeBtn.addEventListener("click", () => {
+      
+      var closeBtn = notice.querySelector('.adblock-close');
+      closeBtn.addEventListener('click', function() {
+        notice.classList.add('hide');
         
-
-        notice.classList.add("hide");
-        setTimeout(() => notice.remove(), 300);
+        localStorage.setItem('adblockNoticeClosed','true');
+        setTimeout(function(){ notice.remove(); }, 300);
       });
     }
   }, 300);

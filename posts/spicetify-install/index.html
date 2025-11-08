@@ -312,6 +312,22 @@
           
           <p>Untuk menghilangkan iklan, kita diharuskan upgrade Pengguna biasa ke Premium alias keluar duit lagi, duit lagi. Padahal token listrik aja udah mau habis, kan? Nah, di sinilah <a href="#spicetify"><strong>Spicetify</strong></a> jadi solusi Alternatif. Kalau ada yang gratis, kenapa harus bayar? :D</p>
           
+            <div class="my-6">
+              
+
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6621721702777739"
+     data-ad-slot="4437585173"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+            </div>
+          
         
           
           </div><h2 class="heading-element" id="spicetify"><span>Spicetify</span>
@@ -450,22 +466,6 @@
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
   </a>
 </h3><p>Disini Jika kalian lebih suka dengan AUR packages maka bisa dengan <strong>AUR</strong></p>
-          
-            <div class="my-6">
-              
-
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6621721702777739"
-     data-ad-slot="4437585173"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-            </div>
           
         
           
@@ -723,18 +723,50 @@ setelah semua terbackup Spotify mu sekarang masih dalam konfigurasi bawaan Disin
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   
+  if (localStorage.getItem("adblockNoticeClosed") === "true") return;
 
-  const bait = document.createElement('div');
+  
+  var bait = document.createElement('div');
   bait.className = 'adsbox';
-  bait.style.display = 'none';
+  
+  bait.setAttribute('style',
+    'width: 1px !important; height: 1px !important; position: absolute !important; left: -10000px !important; top: -1000px !important;'
+  );
+  
   document.body.appendChild(bait);
 
-  setTimeout(() => {
-    if (!bait.offsetParent) {
-      const notice = document.createElement('div');
+  
+  setTimeout(function() {
+    var detected = false;
+
+    try {
+      
+      if (bait.offsetParent === null ||
+          bait.offsetHeight === 0 ||
+          bait.offsetWidth === 0 ||
+          bait.clientHeight === 0 ||
+          bait.clientWidth === 0) {
+        detected = true;
+      } else if (window.getComputedStyle) {
+        var cs = window.getComputedStyle(bait);
+        if (cs && (cs.getPropertyValue('display') === 'none' || cs.getPropertyValue('visibility') === 'hidden' || cs.getPropertyValue('opacity') === '0')) {
+          detected = true;
+        }
+      }
+    } catch (e) {
+      
+      detected = true;
+    }
+
+    
+    if (bait && bait.parentNode) bait.parentNode.removeChild(bait);
+
+    if (detected) {
+      
+      var notice = document.createElement('div');
       notice.className = 'adblock-notice';
       notice.innerHTML = `
-        <div class="adblock-inner"><span title="nonaktifkan ad-blocker" class="adblock-emoji text-danger">\u003ci class=\u0022fa-solid fa-ban fa-fw fa-beat-fade\u0022 aria-hidden=\u0022true\u0022\u003e\u003c\/i\u003e</span>
+         <div class="adblock-inner"><span title="nonaktifkan ad-blocker" class="adblock-emoji text-danger">\u003ci class=\u0022fa-solid fa-ban fa-fw fa-beat-fade\u0022 aria-hidden=\u0022true\u0022\u003e\u003c\/i\u003e</span>
           <div class="adblock-text">
             <strong>Adblock terdeteksi</strong><br>
             <span>Mohon nonaktifkan Adblock untuk mendukung situs ini </span><span title="nonaktifkan ad-blocker" class="text-primary">\u003ci class=\u0022fa-solid fa-heartbeat fa-fw\u0022 aria-hidden=\u0022true\u0022\u003e\u003c\/i\u003e</span>
@@ -744,12 +776,13 @@ document.addEventListener("DOMContentLoaded", function() {
       `;
       document.body.appendChild(notice);
 
-      const closeBtn = notice.querySelector(".adblock-close");
-      closeBtn.addEventListener("click", () => {
+      
+      var closeBtn = notice.querySelector('.adblock-close');
+      closeBtn.addEventListener('click', function() {
+        notice.classList.add('hide');
         
-
-        notice.classList.add("hide");
-        setTimeout(() => notice.remove(), 300);
+        localStorage.setItem('adblockNoticeClosed','true');
+        setTimeout(function(){ notice.remove(); }, 300);
       });
     }
   }, 300);
