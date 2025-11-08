@@ -9,7 +9,7 @@ Dan sejak saat itu, sejarah identasi kode selalu berdebat karena hal sepele ini.
 
 ## Sepele tapi mempunyai sejarah panjang
 
-Dulu waktu editor masih polos, gak ada warna, gak ada autoformat, tab ialah penyelamat bagi kalangan developer.
+Dulu waktu teks editor masih polos, gak ada warna, gak ada autoformat, tab ialah penyelamat bagi kalangan developer.
 Tinggal pencet satu tombol, udah rapi.
 Hemat waktu, hemat jari.
 Tapi seiring perkembangan teks editor, munculah kaum “spasi si perfeksionis” yang bilang:
