@@ -1,28 +1,34 @@
 # About
 
 
+
 {{< center-quote >}}
+
 Kenapa harus takut gelap kalau ada banyak hal indah yang hanya bisa dilihat sewaktu gelap?
 
 Nishimura Kazuto
+
 {{< /center-quote >}}
+
 
 Saya Sanrei, seorang GNU/Linux Enthusiast yang menyukai Eksperimen, Gemar mempelajari komputasi, cyber security,
 mendengar musik, menonton film, dan membaca.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/14BISlm4iLphnEwcdmViaG?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div align="center" class="ignore">
+    <image src="https://count.getloli.com/@adilhyz?name=adilhyz&theme=3d-num&padding=3&offset=0&align=center&scale=2&pixelated=1&darkmode=auto" alt="Online Count" width="auto">
+</div>
 
 > [!question] Kenapa ada _***[adilhyz.github.io](adilhyz.github.io)***_。
-> Situs ini dibuat semata-mata hanya Catatan yang bertujuan untuk membantu merawat ingatan. Namun jika suatu saat ternyata bisa membantu orang lain, anggaplah itu sebagai keberkahan ilmu, ++Sebab ilmu sejatinya mengalir jangan sampai berhenti di kamu.++
+> Situs ini dibuat semata-mata hanya Catatan. Namun jika suatu saat ternyata bisa membantu orang lain, anggaplah itu sebagai keberkahan ilmu, ++Sebab ilmu sejatinya mengalir jangan sampai berhenti di kamu.++
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/14BISlm4iLphnEwcdmViaG?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Apakah ini Gratis dan Open-Source?
 
-Ya, tentu saja website ini dihosting oleh Github Pages yang 100% Gratis. Website ini dibuat prinsip
-*Static Website Pages* **(SSG)**, jika mempunyai Akun GitHub
-Kalian bisa membuat Project sederhana dengan Hugo dan di Hosting dengan [Github Pages](https://github.com/adilhyz/adilhyz.github.io),
-dengan Hugo kalian bisa membuat website dan banyak tema populer,
-dan yang saya gunakan yaitu [FixIt](https://fixit.lruihao.cn/).
+Ya, tentu saja website ini dihosting oleh Github Pages yang 100% Gratis. Website ini dibuat dengan
+*Static Website Pages* **(SSG)**, Kalian bisa membuat Project sederhana dengan Hugo dan di Hosting dengan [Github Pages](https://github.com/adilhyz/adilhyz.github.io),
+dengan Hugo kalian bisa membuat website statis dan bisa meng-custom tema populer,
+disini yang saya gunakan yaitu [FixIt](https://fixit.lruihao.cn/).
 
 
 {{< details "Perjalanan Web Ini" >}}
@@ -42,8 +48,9 @@ events:
 ```
 {{< /details >}}
 
-> [!note]
-> Akhir akhir ini, berkali-kali saya mengalami kasus yang dimana akun saya di tandai dan dibatasi oleh bot, karena saya menggunakan website hugo yang diduga spam, namun saya bersyukur kini berhasil kembali setelah beberapa penolakan kompensasi dan akhirnya kembali juga.
+> [!SUMMARY] Kenapa tidak Custom domain sendiri saja?
+> Ya, sudah terpikirkan sejak lama, mungkin dalam jangka waktu dekat saya masih belum memikirkan untuk membuat custom domain sendiri. tidak menutup kemungkinan juga saya ++akan menggunakan domain custom nanti++.
+
 
 - 🫶 [Dotfiles Arch Linux](https://github.com/adilhyz/dotfiles-v1)
 
