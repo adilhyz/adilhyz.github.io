@@ -2,13 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://adilhyz.github.io/about/</loc>
-    <lastmod>2025-11-09T20:12:28+07:00</lastmod>
+    <lastmod>2025-11-11T16:59:13+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://adilhyz.github.io/</loc>
-    <lastmod>2025-11-09T20:12:28+07:00</lastmod>
+    <lastmod>2025-11-11T17:06:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/tags/catlover/</loc>
+    <lastmod>2025-11-11T17:06:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/collections/</loc>
+    <lastmod>2025-11-11T17:06:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/tags/hewan/</loc>
+    <lastmod>2025-11-11T17:06:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/posts/kehilangan-kucing-kesayangan/</loc>
+    <lastmod>2025-11-11T17:06:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/tags/kucing/</loc>
+    <lastmod>2025-11-11T17:06:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/collections/petlover/</loc>
+    <lastmod>2025-11-11T17:06:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/posts/</loc>
+    <lastmod>2025-11-11T17:06:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://adilhyz.github.io/tags/</loc>
+    <lastmod>2025-11-11T17:06:00+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -20,12 +68,6 @@
   </url>
   <url>
     <loc>https://adilhyz.github.io/categories/</loc>
-    <lastmod>2025-11-06T15:51:44+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adilhyz.github.io/collections/</loc>
     <lastmod>2025-11-06T15:51:44+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -49,19 +91,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://adilhyz.github.io/posts/</loc>
-    <lastmod>2025-11-06T15:51:44+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://adilhyz.github.io/posts/tab-vs-spasi/</loc>
-    <lastmod>2025-11-06T15:51:44+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://adilhyz.github.io/tags/</loc>
     <lastmod>2025-11-06T15:51:44+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

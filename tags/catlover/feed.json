@@ -1,0 +1,36 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "catlover - Tag | AdilHyz",
+  "description": "Just People, Linux Enthusiast &amp; Software Engineer. Find me online at adilhyz.github.io。",
+  "home_page_url": "https://adilhyz.github.io/",
+  "language": "id",
+  "icon": "https://adilhyz.github.io/apple-touch-icon.png",
+  "favicon": "https://adilhyz.github.io/favicon.ico",
+  "authors": [
+    {
+      "name": "Adilhyz",
+      "url": "https://github.com/adilhyz",
+      "avatar": "https://adilhyz.github.io/images/aing.png"
+    }
+  ],
+  "items": [
+    {
+      "title": "Kehilangan Hewan Peliharaan",
+      "date_published": "2025-11-11T14:10:21&#43;07:00",
+      "date_modified": "2025-11-11T17:06:00&#43;07:00",
+      "id": "https://adilhyz.github.io/posts/kehilangan-kucing-kesayangan/",
+      "url": "https://adilhyz.github.io/posts/kehilangan-kucing-kesayangan/",
+      "authors": [
+        {
+          "name": "Adilhyz",
+          "url": "https://github.com/adilhyz",
+          "avatar": "https://adilhyz.github.io/images/aing.png"
+        }
+      ],
+      "tags": ["catlover","kucing","hewan"],
+      "image": "https://adilhyz.github.io/posts/kehilangan-kucing-kesayangan/featured.png",
+      "summary": "Sejak artikel ini dibuat saya berduka atas kehilangan kucing kesayangan saya, kucing saya ini kuberi nama \u0026ldquo;Loli\u0026rdquo;. Ia periang dan suka bermain, Malam itu saya bergadang dan saya bangun lebih siang, dan saya sangat menyesali ini kalau saya tidak bergadang malamnya mungkin ini tidak\u0026hellip; tapi sudahlah waktu tidak bisa diulang kembali.\nKepergian Loli Saya pun terbangun dari lelapnya tidur habis bergadang itu, hingga saya mendapat kabar bahwa kucing ku sudah mati, saya pun kaget dan syok berat tidak tahu apa yang terjadi, Saya langsung mengecek jalanan di dekat rumah kucingku sudah terkapar mengenaskan.\n",
+      "content_html": "\u003cp\u003eSejak artikel ini dibuat saya berduka atas kehilangan kucing kesayangan saya, kucing saya ini kuberi nama \u003cstrong\u003e\u0026ldquo;Loli\u0026rdquo;\u003c/strong\u003e.\nIa periang dan suka bermain, Malam itu saya bergadang dan saya bangun lebih siang, dan saya sangat menyesali ini kalau saya tidak bergadang malamnya mungkin ini tidak\u0026hellip;\ntapi sudahlah waktu tidak bisa diulang kembali.\u003c/p\u003e\n\u003ch2 class=\"heading-element\" id=\"kepergian-loli\"\u003e\u003cspan\u003eKepergian \u003cstrong\u003eLoli\u003c/strong\u003e\u003c/span\u003e\n  \u003ca href=\"#kepergian-loli\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003eSaya pun terbangun dari lelapnya tidur habis bergadang itu, hingga saya mendapat kabar bahwa kucing ku sudah mati,\nsaya pun kaget dan syok berat tidak tahu apa yang terjadi, Saya langsung mengecek jalanan di dekat rumah kucingku sudah terkapar mengenaskan.\u003c/p\u003e"
+    }
+  ]
+}
