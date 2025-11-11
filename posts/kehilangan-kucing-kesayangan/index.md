@@ -29,7 +29,7 @@ saya pun tak tega dan segera mengkremasi kucing saya dan menguburkannya, Kucing 
 
 ## Tentang Kucingku
 
-{{< image src="loliii.png" caption="Loli: 2025-07 - 2025-11" alt="Loli..." >}}
+{{< image src="loli-n-me.png" caption="Loli: 2025-07 - 2025-11" alt="Loli..." >}}
 
 Kilas balik bahwa kucingku ini awalnya masih kecil dan masih berusia sekitar 1 minggu,
 Saya mendapatkannya ketika sedang merantau di Bogor, Awalnya kucing ini hanya induk nya saja yang suka berkeliaran 
