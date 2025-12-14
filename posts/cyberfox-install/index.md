@@ -129,5 +129,5 @@ Sesudah Menginstall ekstensi HackBar, kemudian restore backup ke Tools lalu pili
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://adilhyz.github.io/posts/cyberfox-install/  
+> URL: https://sanrei.my.id/posts/cyberfox-install/  
 

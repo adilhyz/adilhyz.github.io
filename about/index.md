@@ -28,15 +28,17 @@ mendengar musik, menonton film, dan membaca.
 Ya, tentu saja website ini dihosting oleh Github Pages yang 100% Gratis. Website ini dibuat dengan
 *Static Website Pages* **(SSG)**, Kalian bisa membuat Project sederhana dengan Hugo dan di Hosting dengan [Github Pages](https://github.com/adilhyz/adilhyz.github.io),
 dengan Hugo kalian bisa membuat website statis dan bisa meng-custom tema populer,
-disini yang saya gunakan yaitu [FixIt](https://fixit.lruihao.cn/).
+yang saya gunakan yaitu [FixIt](https://fixit.lruihao.cn/).
 
 
 {{< details "Perjalanan Web Ini" >}}
 ```timeline {reverse=true, animation=true, height="280px"}
 events:
+  - timestamp: 2025-12-14 21:13:30
+    content: Beralih ke domain sanrei.my.id
+    type: success
   - timestamp: 2025-09-27 08:13:51
     content: Bermigrasi ke fixit.
-    type: success
   - timestamp: 2025-09-20 08:13:51
     content: Akun pulih kembali setelah beberapa kompensasi dan kembali normal.
   - timestamp: 2025-05-28 08:13:51
@@ -100,5 +102,5 @@ return blog(name, author, url)
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://adilhyz.github.io/about/  
+> URL: https://sanrei.my.id/about/  
 

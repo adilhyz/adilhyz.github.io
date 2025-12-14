@@ -171,5 +171,5 @@ Disini kita Disajikan dengan UI Yang Ramah Pengguna. Ekstensi, Tema, Snippet, Da
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://adilhyz.github.io/posts/spicetify-install/  
+> URL: https://sanrei.my.id/posts/spicetify-install/  
 

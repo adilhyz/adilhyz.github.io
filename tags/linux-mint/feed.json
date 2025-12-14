@@ -1,16 +1,16 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Linux Mint - Tag | AdilHyz",
-  "description": "Just People, Linux Enthusiast &amp; Software Engineer. Find me online at adilhyz.github.io。",
-  "home_page_url": "https://adilhyz.github.io/",
+  "description": "Just People, Linux Enthusiast &amp; Software Engineer. Find me online at sanrei.my.id。",
+  "home_page_url": "https://sanrei.my.id/",
   "language": "id",
-  "icon": "https://adilhyz.github.io/apple-touch-icon.png",
-  "favicon": "https://adilhyz.github.io/favicon.ico",
+  "icon": "https://sanrei.my.id/apple-touch-icon.png",
+  "favicon": "https://sanrei.my.id/favicon.ico",
   "authors": [
     {
       "name": "Adilhyz",
       "url": "https://github.com/adilhyz",
-      "avatar": "https://adilhyz.github.io/images/aing.png"
+      "avatar": "https://sanrei.my.id/images/aing.png"
     }
   ],
   "items": [
@@ -18,17 +18,17 @@
       "title": "Spicetify Tool Untuk Spotify Premium",
       "date_published": "2023-11-23T16:35:53&#43;07:00",
       "date_modified": "2025-10-24T14:31:30&#43;07:00",
-      "id": "https://adilhyz.github.io/posts/spicetify-install/",
-      "url": "https://adilhyz.github.io/posts/spicetify-install/",
+      "id": "https://sanrei.my.id/posts/spicetify-install/",
+      "url": "https://sanrei.my.id/posts/spicetify-install/",
       "authors": [
         {
           "name": "Adilhyz",
           "url": "https://github.com/adilhyz",
-          "avatar": "https://adilhyz.github.io/images/aing.png"
+          "avatar": "https://sanrei.my.id/images/aing.png"
         }
       ],
       "tags": ["ArchLinux","Windows","MacOS","Linux","Linux Mint","Debian","Ubuntu","Spotify"],
-      "image": "https://adilhyz.github.io/posts/spicetify-install/featured.png",
+      "image": "https://sanrei.my.id/posts/spicetify-install/featured.png",
       "summary": "Spotify Spotify adalah salah satu pemutar musik online paling populer. Namun, Pengguna biasa sering diganggu oleh iklan yang berkepanjangan. lagi asik-asiknya dengerin musik, eh tiba-tiba nongol iklan. Kalau begini terus basmi saja semuanya.\nCatatan\n",
       "content_html": "\u003ch2 class=\"heading-element\" id=\"spotify\"\u003e\u003cspan\u003eSpotify\u003c/span\u003e\n  \u003ca href=\"#spotify\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003e\u003cstrong\u003eSpotify\u003c/strong\u003e adalah salah satu pemutar musik online paling populer. Namun, Pengguna biasa sering diganggu oleh \u003cu\u003eiklan yang berkepanjangan\u003c/u\u003e. lagi asik-asiknya dengerin musik, eh tiba-tiba nongol iklan. Kalau begini terus basmi saja semuanya.\u003c/p\u003e\n\u003c!-- \u003ca class=\"lightgallery\" href=\"./3961-spotify.png\" title=\"Spotify\" data-thumbnail=\"./3961-spotify.png\" data-sub-html=\"\u003ch2\u003eSpotify\u003c/h2\u003e\"\u003e\u003cimg loading=\"lazy\" src='./3961-spotify.png' alt=\"Spotify\"\u003e\u003c/a\u003e --\u003e\n\u003cdiv class=\"alert alert-note\"\u003e\u003cp class=\"alert-title\"\u003e\u003csvg class=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\" width=\"16\" height=\"16\"\u003e\u003cpath d=\"M0 8a8 8 0 1116 0A8 8 0 010 8zm8-6.5a6.5 6.5.0 100 13 6.5 6.5.0 000-13zM6.5 7.75A.75.75.0 017.25 7h1a.75.75.0 01.75.75v2.75h.25a.75.75.0 010 1.5h-2a.75.75.0 010-1.5h.25v-2h-.25a.75.75.0 01-.75-.75zM8 6a1 1 0 110-2 1 1 0 010 2z\"/\u003e\u003c/svg\u003eCatatan\u003c/p\u003e"
     }

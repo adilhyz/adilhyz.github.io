@@ -1,16 +1,16 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "AI - Tag | AdilHyz",
-  "description": "Just People, Linux Enthusiast &amp; Software Engineer. Find me online at adilhyz.github.io。",
-  "home_page_url": "https://adilhyz.github.io/",
+  "description": "Just People, Linux Enthusiast &amp; Software Engineer. Find me online at sanrei.my.id。",
+  "home_page_url": "https://sanrei.my.id/",
   "language": "id",
-  "icon": "https://adilhyz.github.io/apple-touch-icon.png",
-  "favicon": "https://adilhyz.github.io/favicon.ico",
+  "icon": "https://sanrei.my.id/apple-touch-icon.png",
+  "favicon": "https://sanrei.my.id/favicon.ico",
   "authors": [
     {
       "name": "Adilhyz",
       "url": "https://github.com/adilhyz",
-      "avatar": "https://adilhyz.github.io/images/aing.png"
+      "avatar": "https://sanrei.my.id/images/aing.png"
     }
   ],
   "items": [
@@ -18,17 +18,17 @@
       "title": "Ketika Stack Overflow mati, AI menjadi Guru baru Programmer",
       "date_published": "2025-10-15T11:42:52&#43;07:00",
       "date_modified": "2025-10-19T15:01:05&#43;07:00",
-      "id": "https://adilhyz.github.io/posts/ai-gantikan-stackoverflow/",
-      "url": "https://adilhyz.github.io/posts/ai-gantikan-stackoverflow/",
+      "id": "https://sanrei.my.id/posts/ai-gantikan-stackoverflow/",
+      "url": "https://sanrei.my.id/posts/ai-gantikan-stackoverflow/",
       "authors": [
         {
           "name": "Adilhyz",
           "url": "https://github.com/adilhyz",
-          "avatar": "https://adilhyz.github.io/images/aing.png"
+          "avatar": "https://sanrei.my.id/images/aing.png"
         }
       ],
       "tags": ["AI","Stack Overflow","ChatGPT","OpenAI","Programmer","Machine Learning","Automation","Software Engineering"],
-      "image": "https://adilhyz.github.io/posts/ai-gantikan-stackoverflow/featured.png",
+      "image": "https://sanrei.my.id/posts/ai-gantikan-stackoverflow/featured.png",
       "summary": "Stack Overflow Stack Overflow dulu bukan hanya forum tanya jawab pertanyaan. melainkan Otak Kolektif para Developer. Setiap pertanyaan yang dijawab artinya ada Seseorang di belahan Dunia ini yang pernah mengalami hal yang sama. Pengetahuan dibangun lewat diskusi, perdebatan, dan Pengalaman nyata oleh Manusia.\nTapi di era AI sekarang, semuanya berubah. Model bahasa raksasa (LLM) Seperti ChatGPT, Claude, dan Gemini dilatih menggunakan Dataset raksasa, Termasuk dump Publik Stack Overflow. Artinya, Pengetahuan Komunitas yang dulu terbuka kini disedot, dimanfatkan, dan diolah oleh Mesin.\n",
       "content_html": "\u003ch2 class=\"heading-element\" id=\"stack-overflow\"\u003e\u003cspan\u003eStack Overflow\u003c/span\u003e\n  \u003ca href=\"#stack-overflow\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003eStack Overflow dulu bukan hanya forum tanya jawab pertanyaan. melainkan Otak Kolektif para Developer. Setiap pertanyaan yang dijawab artinya ada Seseorang di belahan Dunia ini yang pernah mengalami hal yang sama. Pengetahuan dibangun lewat diskusi, perdebatan, dan Pengalaman nyata oleh Manusia.\u003c/p\u003e\n\u003cp\u003eTapi di era AI sekarang, semuanya berubah. Model bahasa raksasa (\u003cem\u003eLLM\u003c/em\u003e) Seperti \u003cstrong\u003eChatGPT\u003c/strong\u003e, \u003cstrong\u003eClaude\u003c/strong\u003e, dan \u003cstrong\u003eGemini\u003c/strong\u003e dilatih menggunakan Dataset raksasa, Termasuk dump Publik Stack Overflow. Artinya, Pengetahuan Komunitas yang dulu terbuka kini disedot, dimanfatkan, dan diolah oleh Mesin.\u003c/p\u003e"
     }

@@ -71,5 +71,5 @@ Software Engineer & Linux Enthusiast fast-growing experience in web development,
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://adilhyz.github.io/cv/  
+> URL: https://sanrei.my.id/cv/  
 

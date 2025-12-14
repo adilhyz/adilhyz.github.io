@@ -121,5 +121,5 @@ Kerentanan telah di Patch pada kernel Linux versi **4.8.3**, **4.7.9**, **4.4.26
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://adilhyz.github.io/posts/android-linux/  
+> URL: https://sanrei.my.id/posts/android-linux/  
 

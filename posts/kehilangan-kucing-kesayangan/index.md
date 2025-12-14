@@ -66,5 +66,5 @@ saya pun masih berpikir untuk mengelak tapi ini mungkin kesalahan untuk lebih be
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://adilhyz.github.io/posts/kehilangan-kucing-kesayangan/  
+> URL: https://sanrei.my.id/posts/kehilangan-kucing-kesayangan/  
 

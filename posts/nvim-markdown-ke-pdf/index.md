@@ -143,5 +143,5 @@ Dengan setup ini:
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://adilhyz.github.io/posts/nvim-markdown-ke-pdf/  
+> URL: https://sanrei.my.id/posts/nvim-markdown-ke-pdf/  
 

@@ -32,5 +32,5 @@ jika memiliki pertanyaan, keresahan, atau ingin melaporkan hal terkait konten, s
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://adilhyz.github.io/disclaimer/  
+> URL: https://sanrei.my.id/disclaimer/  
 

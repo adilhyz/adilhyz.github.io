@@ -1,16 +1,16 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "kernel - Tag | AdilHyz",
-  "description": "Just People, Linux Enthusiast &amp; Software Engineer. Find me online at adilhyz.github.io。",
-  "home_page_url": "https://adilhyz.github.io/",
+  "description": "Just People, Linux Enthusiast &amp; Software Engineer. Find me online at sanrei.my.id。",
+  "home_page_url": "https://sanrei.my.id/",
   "language": "id",
-  "icon": "https://adilhyz.github.io/apple-touch-icon.png",
-  "favicon": "https://adilhyz.github.io/favicon.ico",
+  "icon": "https://sanrei.my.id/apple-touch-icon.png",
+  "favicon": "https://sanrei.my.id/favicon.ico",
   "authors": [
     {
       "name": "Adilhyz",
       "url": "https://github.com/adilhyz",
-      "avatar": "https://adilhyz.github.io/images/aing.png"
+      "avatar": "https://sanrei.my.id/images/aing.png"
     }
   ],
   "items": [
@@ -18,17 +18,17 @@
       "title": "Instalasi Arch Linux Full Dengan Bspwm",
       "date_published": "2025-10-12T21:17:54&#43;07:00",
       "date_modified": "2025-10-13T02:23:56&#43;07:00",
-      "id": "https://adilhyz.github.io/posts/arch-linux-full-install-with-bspwm/",
-      "url": "https://adilhyz.github.io/posts/arch-linux-full-install-with-bspwm/",
+      "id": "https://sanrei.my.id/posts/arch-linux-full-install-with-bspwm/",
+      "url": "https://sanrei.my.id/posts/arch-linux-full-install-with-bspwm/",
       "authors": [
         {
           "name": "Adilhyz",
           "url": "https://github.com/adilhyz",
-          "avatar": "https://adilhyz.github.io/images/aing.png"
+          "avatar": "https://sanrei.my.id/images/aing.png"
         }
       ],
       "tags": ["ArchLinux","Linux","bspwm","kernel"],
-      "image": "https://adilhyz.github.io/posts/arch-linux-full-install-with-bspwm/featured.gif",
+      "image": "https://sanrei.my.id/posts/arch-linux-full-install-with-bspwm/featured.gif",
       "summary": "Arch Linux Hai semua, kali ini saya akan mengshare, cara menginstal Arch Linux dengan Window Manager bspwm. File sistemnya btrfs, Ada dua Opsi untuk instalasi Arch Linux Yaitu Otomatis dengan archinstall Dan Manual.\nCatatan\n",
       "content_html": "\u003ch2 class=\"heading-element\" id=\"arch-linux\"\u003e\u003cspan\u003eArch Linux\u003c/span\u003e\n  \u003ca href=\"#arch-linux\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003eHai semua, kali ini saya akan mengshare, cara menginstal \u003cstrong\u003eArch Linux\u003c/strong\u003e dengan Window Manager \u003cstrong\u003ebspwm\u003c/strong\u003e. File sistemnya \u003cstrong\u003ebtrfs\u003c/strong\u003e, Ada dua Opsi untuk instalasi \u003cstrong\u003eArch Linux\u003c/strong\u003e Yaitu Otomatis dengan \u003ca href=\"https://wiki.archlinux.org/title/Archinstall\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003earchinstall\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e Dan Manual.\u003c/p\u003e\n\u003cdiv class=\"alert alert-note\"\u003e\u003cp class=\"alert-title\"\u003e\u003csvg class=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\" width=\"16\" height=\"16\"\u003e\u003cpath d=\"M0 8a8 8 0 1116 0A8 8 0 010 8zm8-6.5a6.5 6.5.0 100 13 6.5 6.5.0 000-13zM6.5 7.75A.75.75.0 017.25 7h1a.75.75.0 01.75.75v2.75h.25a.75.75.0 010 1.5h-2a.75.75.0 010-1.5h.25v-2h-.25a.75.75.0 01-.75-.75zM8 6a1 1 0 110-2 1 1 0 010 2z\"/\u003e\u003c/svg\u003eCatatan\u003c/p\u003e"
     },
@@ -36,17 +36,17 @@
       "title": "Android Adalah Linux?",
       "date_published": "2025-06-29T16:35:53&#43;07:00",
       "date_modified": "2025-11-01T20:48:07&#43;07:00",
-      "id": "https://adilhyz.github.io/posts/android-linux/",
-      "url": "https://adilhyz.github.io/posts/android-linux/",
+      "id": "https://sanrei.my.id/posts/android-linux/",
+      "url": "https://sanrei.my.id/posts/android-linux/",
       "authors": [
         {
           "name": "Adilhyz",
           "url": "https://github.com/adilhyz",
-          "avatar": "https://adilhyz.github.io/images/aing.png"
+          "avatar": "https://sanrei.my.id/images/aing.png"
         }
       ],
       "tags": ["Android","Kernel","Open Source"],
-      "image": "https://adilhyz.github.io/posts/android-linux/featured.png",
+      "image": "https://sanrei.my.id/posts/android-linux/featured.png",
       "summary": "Android Ya, Android memanglah populer dikalangan pengguna smartphone, data menunjukan bahwa Android menduduki peringkat pertama pengguna smartphone terbanyak di Dunia. Android merupakan sistem operasi sumber terbuka yang dikembangkan oleh Google dan Open Handset Alliance. Android dirancang untuk perangkat ponsel pintar dan tablet.\n",
       "content_html": "\u003ch2 class=\"heading-element\" id=\"android\"\u003e\u003cspan\u003eAndroid\u003c/span\u003e\n  \u003ca href=\"#android\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003eYa, Android memanglah populer dikalangan pengguna smartphone, \u003ca href=\"https://gs.statcounter.com/os-market-share/mobile/worldwide\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003edata\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e menunjukan bahwa Android menduduki peringkat pertama pengguna smartphone terbanyak di Dunia. Android merupakan sistem operasi sumber terbuka yang dikembangkan oleh \u003ca href=\"https://www.android.com/\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003eGoogle\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e dan \u003ca href=\"https://www.openhandsetalliance.com/android_overview.html\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003eOpen Handset Alliance\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e.  Android dirancang untuk perangkat ponsel pintar dan tablet.\u003c/p\u003e"
     }

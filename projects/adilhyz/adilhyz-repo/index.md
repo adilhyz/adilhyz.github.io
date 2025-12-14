@@ -34,5 +34,5 @@ Server = http://adilhyz.github.io/adilhyz-repo/x86_64
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://adilhyz.github.io/projects/adilhyz/adilhyz-repo/  
+> URL: https://sanrei.my.id/projects/adilhyz/adilhyz-repo/  
 

@@ -70,5 +70,5 @@ Untuk pertanyaan mengenai privasi silahkan hubungi:
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://adilhyz.github.io/privacy/  
+> URL: https://sanrei.my.id/privacy/  
 
