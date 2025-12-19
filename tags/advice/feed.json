@@ -1,0 +1,36 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "advice - Tag | AdilHyz",
+  "description": "Just People, Linux Enthusiast &amp; Software Engineer. Find me online at sanrei.my.id。",
+  "home_page_url": "https://sanrei.my.id/",
+  "language": "id",
+  "icon": "https://sanrei.my.id/apple-touch-icon.png",
+  "favicon": "https://sanrei.my.id/favicon.ico",
+  "authors": [
+    {
+      "name": "Adilhyz",
+      "url": "https://github.com/adilhyz",
+      "avatar": "https://sanrei.my.id/images/aing.png"
+    }
+  ],
+  "items": [
+    {
+      "title": "Tabur Tuai",
+      "date_published": "2025-12-18T14:10:21&#43;07:00",
+      "date_modified": "2025-12-19T23:39:41&#43;07:00",
+      "id": "https://sanrei.my.id/posts/tabur-tuai/",
+      "url": "https://sanrei.my.id/posts/tabur-tuai/",
+      "authors": [
+        {
+          "name": "Adilhyz",
+          "url": "https://github.com/adilhyz",
+          "avatar": "https://sanrei.my.id/images/aing.png"
+        }
+      ],
+      "tags": ["advice"],
+      "image": "https://sanrei.my.id/posts/tabur-tuai/featured.png",
+      "summary": "Saya Gen z Perlu digaris bawahi disini Saya merupakan gen-z.\nTidak semua mungkin hanya saya saja, disini memang saya pemilih kerjaan.\nKetika saya sedang merantau ini adalah hari dimana saya mendapat nasihat, Artikel ini dibuat murni dari pengalaman saya yang merasa gagal dalam sesuatu.\nSaya tidak bisa menjelaskan spesifik beliau background seperti apa, Ketika sedang menjalankan tugas, saya mendapat pelanggan tetap yaitu seorang bapak-bapak yang berbagi kisah hidupnya yang sudah banyak melalui manis pahitnya hidup.\n",
+      "content_html": "\u003ch2 class=\"heading-element\" id=\"saya-gen-z\"\u003e\u003cspan\u003eSaya Gen z\u003c/span\u003e\n  \u003ca href=\"#saya-gen-z\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003ePerlu digaris bawahi disini Saya merupakan gen-z.\u003c/p\u003e\n\u003cp\u003eTidak semua mungkin hanya saya saja, disini memang saya pemilih kerjaan.\u003c/p\u003e\n\u003cp\u003eKetika saya sedang merantau ini adalah hari dimana saya mendapat nasihat,\nArtikel ini dibuat murni dari pengalaman saya yang merasa gagal dalam sesuatu.\u003c/p\u003e\n\u003cp\u003eSaya tidak bisa menjelaskan spesifik beliau background seperti apa,\nKetika sedang menjalankan tugas, saya mendapat pelanggan tetap yaitu seorang bapak-bapak\nyang berbagi kisah hidupnya yang sudah banyak melalui manis pahitnya hidup.\u003c/p\u003e"
+    }
+  ]
+}

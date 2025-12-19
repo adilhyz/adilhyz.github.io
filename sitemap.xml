@@ -8,7 +8,31 @@
   </url>
   <url>
     <loc>https://sanrei.my.id/</loc>
-    <lastmod>2025-12-14T21:17:06+07:00</lastmod>
+    <lastmod>2025-12-19T23:39:41+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sanrei.my.id/tags/advice/</loc>
+    <lastmod>2025-12-19T23:39:41+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sanrei.my.id/posts/</loc>
+    <lastmod>2025-12-19T23:39:41+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sanrei.my.id/posts/tabur-tuai/</loc>
+    <lastmod>2025-12-19T23:39:41+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://sanrei.my.id/tags/</loc>
+    <lastmod>2025-12-19T23:39:41+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -44,18 +68,6 @@
   </url>
   <url>
     <loc>https://sanrei.my.id/collections/petlover/</loc>
-    <lastmod>2025-11-12T16:07:24+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sanrei.my.id/posts/</loc>
-    <lastmod>2025-11-12T16:07:24+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://sanrei.my.id/tags/</loc>
     <lastmod>2025-11-12T16:07:24+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

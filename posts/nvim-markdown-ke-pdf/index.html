@@ -469,19 +469,6 @@ membaca dan menulis dokumen Markdown dengan lebih nyaman dan terstruktur.</p>
 </div><p>Saya menggunakan alur kerja tidak auto preview, karena Saya mengalami kasus
 dimana render-markdown dan KNAP conflict antara mdtopdfbufferasstdin, dan render-markdown tidak jalan semestinya.</p>
           
-        
-          
-          
-<div class="highlight" title="lsp-config.lua"><pre tabindex="0" class="chroma"><code class="language-diff" data-lang="diff"><span class="line"><span class="ln"> 9</span><span class="cl"><span class="gd">- vim.g.knap_settings = {
-</span></span></span><span class="line"><span class="ln">10</span><span class="cl"><span class="gd">-   mdtopdfviewerrefresh = &#34;zathura %outputfile%&#34;,
-</span></span></span><span class="line"><span class="ln">11</span><span class="cl"><span class="gd">-   mdtopdfbufferasstdin = true,
-</span></span></span><span class="line"><span class="ln">12</span><span class="cl"><span class="gd"></span><span class="gi">+ vim.g.knap_settings = {
-</span></span></span><span class="line"><span class="ln">13</span><span class="cl"><span class="gi">+   mdtopdfviewerrefresh = &#34;none&#34;,
-</span></span></span><span class="line"><span class="ln">14</span><span class="cl"><span class="gi">+   mdtopdfbufferasstdin = false,
-</span></span></span><span class="line"><span class="ln">15</span><span class="cl"><span class="gi"></span>}
-</span></span></code></pre></div><p>Ada dua Opsi di atas, jika kalian ingin <a href="#flow-diagram">Alur kerja Auto Preview</a>, maka gunakan diff yang merah.
-Karena dari awal Saya menggunakan render-markdown, Saya menonaktifkan fitur Auto Preview.</p>
-          
             <div class="my-6">
               
 
@@ -497,6 +484,19 @@ Karena dari awal Saya menggunakan render-markdown, Saya menonaktifkan fitur Auto
 
 
             </div>
+          
+        
+          
+          
+<div class="highlight" title="lsp-config.lua"><pre tabindex="0" class="chroma"><code class="language-diff" data-lang="diff"><span class="line"><span class="ln"> 9</span><span class="cl"><span class="gd">- vim.g.knap_settings = {
+</span></span></span><span class="line"><span class="ln">10</span><span class="cl"><span class="gd">-   mdtopdfviewerrefresh = &#34;zathura %outputfile%&#34;,
+</span></span></span><span class="line"><span class="ln">11</span><span class="cl"><span class="gd">-   mdtopdfbufferasstdin = true,
+</span></span></span><span class="line"><span class="ln">12</span><span class="cl"><span class="gd"></span><span class="gi">+ vim.g.knap_settings = {
+</span></span></span><span class="line"><span class="ln">13</span><span class="cl"><span class="gi">+   mdtopdfviewerrefresh = &#34;none&#34;,
+</span></span></span><span class="line"><span class="ln">14</span><span class="cl"><span class="gi">+   mdtopdfbufferasstdin = false,
+</span></span></span><span class="line"><span class="ln">15</span><span class="cl"><span class="gi"></span>}
+</span></span></code></pre></div><p>Ada dua Opsi di atas, jika kalian ingin <a href="#flow-diagram">Alur kerja Auto Preview</a>, maka gunakan diff yang merah.
+Karena dari awal Saya menggunakan render-markdown, Saya menonaktifkan fitur Auto Preview.</p>
           
         
           
@@ -730,7 +730,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <noscript>
     <div class="noscript-warning">Situs ini bekerja paling baik dengan JavaScript.</div>
   </noscript>
-</div><link rel="stylesheet" href="https://unpkg.com/lightgallery@2.7.2/css/lightgallery-bundle.min.css"><link rel="stylesheet" href="https://unpkg.com/cookieconsent@3.1.1/build/cookieconsent.min.css"><link rel="stylesheet" href="https://unpkg.com/pace-js@1.2.4/themes/purple/pace-theme-minimal.css"><script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.js?features=Array.prototype.fill%2CArray.prototype.find%2CArray.from%2CIntersectionObserver%2CMath.sign%2CObject.assign%2CPromise%2CObject.entries%2Chtml5shiv%2CObject.values%2Cfetch%2CElement.prototype.after"></script><script src="https://adilhyz.disqus.com/embed.js" defer></script><script src="https://unpkg.com/autocomplete.js@0.38.1/dist/autocomplete.min.js" defer></script><script src="https://unpkg.com/fuse.js@6.6.2/dist/fuse.min.js" defer></script><script src="https://unpkg.com/instant.page@5.2.0/instantpage.js" async defer type="module"></script><script src="https://unpkg.com/lightgallery@2.7.2/lightgallery.min.js" defer></script><script src="https://unpkg.com/lightgallery@2.7.2/plugins/thumbnail/lg-thumbnail.min.js" defer></script><script src="https://unpkg.com/lightgallery@2.7.2/plugins/zoom/lg-zoom.min.js" defer></script><script src="https://unpkg.com/sharer.js@0.5.1/sharer.min.js" async defer></script><script src="https://unpkg.com/@github/tab-container-element@4.8.2/dist/index.js" defer type="module"></script><script src="https://unpkg.com/cookieconsent@3.1.1/build/cookieconsent.min.js" defer></script><script src="https://unpkg.com/cell-watermark@1.0.3/src/watermark.min.js" defer></script><script src="https://unpkg.com/pace-js@1.2.4/pace.min.js" async defer></script><script src="/js/_custom/fullscreen.js" defer></script><script src="/posts/nvim-markdown-ke-pdf/config/page.js" defer></script><script src="/js/lib/mermaid.min.js" type="module"></script><script src="/js/theme.min.js" defer></script><script src="/js/flyfish.min.js" defer></script><script src="/lib/translate.min.js" defer></script><script>window.ATConfig={"hugoLangCodes":["id"],"hugoLangMap":{"id":"/posts/nvim-markdown-ke-pdf/"}};</script><script src="/js/translate.fixit.min.js" defer></script><script>
+</div><link rel="stylesheet" href="https://unpkg.com/lightgallery@2.7.2/css/lightgallery-bundle.min.css"><link rel="stylesheet" href="https://unpkg.com/cookieconsent@3.1.1/build/cookieconsent.min.css"><link rel="stylesheet" href="https://unpkg.com/pace-js@1.2.4/themes/purple/pace-theme-minimal.css"><script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.js?features=Array.prototype.fill%2CArray.prototype.find%2CArray.from%2CIntersectionObserver%2CMath.sign%2CObject.assign%2CPromise%2CObject.entries%2Chtml5shiv%2CObject.values%2Cfetch%2CElement.prototype.after"></script><script src="https://sanrei-my-id.disqus.com/embed.js" defer></script><script src="https://unpkg.com/autocomplete.js@0.38.1/dist/autocomplete.min.js" defer></script><script src="https://unpkg.com/fuse.js@6.6.2/dist/fuse.min.js" defer></script><script src="https://unpkg.com/instant.page@5.2.0/instantpage.js" async defer type="module"></script><script src="https://unpkg.com/lightgallery@2.7.2/lightgallery.min.js" defer></script><script src="https://unpkg.com/lightgallery@2.7.2/plugins/thumbnail/lg-thumbnail.min.js" defer></script><script src="https://unpkg.com/lightgallery@2.7.2/plugins/zoom/lg-zoom.min.js" defer></script><script src="https://unpkg.com/sharer.js@0.5.1/sharer.min.js" async defer></script><script src="https://unpkg.com/@github/tab-container-element@4.8.2/dist/index.js" defer type="module"></script><script src="https://unpkg.com/cookieconsent@3.1.1/build/cookieconsent.min.js" defer></script><script src="https://unpkg.com/cell-watermark@1.0.3/src/watermark.min.js" defer></script><script src="https://unpkg.com/pace-js@1.2.4/pace.min.js" async defer></script><script src="/js/_custom/fullscreen.js" defer></script><script src="/posts/nvim-markdown-ke-pdf/config/page.js" defer></script><script src="/js/lib/mermaid.min.js" type="module"></script><script src="/js/theme.min.js" defer></script><script src="/js/flyfish.min.js" defer></script><script src="/lib/translate.min.js" defer></script><script>window.ATConfig={"hugoLangCodes":["id"],"hugoLangMap":{"id":"/posts/nvim-markdown-ke-pdf/"}};</script><script src="/js/translate.fixit.min.js" defer></script><script>
       window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());
       gtag('config', 'G-32DSNF8QZY', { 'anonymize_ip': true });
     </script><script src="https://www.googletagmanager.com/gtag/js?id=G-32DSNF8QZY" async></script><script async defer data-website-id="7004d7c9-8914-456e-b6fb-44d89176faa2" src="https://cloud.umami.is/script.js"  ></script></body>

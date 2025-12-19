@@ -2,13 +2,14 @@
 
 > Just People, Linux Enthusiast & Software Engineer. Find me online at sanrei.my.id。
 
-Total 12 artikel by [Adilhyz](https://github.com/adilhyz).
+Total 13 artikel by [Adilhyz](https://github.com/adilhyz).
 
 ## 2025
 
 <details open>
-<summary>Total 9 artikel</summary>
+<summary>Total 10 artikel</summary>
 
+- 12-18 [Tabur Tuai](https://sanrei.my.id/posts/tabur-tuai/ "2025-12-18 14:10:21")
 - 11-11 [Kehilangan Hewan Peliharaan](https://sanrei.my.id/posts/kehilangan-kucing-kesayangan/ "2025-11-11 14:10:21")
 - 11-06 [Tab Vs Spasi: Pilihan yang tiada ujungnya](https://sanrei.my.id/posts/tab-vs-spasi/ "2025-11-06 13:40:01")
 - 11-01 [Kebocoran Data, Fenomena atau Drama tahunan](https://sanrei.my.id/posts/kebocoran-data/ "2025-11-01 21:36:24")
