@@ -21,7 +21,7 @@ Sisanya? **Jadi pajangan**.
 
 ## Semua Jadi Satu “All-in-One”
 
-{{< image src="aplikasi-mobile.jpg" caption="Ilustrated by [docif.telkomuniversity.ac.id](https://docif.telkomuniversity.ac.id/apa-itu-aplikasi-mobile/)" alt="Tabur Tuai" width="550px" >}}
+{{< image src="aplikasi-mobile.jpg" caption="Ilustrated by [docif.telkomuniversity.ac.id](https://docif.telkomuniversity.ac.id/apa-itu-aplikasi-mobile/)" alt="Semua fitur dijadikan satu aplikasi" width="550px" >}}
 
 ++Kebanyakan Pengguna hanya butuh sedikit fitur simple yang jalan dan berguna++. Bukan banyak fitur yang nambah dan jarang dipake yang malah bikin aplikasi berat dan lemot.
 
@@ -56,7 +56,7 @@ Banyak fitur itu keren di presentasi. Bagus di slide investor. Tapi di tangan pe
 
 ## Storage Besar, Tapi Selalu Penuh
 
-{{< image src="storage.png" caption="Ilustrated by [thumb.viva.id](https://digital.viva.co.id/hp/4090-jangan-panik-ini-7-cara-jitu-atasi-memori-hp-android-penuh-nomor-4-sering-diabaikan)" alt="Tabur Tuai" width="550px" >}}
+{{< image src="storage.png" caption="Ilustrated by [thumb.viva.id](https://digital.viva.co.id/hp/4090-jangan-panik-ini-7-cara-jitu-atasi-memori-hp-android-penuh-nomor-4-sering-diabaikan)" alt="Storage Smartphone di era sekarang" width="550px" >}}
 
 HP Zaman sekarang penyimpanan storage gede-gede. 
 tidak seperti saya yang pertama kali main smartphone dengan storage 16 GB wkwkwkwk,
@@ -73,7 +73,7 @@ Padahal ++pengguna cuma pakai **10%**++ dari keseluruhan aplikasi itu.
 
 ## **Update yang Kita Gak Minta**
 
-{{< image src="update.png" caption="Ilustrated by [comp-eng.binus.ac.id](https://comp-eng.binus.ac.id/2025/10/29/kenapa-update-software-itu-penting-bukan-sekadar-fitur-baru/)" alt="Tabur Tuai" width="550px" >}}
+{{< image src="update.png" caption="Ilustrated by [comp-eng.binus.ac.id](https://comp-eng.binus.ac.id/2025/10/29/kenapa-update-software-itu-penting-bukan-sekadar-fitur-baru/)" alt="Update otomatis yang mengganggu" width="550px" >}}
 
 
 Yang bikin kesel, update sering datang tanpa permintaan.
