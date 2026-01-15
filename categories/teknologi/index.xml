@@ -4,13 +4,21 @@
     <title>Teknologi - Kategori | AdilHyz</title>
     <link>https://sanrei.my.id/categories/teknologi/</link>
     <description>Just People, Linux Enthusiast &amp; Software Engineer. Find me online at sanrei.my.id。</description>
-    <generator>Hugo 0.152.2 &amp; FixIt v0.4.0-alpha.2</generator>
+    <generator>Hugo 0.153.3 &amp; FixIt v0.4.1</generator>
     <language>id</language>
     <managingEditor>sandyadilhayyi@gmail.com (Adilhyz)</managingEditor>
     <webMaster>sandyadilhayyi@gmail.com (Adilhyz)</webMaster>
     <copyright>Karya ini dilisensikan di bawah Lisensi Creative Commons Attribution-ShareAlike 4.0 Internasional.</copyright>
-    <lastBuildDate>Thu, 06 Nov 2025 15:51:44 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 01:45:55 +0700</lastBuildDate>
     <atom:link href="https://sanrei.my.id/categories/teknologi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kenapa Aplikasi Sekarang makin hari makin berat?</title>
+      <link>https://sanrei.my.id/posts/aplikasi-makin-hari-makin-berat/</link>
+      <pubDate>Thu, 15 Jan 2026 23:26:19 +0700</pubDate><author>sandyadilhayyi@gmail.com (Adilhyz)</author>
+      <guid>https://sanrei.my.id/posts/aplikasi-makin-hari-makin-berat/</guid>
+      <category domain="https://sanrei.my.id/categories/teknologi/">Teknologi</category>
+      <description>&lt;h2 class=&#34;heading-element&#34; id=&#34;fitur-banyak-minim-digunakan&#34;&gt;&lt;span&gt;Fitur Banyak, Minim digunakan.&lt;/span&gt;&#xA;  &lt;a href=&#34;#fitur-banyak-minim-digunakan&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;ins&gt;Terlalu banyak fitur&lt;/ins&gt;, Tapi yang Dipakai Itu-Itu Aja&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Setiap update selalu bawa tampilan baru, pengalaman baru.&#xA;Padahal yang berubah cuma posisi tombol, dan kadang bikin tambah ribet.&lt;/p&gt;&#xA;&lt;p&gt;Ukuran nambah, menu makin bercabang, fitur baru selalu nongol tiap update.&#xA;Yang bikin heran dari semua itu, yang dipakai ya tetap itu-itu aja.&lt;/p&gt;&#xA;&lt;p&gt;&lt;ins&gt;Chat ya chat&lt;/ins&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Tab Vs Spasi: Pilihan yang tiada ujungnya</title>
       <link>https://sanrei.my.id/posts/tab-vs-spasi/</link>

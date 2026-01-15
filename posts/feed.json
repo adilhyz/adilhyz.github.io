@@ -15,9 +15,27 @@
   ],
   "items": [
     {
+      "title": "Kenapa Aplikasi Sekarang makin hari makin berat?",
+      "date_published": "2026-01-15T23:26:19&#43;07:00",
+      "date_modified": "2026-01-16T01:45:55&#43;07:00",
+      "id": "https://sanrei.my.id/posts/aplikasi-makin-hari-makin-berat/",
+      "url": "https://sanrei.my.id/posts/aplikasi-makin-hari-makin-berat/",
+      "authors": [
+        {
+          "name": "Adilhyz",
+          "url": "https://github.com/adilhyz",
+          "avatar": "https://sanrei.my.id/images/aing.png"
+        }
+      ],
+      "tags": ["aplikasi","software","opini"],
+      "image": "https://sanrei.my.id/posts/aplikasi-makin-hari-makin-berat/featured.png",
+      "summary": "Fitur Banyak, Minim digunakan. Terlalu banyak fitur, Tapi yang Dipakai Itu-Itu Aja\nSetiap update selalu bawa tampilan baru, pengalaman baru. Padahal yang berubah cuma posisi tombol, dan kadang bikin tambah ribet.\nUkuran nambah, menu makin bercabang, fitur baru selalu nongol tiap update. Yang bikin heran dari semua itu, yang dipakai ya tetap itu-itu aja.\nChat ya chat.\n",
+      "content_html": "\u003ch2 class=\"heading-element\" id=\"fitur-banyak-minim-digunakan\"\u003e\u003cspan\u003eFitur Banyak, Minim digunakan.\u003c/span\u003e\n  \u003ca href=\"#fitur-banyak-minim-digunakan\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cblockquote\u003e\n\u003cp\u003e\u003cins\u003eTerlalu banyak fitur\u003c/ins\u003e, Tapi yang Dipakai Itu-Itu Aja\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eSetiap update selalu bawa tampilan baru, pengalaman baru.\nPadahal yang berubah cuma posisi tombol, dan kadang bikin tambah ribet.\u003c/p\u003e\n\u003cp\u003eUkuran nambah, menu makin bercabang, fitur baru selalu nongol tiap update.\nYang bikin heran dari semua itu, yang dipakai ya tetap itu-itu aja.\u003c/p\u003e\n\u003cp\u003e\u003cins\u003eChat ya chat\u003c/ins\u003e.\u003c/p\u003e"
+    },
+    {
       "title": "Tabur Tuai",
       "date_published": "2025-12-18T14:10:21&#43;07:00",
-      "date_modified": "2025-12-19T23:39:41&#43;07:00",
+      "date_modified": "2025-12-31T04:24:40&#43;07:00",
       "id": "https://sanrei.my.id/posts/tabur-tuai/",
       "url": "https://sanrei.my.id/posts/tabur-tuai/",
       "authors": [
@@ -35,7 +53,7 @@
     {
       "title": "Kehilangan Hewan Peliharaan",
       "date_published": "2025-11-11T14:10:21&#43;07:00",
-      "date_modified": "2025-11-12T16:07:24&#43;07:00",
+      "date_modified": "2025-12-31T04:24:40&#43;07:00",
       "id": "https://sanrei.my.id/posts/kehilangan-kucing-kesayangan/",
       "url": "https://sanrei.my.id/posts/kehilangan-kucing-kesayangan/",
       "authors": [
@@ -53,7 +71,7 @@
     {
       "title": "Tab Vs Spasi: Pilihan yang tiada ujungnya",
       "date_published": "2025-11-06T13:40:01&#43;07:00",
-      "date_modified": "2025-11-06T15:51:44&#43;07:00",
+      "date_modified": "2025-12-31T04:24:40&#43;07:00",
       "id": "https://sanrei.my.id/posts/tab-vs-spasi/",
       "url": "https://sanrei.my.id/posts/tab-vs-spasi/",
       "authors": [
@@ -71,7 +89,7 @@
     {
       "title": "Kebocoran Data, Fenomena atau Drama tahunan",
       "date_published": "2025-11-01T21:36:24&#43;07:00",
-      "date_modified": "2025-11-03T23:47:00&#43;07:00",
+      "date_modified": "2025-12-31T04:24:40&#43;07:00",
       "id": "https://sanrei.my.id/posts/kebocoran-data/",
       "url": "https://sanrei.my.id/posts/kebocoran-data/",
       "authors": [
@@ -89,7 +107,7 @@
     {
       "title": "Konversi Markdown Ke Pdf dengan Nvim KNAP",
       "date_published": "2025-10-24T16:17:32&#43;07:00",
-      "date_modified": "2025-10-31T20:31:43&#43;07:00",
+      "date_modified": "2025-12-31T04:24:40&#43;07:00",
       "id": "https://sanrei.my.id/posts/nvim-markdown-ke-pdf/",
       "url": "https://sanrei.my.id/posts/nvim-markdown-ke-pdf/",
       "authors": [
@@ -102,12 +120,12 @@
       "tags": ["neovim","markdown","pandoc","zathura","produktifitas","latex"],
       "image": "https://sanrei.my.id/posts/nvim-markdown-ke-pdf/featured.png",
       "summary": "Kevin’s Neovim Auto-Previewer (KNAP), merupakan Plugin Neovim yang berfungsi untuk menampilkan pratinjau yang diperbarui (Live Preview) dengan Zathura. KNAP mendukung berbagai jenis file seperti LaTeX, Markdown, dan format lainnya, dengan tampilan pratinjau (viewer). KNAP bisa digunakan dengan fleksibel untuk memantau jenis file tertentu serta menjalankan perintah kustom untuk proses kompilasi dan pratinjau.\nFlow diagram Ini adalah diagram untuk proses Plugin KNAP yang akan Saya gunakan:\n",
-      "content_html": "\u003cp\u003eKevin’s Neovim Auto-Previewer \u003cstrong\u003e(KNAP)\u003c/strong\u003e, merupakan Plugin Neovim yang berfungsi\nuntuk menampilkan pratinjau yang diperbarui \u003cem\u003e(Live Preview)\u003c/em\u003e dengan \u003ca href=\"https://pwmt.org/projects/zathura/\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003eZathura\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e.\nKNAP mendukung berbagai jenis file seperti \u003cstrong\u003eLaTeX\u003c/strong\u003e, \u003cstrong\u003eMarkdown\u003c/strong\u003e, dan format lainnya, dengan tampilan pratinjau (viewer).\nKNAP bisa digunakan dengan fleksibel untuk memantau jenis file tertentu serta menjalankan\nperintah kustom untuk proses kompilasi dan pratinjau.\u003c/p\u003e\n\u003ch2 class=\"heading-element\" id=\"flow-diagram\"\u003e\u003cspan\u003eFlow diagram\u003c/span\u003e\n  \u003ca href=\"#flow-diagram\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003eIni adalah diagram untuk proses Plugin KNAP yang akan Saya gunakan:\u003c/p\u003e"
+      "content_html": "\u003cp\u003eKevin’s Neovim Auto-Previewer \u003cstrong\u003e(KNAP)\u003c/strong\u003e, merupakan Plugin Neovim yang berfungsi\nuntuk menampilkan pratinjau yang diperbarui \u003cem\u003e(Live Preview)\u003c/em\u003e dengan \u003ca href=\"https://pwmt.org/projects/zathura/\" target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003eZathura\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e.\nKNAP mendukung berbagai jenis file seperti \u003cstrong\u003eLaTeX\u003c/strong\u003e, \u003cstrong\u003eMarkdown\u003c/strong\u003e, dan format lainnya, dengan tampilan pratinjau (viewer).\nKNAP bisa digunakan dengan fleksibel untuk memantau jenis file tertentu serta menjalankan\nperintah kustom untuk proses kompilasi dan pratinjau.\u003c/p\u003e\n\u003ch2 class=\"heading-element\" id=\"flow-diagram\"\u003e\u003cspan\u003eFlow diagram\u003c/span\u003e\n  \u003ca href=\"#flow-diagram\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003eIni adalah diagram untuk proses Plugin KNAP yang akan Saya gunakan:\u003c/p\u003e"
     },
     {
       "title": "Cara bermain Roblox di Linux",
       "date_published": "2025-10-19T08:31:52&#43;07:00",
-      "date_modified": "2025-10-25T17:42:23&#43;07:00",
+      "date_modified": "2025-12-31T04:24:40&#43;07:00",
       "id": "https://sanrei.my.id/posts/cara-bermain-roblox-di-linux/",
       "url": "https://sanrei.my.id/posts/cara-bermain-roblox-di-linux/",
       "authors": [
@@ -125,7 +143,7 @@
     {
       "title": "Ketika Stack Overflow mati, AI menjadi Guru baru Programmer",
       "date_published": "2025-10-15T11:42:52&#43;07:00",
-      "date_modified": "2025-10-19T15:01:05&#43;07:00",
+      "date_modified": "2025-12-31T04:24:40&#43;07:00",
       "id": "https://sanrei.my.id/posts/ai-gantikan-stackoverflow/",
       "url": "https://sanrei.my.id/posts/ai-gantikan-stackoverflow/",
       "authors": [
@@ -143,7 +161,7 @@
     {
       "title": "Instalasi Arch Linux Full Dengan Bspwm",
       "date_published": "2025-10-12T21:17:54&#43;07:00",
-      "date_modified": "2025-10-13T02:23:56&#43;07:00",
+      "date_modified": "2025-12-31T04:24:40&#43;07:00",
       "id": "https://sanrei.my.id/posts/arch-linux-full-install-with-bspwm/",
       "url": "https://sanrei.my.id/posts/arch-linux-full-install-with-bspwm/",
       "authors": [
@@ -156,12 +174,12 @@
       "tags": ["ArchLinux","Linux","bspwm","kernel"],
       "image": "https://sanrei.my.id/posts/arch-linux-full-install-with-bspwm/featured.gif",
       "summary": "Arch Linux Hai semua, kali ini saya akan mengshare, cara menginstal Arch Linux dengan Window Manager bspwm. File sistemnya btrfs, Ada dua Opsi untuk instalasi Arch Linux Yaitu Otomatis dengan archinstall Dan Manual.\nCatatan\n",
-      "content_html": "\u003ch2 class=\"heading-element\" id=\"arch-linux\"\u003e\u003cspan\u003eArch Linux\u003c/span\u003e\n  \u003ca href=\"#arch-linux\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003eHai semua, kali ini saya akan mengshare, cara menginstal \u003cstrong\u003eArch Linux\u003c/strong\u003e dengan Window Manager \u003cstrong\u003ebspwm\u003c/strong\u003e. File sistemnya \u003cstrong\u003ebtrfs\u003c/strong\u003e, Ada dua Opsi untuk instalasi \u003cstrong\u003eArch Linux\u003c/strong\u003e Yaitu Otomatis dengan \u003ca href=\"https://wiki.archlinux.org/title/Archinstall\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003earchinstall\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e Dan Manual.\u003c/p\u003e\n\u003cdiv class=\"alert alert-note\"\u003e\u003cp class=\"alert-title\"\u003e\u003csvg class=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\" width=\"16\" height=\"16\"\u003e\u003cpath d=\"M0 8a8 8 0 1116 0A8 8 0 010 8zm8-6.5a6.5 6.5.0 100 13 6.5 6.5.0 000-13zM6.5 7.75A.75.75.0 017.25 7h1a.75.75.0 01.75.75v2.75h.25a.75.75.0 010 1.5h-2a.75.75.0 010-1.5h.25v-2h-.25a.75.75.0 01-.75-.75zM8 6a1 1 0 110-2 1 1 0 010 2z\"/\u003e\u003c/svg\u003eCatatan\u003c/p\u003e"
+      "content_html": "\u003ch2 class=\"heading-element\" id=\"arch-linux\"\u003e\u003cspan\u003eArch Linux\u003c/span\u003e\n  \u003ca href=\"#arch-linux\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003eHai semua, kali ini saya akan mengshare, cara menginstal \u003cstrong\u003eArch Linux\u003c/strong\u003e dengan Window Manager \u003cstrong\u003ebspwm\u003c/strong\u003e. File sistemnya \u003cstrong\u003ebtrfs\u003c/strong\u003e, Ada dua Opsi untuk instalasi \u003cstrong\u003eArch Linux\u003c/strong\u003e Yaitu Otomatis dengan \u003ca href=\"https://wiki.archlinux.org/title/Archinstall\" target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003earchinstall\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e Dan Manual.\u003c/p\u003e\n\u003cdiv class=\"alert alert-note\"\u003e\u003cp class=\"alert-title\"\u003e\u003csvg class=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\" width=\"16\" height=\"16\"\u003e\u003cpath d=\"M0 8a8 8 0 1116 0A8 8 0 010 8zm8-6.5a6.5 6.5.0 100 13 6.5 6.5.0 000-13zM6.5 7.75A.75.75.0 017.25 7h1a.75.75.0 01.75.75v2.75h.25a.75.75.0 010 1.5h-2a.75.75.0 010-1.5h.25v-2h-.25a.75.75.0 01-.75-.75zM8 6a1 1 0 110-2 1 1 0 010 2z\"/\u003e\u003c/svg\u003eCatatan\u003c/p\u003e"
     },
     {
       "title": "Android Adalah Linux?",
       "date_published": "2025-06-29T16:35:53&#43;07:00",
-      "date_modified": "2025-11-01T20:48:07&#43;07:00",
+      "date_modified": "2025-12-31T04:24:40&#43;07:00",
       "id": "https://sanrei.my.id/posts/android-linux/",
       "url": "https://sanrei.my.id/posts/android-linux/",
       "authors": [
@@ -174,12 +192,12 @@
       "tags": ["Android","Kernel","Open Source"],
       "image": "https://sanrei.my.id/posts/android-linux/featured.png",
       "summary": "Android Ya, Android memanglah populer dikalangan pengguna smartphone, data menunjukan bahwa Android menduduki peringkat pertama pengguna smartphone terbanyak di Dunia. Android merupakan sistem operasi sumber terbuka yang dikembangkan oleh Google dan Open Handset Alliance. Android dirancang untuk perangkat ponsel pintar dan tablet.\n",
-      "content_html": "\u003ch2 class=\"heading-element\" id=\"android\"\u003e\u003cspan\u003eAndroid\u003c/span\u003e\n  \u003ca href=\"#android\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003eYa, Android memanglah populer dikalangan pengguna smartphone, \u003ca href=\"https://gs.statcounter.com/os-market-share/mobile/worldwide\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003edata\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e menunjukan bahwa Android menduduki peringkat pertama pengguna smartphone terbanyak di Dunia. Android merupakan sistem operasi sumber terbuka yang dikembangkan oleh \u003ca href=\"https://www.android.com/\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003eGoogle\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e dan \u003ca href=\"https://www.openhandsetalliance.com/android_overview.html\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003eOpen Handset Alliance\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e.  Android dirancang untuk perangkat ponsel pintar dan tablet.\u003c/p\u003e"
+      "content_html": "\u003ch2 class=\"heading-element\" id=\"android\"\u003e\u003cspan\u003eAndroid\u003c/span\u003e\n  \u003ca href=\"#android\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003eYa, Android memanglah populer dikalangan pengguna smartphone, \u003ca href=\"https://gs.statcounter.com/os-market-share/mobile/worldwide\" target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003edata\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e menunjukan bahwa Android menduduki peringkat pertama pengguna smartphone terbanyak di Dunia. Android merupakan sistem operasi sumber terbuka yang dikembangkan oleh \u003ca href=\"https://www.android.com/\" target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003eGoogle\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e dan \u003ca href=\"https://www.openhandsetalliance.com/android_overview.html\" target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003eOpen Handset Alliance\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e.  Android dirancang untuk perangkat ponsel pintar dan tablet.\u003c/p\u003e"
     },
     {
       "title": "Instalasi Cyberfox untuk Penetration Testing",
       "date_published": "2025-05-29T16:35:53&#43;07:00",
-      "date_modified": "2025-09-28T20:43:47&#43;07:00",
+      "date_modified": "2025-12-31T04:24:40&#43;07:00",
       "id": "https://sanrei.my.id/posts/cyberfox-install/",
       "url": "https://sanrei.my.id/posts/cyberfox-install/",
       "authors": [
@@ -192,12 +210,12 @@
       "tags": ["ArchLinux","Windows"],
       "image": "https://sanrei.my.id/posts/cyberfox-install/featured.png",
       "summary": "CyberFox Cyberfox merupakan Browser yang berbasis dari Firefox, yang di desain untuk Penetrasi Sistem tersedia di 64-bit dan 32-bit. Diambil dari sumber sourceforge Cyberfox sudah tidak mendapatkan update terbaru lagi sejak 2018. meski begitu Cyberfox tidak kalah unggul dari browser sebelah, karena masih support beberapa ekstensi lawas Yaitu Hackbar, Alat serbaguna untuk Penetrasi Keamanan.\n",
-      "content_html": "\u003ch2 class=\"heading-element\" id=\"cyberfox\"\u003e\u003cspan\u003eCyberFox\u003c/span\u003e\n  \u003ca href=\"#cyberfox\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003eCyberfox merupakan Browser yang berbasis dari Firefox, yang di desain untuk Penetrasi Sistem tersedia di 64-bit dan 32-bit. Diambil dari sumber \u003ca href=\"https://sourceforge.net/projects/cyberfox\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003esourceforge\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e Cyberfox sudah tidak mendapatkan update terbaru lagi sejak 2018. meski begitu Cyberfox tidak kalah unggul dari browser sebelah, karena masih support beberapa ekstensi lawas Yaitu \u003ca href=\"https://github.com/adilhyz/EXT/raw/refs/heads/main/hackbar-v2.9.xpi\"target=\"_blank\" rel=\"external nofollow noopener noreferrer\" download=\"https://github.com/adilhyz/EXT/raw/refs/heads/main/hackbar-v2.9.xpi\"\u003eHackbar\u003ci class=\"fa-solid fa-cloud-download-alt fa-fw ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e, Alat serbaguna untuk Penetrasi Keamanan.\u003c/p\u003e"
+      "content_html": "\u003ch2 class=\"heading-element\" id=\"cyberfox\"\u003e\u003cspan\u003eCyberFox\u003c/span\u003e\n  \u003ca href=\"#cyberfox\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003eCyberfox merupakan Browser yang berbasis dari Firefox, yang di desain untuk Penetrasi Sistem tersedia di 64-bit dan 32-bit. Diambil dari sumber \u003ca href=\"https://sourceforge.net/projects/cyberfox\" target=\"_blank\" rel=\"external nofollow noopener noreferrer\"\u003esourceforge\u003ci class=\"fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e Cyberfox sudah tidak mendapatkan update terbaru lagi sejak 2018. meski begitu Cyberfox tidak kalah unggul dari browser sebelah, karena masih support beberapa ekstensi lawas Yaitu \u003ca href=\"https://github.com/adilhyz/EXT/raw/refs/heads/main/hackbar-v2.9.xpi\" target=\"_blank\" rel=\"external nofollow noopener noreferrer\" download=\"https://github.com/adilhyz/EXT/raw/refs/heads/main/hackbar-v2.9.xpi\"\u003eHackbar\u003ci class=\"fa-solid fa-cloud-download-alt fa-fw ms-1 text-secondary\" aria-hidden=\"true\"\u003e\u003c/i\u003e\u003c/a\u003e, Alat serbaguna untuk Penetrasi Keamanan.\u003c/p\u003e"
     },
     {
       "title": "Spicetify Tool Untuk Spotify Premium",
       "date_published": "2023-11-23T16:35:53&#43;07:00",
-      "date_modified": "2025-10-24T14:31:30&#43;07:00",
+      "date_modified": "2025-12-31T04:24:40&#43;07:00",
       "id": "https://sanrei.my.id/posts/spicetify-install/",
       "url": "https://sanrei.my.id/posts/spicetify-install/",
       "authors": [
@@ -210,7 +228,7 @@
       "tags": ["ArchLinux","Windows","MacOS","Linux","Linux Mint","Debian","Ubuntu","Spotify"],
       "image": "https://sanrei.my.id/posts/spicetify-install/featured.png",
       "summary": "Spotify Spotify adalah salah satu pemutar musik online paling populer. Namun, Pengguna biasa sering diganggu oleh iklan yang berkepanjangan. lagi asik-asiknya dengerin musik, eh tiba-tiba nongol iklan. Kalau begini terus basmi saja semuanya.\nCatatan\n",
-      "content_html": "\u003ch2 class=\"heading-element\" id=\"spotify\"\u003e\u003cspan\u003eSpotify\u003c/span\u003e\n  \u003ca href=\"#spotify\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003e\u003cstrong\u003eSpotify\u003c/strong\u003e adalah salah satu pemutar musik online paling populer. Namun, Pengguna biasa sering diganggu oleh \u003cu\u003eiklan yang berkepanjangan\u003c/u\u003e. lagi asik-asiknya dengerin musik, eh tiba-tiba nongol iklan. Kalau begini terus basmi saja semuanya.\u003c/p\u003e\n\u003c!-- \u003ca class=\"lightgallery\" href=\"./3961-spotify.png\" title=\"Spotify\" data-thumbnail=\"./3961-spotify.png\" data-sub-html=\"\u003ch2\u003eSpotify\u003c/h2\u003e\"\u003e\u003cimg loading=\"lazy\" src='./3961-spotify.png' alt=\"Spotify\"\u003e\u003c/a\u003e --\u003e\n\u003cdiv class=\"alert alert-note\"\u003e\u003cp class=\"alert-title\"\u003e\u003csvg class=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\" width=\"16\" height=\"16\"\u003e\u003cpath d=\"M0 8a8 8 0 1116 0A8 8 0 010 8zm8-6.5a6.5 6.5.0 100 13 6.5 6.5.0 000-13zM6.5 7.75A.75.75.0 017.25 7h1a.75.75.0 01.75.75v2.75h.25a.75.75.0 010 1.5h-2a.75.75.0 010-1.5h.25v-2h-.25a.75.75.0 01-.75-.75zM8 6a1 1 0 110-2 1 1 0 010 2z\"/\u003e\u003c/svg\u003eCatatan\u003c/p\u003e"
+      "content_html": "\u003ch2 class=\"heading-element\" id=\"spotify\"\u003e\u003cspan\u003eSpotify\u003c/span\u003e\n  \u003ca href=\"#spotify\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cp\u003e\u003cstrong\u003eSpotify\u003c/strong\u003e adalah salah satu pemutar musik online paling populer. Namun, Pengguna biasa sering diganggu oleh \u003cu\u003eiklan yang berkepanjangan\u003c/u\u003e. lagi asik-asiknya dengerin musik, eh tiba-tiba nongol iklan. Kalau begini terus basmi saja semuanya.\u003c/p\u003e\n\u003c!-- \u003ca class=\"lightgallery\" target=\"_blank\" href=\"./3961-spotify.png\" title=\"Spotify\" data-thumbnail=\"./3961-spotify.png\" data-sub-html=\"\u003ch2\u003eSpotify\u003c/h2\u003e\"\u003e\u003cimg loading=\"lazy\" src='./3961-spotify.png' alt=\"Spotify\"\u003e\u003c/a\u003e --\u003e\n\u003cdiv class=\"alert alert-note\"\u003e\u003cp class=\"alert-title\"\u003e\u003csvg class=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\" width=\"16\" height=\"16\"\u003e\u003cpath d=\"M0 8a8 8 0 1116 0A8 8 0 010 8zm8-6.5a6.5 6.5.0 100 13 6.5 6.5.0 000-13zM6.5 7.75A.75.75.0 017.25 7h1a.75.75.0 01.75.75v2.75h.25a.75.75.0 010 1.5h-2a.75.75.0 010-1.5h.25v-2h-.25a.75.75.0 01-.75-.75zM8 6a1 1 0 110-2 1 1 0 010 2z\"/\u003e\u003c/svg\u003eCatatan\u003c/p\u003e"
     }
   ]
 }

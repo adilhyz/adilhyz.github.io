@@ -2,11 +2,20 @@
 
 > Just People, Linux Enthusiast & Software Engineer. Find me online at sanrei.my.id。
 
-Total 13 artikel by [Adilhyz](https://github.com/adilhyz).
+Total 14 artikel by [Adilhyz](https://github.com/adilhyz).
+
+## 2026
+
+<details open>
+<summary>Total 1 artikel</summary>
+
+- 01-15 [Kenapa Aplikasi Sekarang makin hari makin berat?](https://sanrei.my.id/posts/aplikasi-makin-hari-makin-berat/ "2026-01-15 23:26:19")
+
+</details>
 
 ## 2025
 
-<details open>
+<details>
 <summary>Total 10 artikel</summary>
 
 - 12-18 [Tabur Tuai](https://sanrei.my.id/posts/tabur-tuai/ "2025-12-18 14:10:21")

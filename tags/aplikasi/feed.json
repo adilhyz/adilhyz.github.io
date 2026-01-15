@@ -1,0 +1,36 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "aplikasi - Tag | AdilHyz",
+  "description": "Just People, Linux Enthusiast &amp; Software Engineer. Find me online at sanrei.my.id。",
+  "home_page_url": "https://sanrei.my.id/",
+  "language": "id",
+  "icon": "https://sanrei.my.id/apple-touch-icon.png",
+  "favicon": "https://sanrei.my.id/favicon.ico",
+  "authors": [
+    {
+      "name": "Adilhyz",
+      "url": "https://github.com/adilhyz",
+      "avatar": "https://sanrei.my.id/images/aing.png"
+    }
+  ],
+  "items": [
+    {
+      "title": "Kenapa Aplikasi Sekarang makin hari makin berat?",
+      "date_published": "2026-01-15T23:26:19&#43;07:00",
+      "date_modified": "2026-01-16T01:45:55&#43;07:00",
+      "id": "https://sanrei.my.id/posts/aplikasi-makin-hari-makin-berat/",
+      "url": "https://sanrei.my.id/posts/aplikasi-makin-hari-makin-berat/",
+      "authors": [
+        {
+          "name": "Adilhyz",
+          "url": "https://github.com/adilhyz",
+          "avatar": "https://sanrei.my.id/images/aing.png"
+        }
+      ],
+      "tags": ["aplikasi","software","opini"],
+      "image": "https://sanrei.my.id/posts/aplikasi-makin-hari-makin-berat/featured.png",
+      "summary": "Fitur Banyak, Minim digunakan. Terlalu banyak fitur, Tapi yang Dipakai Itu-Itu Aja\nSetiap update selalu bawa tampilan baru, pengalaman baru. Padahal yang berubah cuma posisi tombol, dan kadang bikin tambah ribet.\nUkuran nambah, menu makin bercabang, fitur baru selalu nongol tiap update. Yang bikin heran dari semua itu, yang dipakai ya tetap itu-itu aja.\nChat ya chat.\n",
+      "content_html": "\u003ch2 class=\"heading-element\" id=\"fitur-banyak-minim-digunakan\"\u003e\u003cspan\u003eFitur Banyak, Minim digunakan.\u003c/span\u003e\n  \u003ca href=\"#fitur-banyak-minim-digunakan\" class=\"heading-mark\"\u003e\n    \u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\n  \u003c/a\u003e\n\u003c/h2\u003e\u003cblockquote\u003e\n\u003cp\u003e\u003cins\u003eTerlalu banyak fitur\u003c/ins\u003e, Tapi yang Dipakai Itu-Itu Aja\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eSetiap update selalu bawa tampilan baru, pengalaman baru.\nPadahal yang berubah cuma posisi tombol, dan kadang bikin tambah ribet.\u003c/p\u003e\n\u003cp\u003eUkuran nambah, menu makin bercabang, fitur baru selalu nongol tiap update.\nYang bikin heran dari semua itu, yang dipakai ya tetap itu-itu aja.\u003c/p\u003e\n\u003cp\u003e\u003cins\u003eChat ya chat\u003c/ins\u003e.\u003c/p\u003e"
+    }
+  ]
+}
