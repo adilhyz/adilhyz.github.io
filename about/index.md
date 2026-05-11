@@ -102,5 +102,5 @@ return blog(name, author, url)
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: http://localhost:1313/about/  
+> URL: https://sanrei.my.id/about/  
 

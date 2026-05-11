@@ -374,5 +374,5 @@ Jika Anda Berkenan, kunjungi repositori [dotfiles](/posts/arch-linux-dotfiles/) 
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: http://localhost:1313/posts/arch-linux-full-install-with-bspwm/  
+> URL: https://sanrei.my.id/posts/arch-linux-full-install-with-bspwm/  
 

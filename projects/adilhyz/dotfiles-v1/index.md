@@ -50,5 +50,5 @@ Happy Ricing~
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: http://localhost:1313/projects/adilhyz/dotfiles-v1/  
+> URL: https://sanrei.my.id/projects/adilhyz/dotfiles-v1/  
 

@@ -112,5 +112,5 @@ Karena di dunia yang serba ribet ini,
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: http://localhost:1313/posts/aplikasi-makin-hari-makin-berat/  
+> URL: https://sanrei.my.id/posts/aplikasi-makin-hari-makin-berat/  
 

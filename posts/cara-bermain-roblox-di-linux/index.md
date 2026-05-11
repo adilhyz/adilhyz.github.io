@@ -121,5 +121,5 @@ Oke mungkin sekian sharing tutorial dari saya kali ini, Jika ada kendala atau pe
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: http://localhost:1313/posts/cara-bermain-roblox-di-linux/  
+> URL: https://sanrei.my.id/posts/cara-bermain-roblox-di-linux/  
 

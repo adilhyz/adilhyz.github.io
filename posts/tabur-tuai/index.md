@@ -60,5 +60,5 @@ Sampai jumpa di artikel selanjutnya.
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: http://localhost:1313/posts/tabur-tuai/  
+> URL: https://sanrei.my.id/posts/tabur-tuai/  
 

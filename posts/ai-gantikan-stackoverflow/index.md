@@ -137,5 +137,5 @@ Beberapa proyek menarik mulai muncul:
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: http://localhost:1313/posts/ai-gantikan-stackoverflow/  
+> URL: https://sanrei.my.id/posts/ai-gantikan-stackoverflow/  
 
