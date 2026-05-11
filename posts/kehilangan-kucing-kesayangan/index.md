@@ -55,7 +55,7 @@ Ya sudah 2 bulan berlalu.
 
 ## Loli...
 
-{{< image src="loli:(.png" caption="Loli: 2025-07 - 2025-11" alt="Loli..." >}}
+{{< image src="loli.png" caption="Loli: 2025-07 - 2025-11" alt="Loli..." >}}
 Saya pun tidak tega dengan ini tapi mungkin ini jalan terbaik bagi Allah SWT. Saya harus ikhlas meskipun berat.
 
 Sekian Artikel kali ini, semoga ini menjadi pelajaran bagi kita semuanya untuk tidak Lalai dalam menjaga Anabul,
@@ -66,5 +66,5 @@ saya pun masih berpikir untuk mengelak tapi ini mungkin kesalahan untuk lebih be
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://sanrei.my.id/posts/kehilangan-kucing-kesayangan/  
+> URL: http://localhost:1313/posts/kehilangan-kucing-kesayangan/  
 

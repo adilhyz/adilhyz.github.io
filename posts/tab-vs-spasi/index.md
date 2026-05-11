@@ -127,5 +127,5 @@ Manusia terlalu banyak waktu luang buat ngeributin hal kecil
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://sanrei.my.id/posts/tab-vs-spasi/  
+> URL: http://localhost:1313/posts/tab-vs-spasi/  
 

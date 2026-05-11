@@ -55,13 +55,14 @@ Software Engineer & Linux Enthusiast fast-growing experience in web development,
 ```timeline {reverse=true, animation=true}
  events:
     - timestamp: 2021 - 2024
-      content: SMKN SITURAJA | `SOFTWARE ENGINEER`
-      type: success
+      content: "<span class=\"text-neutral\">:(fa-solid fa-graduation-cap): SMKN SITURAJA | `SOFTWARE ENGINEER`</span>"
+      type: secondary
       size: large
+      node: dot
     - timestamp: 2021
-      content: SMAN SITURAJA | `SOCIAL STUDIES`
+      type: secondary
+      content: "<span class=\"text-secondary\">:(fa-solid fa-graduation-cap): SMAN SITURAJA | `SOCIAL STUDIES`</span>"
 ```
-
 
 <!-- {{< qr >}} -->
 <!-- https://tako.id/adilhyz -->
@@ -71,5 +72,5 @@ Software Engineer & Linux Enthusiast fast-growing experience in web development,
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://sanrei.my.id/cv/  
+> URL: http://localhost:1313/cv/  
 
