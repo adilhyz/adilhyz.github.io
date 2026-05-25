@@ -86,9 +86,11 @@ Jadi, lain kali kalau lihat tulisan **Apk mod** dan *“Gratis dalam bentuk apap
 
 Dalam beberapa kasus, ada sekelompok Orang yang secara cuma-cuma menjual data
 di BreachForum dengan user ***Bjorka***, dan Ia membuat domain sendiri nya untuk show-off untuk tujuan menjual data
-diambil dari sumber domain ia sendiri yaitu http://netleaks.net.
+diambil dari sumber domain ia sendiri yaitu http://netleaks.net
+
 
 ![Netleaks](./bjorka.png "Beberapa data yang diperjual belikan")
+
 
 Sampai artikel ini dibuat, Peretas ***Bjorka*** ini sudah banyak menjual data
 warga ke publik, dan tentunya itu semua adalah data kita di sebarluaskan dengan gratis dan
