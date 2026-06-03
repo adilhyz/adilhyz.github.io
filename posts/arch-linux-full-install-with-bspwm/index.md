@@ -371,6 +371,7 @@ Jika Anda Berkenan, kunjungi repositori [dotfiles](/posts/arch-linux-dotfiles/) 
 
 - [The Duck Channel](https://theduckchannel.github.io/post/2021/08/20/arch-linux-full-install-with-bspwm/)
 
+
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  

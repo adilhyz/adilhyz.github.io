@@ -38,29 +38,33 @@ Sisanya? **Jadi pajangan**.
 
 - Dan masih banyak lagi.
 
-## Fitur Banyak ≠ Berguna
+## Banyak fitur apakah Berguna
 
-Ini kenyataan yang jarang diakui developer. Sebagian besar user itu simpel. Yang penting:
+Mungkin untuk pengguna [**flagship kelas atas**](https://m.gsmarena.com/best_flagship_killers_buyers_guide-review-2039.php), fitur ini memang cukup berguna. 
+Tapi apakah pengguna mengengah kebawah akan menikmati fitur demikian?,
 
-- gak lemot
+Kenyataan yang jarang diakui developer. Sebagian besar pengguna khususnya kalangan menengah kebawah
+lebih mengincar **fungsi ketimbang gengsi**. Intinya,
 
-- gak error
+- gak bikin lemot
+
+- gak bikin error
 
 - gak ribet
 
-Kalau tiga itu beres, fitur tambahan cuma bonus.
+Kalau ++ada salah-satu++ itu **dijamin aplikasi banyak diminati pengguna**,
 
 
-Banyak fitur itu keren di presentasi. Bagus di slide investor. Tapi di tangan pengguna?
-> **Belum tentu kepake**.
+Banyak fitur itu keren di iklan. Tapi di tangan pengguna?
+> [!MISSING] **Belum tentu kepake**.
 
 ## Storage Besar, Tapi Selalu Penuh
 
 {{< image src="storage.png" caption="Ilustrated by [thumb.viva.id](https://digital.viva.co.id/hp/4090-jangan-panik-ini-7-cara-jitu-atasi-memori-hp-android-penuh-nomor-4-sering-diabaikan)" alt="Storage Smartphone di era sekarang" width="550px" >}}
 
-HP Zaman sekarang penyimpanan storage gede-gede. 
-tidak seperti saya yang pertama kali main smartphone dengan storage 16 GB wkwkwkwk,
-Standard Smartphone zaman sekarang sudah di 64 GB, 128 GB, 256GB.
+HP Zaman sekarang penyimpanan storage sudah jangan ditanya lagi besarnya. 
+tidak seperti saya yang pertama kali main smartphone dengan storage 8 GB wkwkwkwk,
+Standard Smartphone zaman sekarang sudah berkisar di 64 GB, 128 GB, 256GB.
 
 dari semua itu ada satu hal yang takkalah penting yaitu,
 
