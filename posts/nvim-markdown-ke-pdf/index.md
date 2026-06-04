@@ -133,9 +133,12 @@ Dengan setup ini:
 
 ## Tampilan Konversi
 
+
 ![konversi](./konversi.png "Nvim KNAP: Konversi Markdown Ke PDF")
 
+
 ## Referensi
+
 
 - [mzunino.com.uy](https://mzunino.com.uy/til/2025/03/nvim-knap-real-time-pdf-preview-for-markdown-and-latex/)
 
