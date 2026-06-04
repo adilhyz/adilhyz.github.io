@@ -79,7 +79,9 @@ sudo pacman -S cyberfox
 #### Debian based
 
 > [!INFO] Download CyberFox untuk [Debian](https://distrowatch.com/search.php?basedon=Debian). 
->Versi Terbaru [x86_64.deb](https://sourceforge.net/projects/cyberfox/files/Zipped%20Format/Cyberfox-52.9.1.en-US.linux-x86_64.deb/download) | [x86.deb](https://sourceforge.net/projects/cyberfox/files/Cyberfox-52.9.1.en-US.win64-x86_64.amd.exe/download)
+>Versi Terbaru {{< link href="https://sourceforge.net/projects/cyberfox/files/Zipped%20Format/Cyberfox-52.9.1.en-US.linux-x86_64.deb/download" content="x86_64.deb" download="https://sourceforge.net/projects/cyberfox/files/Zipped%20Format/Cyberfox-52.9.1.en-US.linux-x86_64.deb/download" >}} |
+{{< link href="https://sourceforge.net/projects/cyberfox/files/Zipped%20Format/Cyberfox-52.9.1.en-US.linux-x86.deb/download" content="x86.deb" download="https://sourceforge.net/projects/cyberfox/files/Zipped%20Format/Cyberfox-52.9.1.en-US.linux-x86.deb/download" >}}
+
 
 
 ## Run CyberFox
@@ -104,7 +106,7 @@ Setelah [Instalasi](#download) CyberFox, untuk pertama kali kita ditampilkan unt
 
 ### Impor Backup [**json**](https://github.com/adilhyz/EXT/raw/refs/heads/main/HackbarGweh.json)
 
-Sesudah Menginstall ekstensi HackBar, kemudian restore backup ke Tools lalu pilih Ikon settings dan file Import File [.json](https://github.com/adilhyz/EXT/raw/refs/heads/main/HackbarGweh.json)
+Sesudah Menginstall ekstensi HackBar, kemudian restore backup ke Tools lalu pergi k3 settings dan Import File [HackbarGweh.json](https://github.com/adilhyz/EXT/raw/refs/heads/main/HackbarGweh.json)
 
 {{< image src="impor.gif" class="grid-w70" width="530px" caption="Pilih Backup [**HackbarGweh.json**](https://github.com/adilhyz/EXT/raw/refs/heads/main/HackbarGweh.json)" >}}
 {{< image src="akhira.webp" class="grid-w70" width="530px" caption="Dan Ya, Cyberfox sudah siap untuk Pentesting" >}}
@@ -125,6 +127,7 @@ Sesudah Menginstall ekstensi HackBar, kemudian restore backup ke Tools lalu pili
 >
 > Di Linux Juga sama itu multifungsi kok, baik intel dan amd bisa berjalan dengan baik.
 {{< /details >}}
+
 
 ---
 
