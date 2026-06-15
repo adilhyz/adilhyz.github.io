@@ -116,5 +116,5 @@ Karena di dunia yang serba ribet ini,
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://sanrei.my.id/posts/aplikasi-makin-hari-makin-berat/  
+> URL: https://adilhyz.github.io/posts/aplikasi-makin-hari-makin-berat/  
 

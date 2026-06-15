@@ -34,6 +34,9 @@ yang saya gunakan yaitu [FixIt](https://fixit.lruihao.cn/).
 {{< details "Perjalanan Web Ini" >}}
 ```timeline {reverse=true, animation=true, height="280px"}
 events:
+  - timestamp: 2026-06-15 23:30:30
+    content: Beralih ke domain awal
+    type: success
   - timestamp: 2025-12-14 21:13:30
     content: Beralih ke domain sanrei.my.id
     type: success
@@ -102,5 +105,5 @@ return blog(name, author, url)
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://sanrei.my.id/about/  
+> URL: https://adilhyz.github.io/about/  
 

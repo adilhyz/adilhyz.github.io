@@ -7,5 +7,5 @@
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://sanrei.my.id/friends/  
+> URL: https://adilhyz.github.io/friends/  
 

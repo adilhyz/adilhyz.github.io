@@ -148,5 +148,5 @@ Sekian dari saya, Terimakasih sudah menyimak sampai akhir :)
 ---
 
 > Penulis: [Adilhyz](https://github.com/adilhyz)  
-> URL: https://sanrei.my.id/posts/kebocoran-data/  
+> URL: https://adilhyz.github.io/posts/kebocoran-data/  
 
