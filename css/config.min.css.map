@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "config.min.css",
-	"sourceRoot": "/data/data/com.termux/files/home/hugo-portfolio",
+	"sourceRoot": "/data/data/com.termux/files/home/adil.gh",
 	"sources": [
 		"/data/data/com.termux/files/home/.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-fixit/!fix!it@v0.4.5/assets/css/config.template.scss",
 		"../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-fixit/!fix!it@v0.4.5/assets/css/_variables.scss",
