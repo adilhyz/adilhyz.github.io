@@ -1,23 +1,151 @@
-User-agent: *
+# ============================================================
+# ALLOW - Major Search Engine Crawlers (Maximum Visibility)
+# ============================================================
 
-Disallow: /images/
-Disallow: /js/
-Disallow: /css/
+# Google
+User-agent: Googlebot
+Allow: /
+User-agent: Googlebot-Image
+Allow: /
+User-agent: Googlebot-Video
+Allow: /
+User-agent: Googlebot-News
+Allow: /
+User-agent: Storebot-Google
+Allow: /
 
-Disallow: /*offline/
-Disallow: /*404.html$
-Disallow: /*.md$
+# Bing / Microsoft
+User-agent: Bingbot
+Allow: /
+User-agent: MSNBot
+Allow: /
+User-agent: BingPreview
+Allow: /
+User-agent: adidxbot
+Allow: /
+
+# Yandex
+User-agent: YandexBot
+Allow: /
+User-agent: YandexImages
+Allow: /
+
+# Baidu
+User-agent: Baiduspider
+Allow: /
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+
+# Yahoo / Slurp
+User-agent: Slurp
+Allow: /
+
+# Naver (Korean)
+User-agent: Yeti
+Allow: /
+
+# Sogou (Chinese)
+User-agent: Sogou
+Allow: /
+
+# 360 Search (Chinese)
+User-agent: 360Spider
+Allow: /
+
+# Brave Search
+User-agent: BraveSearch
+Allow: /
+
+# Apple / Applebot
+User-agent: Applebot
+Allow: /
+
+# Facebook / Meta (for link previews)
+User-agent: facebookexternalhit
+Allow: /
+
+# Twitter/X (for card previews)
+User-agent: Twitterbot
+Allow: /
+
+# LinkedIn (for link previews)
+User-agent: LinkedInBot
+Allow: /
+
+# Telegram (for link previews)
+User-agent: TelegramBot
+Allow: /
+
+# WhatsApp (for link previews)
+User-agent: WhatsApp
+Allow: /
+
+# Pinterest
+User-agent: Pinterest
+Allow: /
+
+# ============================================================
+# BLOCK - AI Crawlers (Protect content, save bandwidth)
+# ============================================================
+
+# OpenAI
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+
+# Common Crawl (used to train LLMs)
+User-agent: CCBot
+Disallow: /
+
+# Anthropic
+User-agent: anthropic-ai
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Disallow: /
+
+# Bytedance
+User-agent: Bytespider
+Disallow: /
+
+# Meta AI
+User-agent: FacebookBot
+Disallow: /
+
+# Cohere
+User-agent: cohere-ai
+Disallow: /
+
+# Amazon
+User-agent: Amazonbot
+Disallow: /
+
+# Apple AI training
+User-agent: Applebot-Extended
+Disallow: /
+
+# Google AI training (not search)
+User-agent: Google-Extended
+Disallow: /
+
+# ============================================================
+# BLOCK - SEO Spam Bots & Scrapers
+# ============================================================
 
 User-agent: MJ12bot
 Disallow: /
-
 User-agent: AhrefsBot
 Disallow: /
-
 User-agent: BLEXBot
 Disallow: /
-
-# Block SISTRIX
 User-agent: SISTRIX Crawler
 Disallow: /
 User-agent: sistrix
@@ -26,75 +154,41 @@ User-agent: 007ac9
 Disallow: /
 User-agent: 007ac9 Crawler
 Disallow: /
-
-# Block Uptime robot
 User-agent: UptimeRobot/2.0
 Disallow: /
-
-# Block Ezooms Robot
 User-agent: Ezooms Robot
 Disallow: /
-
-# Block Perl LWP
 User-agent: Perl LWP
 Disallow: /
-
-# Block netEstate NE Crawler (+http://www.website-datenbank.de/)
 User-agent: netEstate NE Crawler (+http://www.website-datenbank.de/)
 Disallow: /
-
-# Block WiseGuys Robot
 User-agent: WiseGuys Robot
 Disallow: /
-
-# Block Turnitin Robot
 User-agent: Turnitin Robot
 Disallow: /
-
-# Block Heritrix
 User-agent: Heritrix
 Disallow: /
-
-# Block pricepi
 User-agent: pimonster
 Disallow: /
-
 User-agent: SurdotlyBot
 Disallow: /
-
 User-agent: ZoominfoBot
 Disallow: /
-
-# OpenAI, ChatGPT
-User-agent: GPTBot
+User-agent: SemrushBot
+Disallow: /
+User-agent: DotBot
+Disallow: /
+User-agent: DataForSeoBot
+Disallow: /
+User-agent: PetalBot
 Disallow: /
 
-# Google AI (Bard, etc)
-User-agent: Google-Extended
-Disallow: /
+# ============================================================
+# DEFAULT - Allow all other bots, block /resume
+# ============================================================
 
-# Block common crawl
-User-agent: CCBot
-Disallow: /
-
-# Facebook
-User-agent: FacebookBot
-Disallow: /
-
-# Cohere.ai
-User-agent: cohere-ai
-Disallow: /
-
-# Perplexity
-User-agent: PerplexityBot
-Disallow: /
-
-# Anthropic
-User-agent: anthropic-ai
-Disallow: /
-
-# Claudebot by Anthropic
-User-agent: ClaudeBot
-Disallow: /
+User-agent: *
+Allow: /
+Disallow: /resume
 
 Sitemap: https://adilhyz.github.io/sitemap.xml

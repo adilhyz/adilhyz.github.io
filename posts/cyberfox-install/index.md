@@ -18,7 +18,7 @@ Disini saya sudah menyediakan bahan untuk instalasi, download sesuai asitektur c
 | [CyberFox For Amd 32Bit](https://sourceforge.net/projects/cyberfox/files/Cyberfox-52.9.1.en-US.win32.amd.exe/download) | [CyberFox For Intel 32Bit](https://sourceforge.net/projects/cyberfox/files/Cyberfox-52.9.1.en-US.win32.intel.exe/download) |
 
 > [!NOTE]
-> Atau Bisa Kunjungi Official Link ([Sourceforge](https://sourceforge.net/projects/cyberfox/files/))
+> Atau Bisa Kunjungi Official Link ([Cyberfox](https://sourceforge.net/projects/cyberfox/files/))
 
 > ### Linux
 

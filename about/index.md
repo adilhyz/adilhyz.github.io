@@ -2,6 +2,10 @@
 
 
 
+<div align="center" class="ignore">
+    <image src="https://count.getloli.com/@adilhyz?name=adilhyz&theme=3d-num&padding=3&offset=0&align=center&scale=2&pixelated=1&darkmode=auto" alt="Online Count" width="auto">
+</div>
+
 {{< center-quote >}}
 
 Kenapa harus takut gelap kalau ada banyak hal indah yang hanya bisa dilihat sewaktu gelap?
@@ -10,36 +14,28 @@ Nishimura Kazuto
 
 {{< /center-quote >}}
 
+Saya Sanrei, seorang Linux Enthusiast & Software Engineer yang menyukai Eksperimen. saya memiliki minat dan gemar mempelajari seputar komputasi, sistem operasi & cyber security.
 
-Saya Sanrei, seorang GNU/Linux Enthusiast yang menyukai Eksperimen, Gemar mempelajari komputasi, cyber security,
-mendengar musik, menonton film, dan membaca.
+Hobi saya mendengar musik, menonton film, dan membaca, terkadang ada hobi lain yaitu Lari dan Chalisthenic.
 
-<div align="center" class="ignore">
-    <image src="https://count.getloli.com/@adilhyz?name=adilhyz&theme=3d-num&padding=3&offset=0&align=center&scale=2&pixelated=1&darkmode=auto" alt="Online Count" width="auto">
-</div>
-
-> [!question] Kenapa ada _***[adilhyz.github.io](adilhyz.github.io)***_。
+> [!question] Apa sih _[adilhyz.github.io](adilhyz.github.io)_, apa tujuan dibuat web ini?。
 > Situs ini dibuat semata-mata hanya Catatan. Namun jika suatu saat ternyata bisa membantu orang lain, anggaplah itu sebagai keberkahan ilmu, ++Sebab ilmu sejatinya mengalir jangan sampai berhenti di kamu.++
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/14BISlm4iLphnEwcdmViaG?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Apakah ini Gratis dan Open-Source?
 
 Ya, tentu saja website ini dihosting oleh Github Pages yang 100% Gratis. Website ini dibuat dengan
-*Static Website Pages* **(SSG)**, Kalian bisa membuat Project sederhana dengan Hugo dan di Hosting dengan [Github Pages](https://github.com/adilhyz/adilhyz.github.io),
-dengan Hugo kalian bisa membuat website statis dan bisa meng-custom tema populer,
+*Static Website Pages* **(SSG)**, di Hosting dengan [Github Pages](https://github.com/adilhyz/adilhyz.github.io),
+dengan Hugo website statis dan bisa meng-custom tema populer,
 yang saya gunakan yaitu [FixIt](https://fixit.lruihao.cn/).
-
 
 {{< details "Perjalanan Web Ini" >}}
 ```timeline {reverse=true, animation=true, height="280px"}
 events:
   - timestamp: 2026-06-15 23:30:30
-    content: Beralih ke domain awal
+    content: Beralih ke domain awal adilhyz.github.io
     type: success
   - timestamp: 2025-12-14 21:13:30
     content: Beralih ke domain sanrei.my.id
-    type: success
   - timestamp: 2025-09-27 08:13:51
     content: Bermigrasi ke fixit.
   - timestamp: 2025-09-20 08:13:51
@@ -53,11 +49,14 @@ events:
 ```
 {{< /details >}}
 
-> [!SUMMARY] Kenapa tidak Custom domain sendiri saja?
-> Ya, sudah terpikirkan sejak lama, mungkin dalam jangka waktu dekat saya masih belum memikirkan untuk membuat custom domain sendiri. tidak menutup kemungkinan juga saya ++akan menggunakan domain custom nanti++.
+
+{{< link href="https://github.com/adilhyz/dotfiles-v1" content="Dotfiles Arch Linux" card=true card-icon="fa-brands fa-github" >}}
 
 
-- 🫶 [Dotfiles Arch Linux](https://github.com/adilhyz/dotfiles-v1)
+---
+
+> [!SPOTIFY] Playlist saya
+> <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/14BISlm4iLphnEwcdmViaG?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 {{< style "min-height: 350px;" >}}
 {{< typeit code=lua speed=20 >}}
@@ -82,17 +81,15 @@ return blog(name, author, url)
 {{< /typeit >}}
 {{< /style >}}
 
-## Sistem Yang Saya Gunakan
-
-> [!note] Fetch System
-> ``` shell {title="neofetch"}
->       /\         sanrei@adilhyz
->      /  \        OS: Arch
->     /\   \       Packages: (pacman)
->    /      \      Shell: zsh
->   /   ,,   \     WM: bspwm, hyprland
->  /   |  |  -\    Kernel: 6.16.x Arch / zen1-1-zen
-> /_-''    ''-_\   Memory: 11777MiB (12Gib)
+> [!artix] Sistem Yang Saya Gunakan
+> ```shell {title="neofetch"}
+>       /\         sanrei@ore
+>      /  \        OS: Artix Linux
+>     /`'.,\       Packages: 1179 (pacman)
+>    /     ',      Shell: zsh
+>   /      ,`\     WM: bspwm & hyprland
+>  /   ,.'`.  \    Kernel: 7.1.3-zen2-1-zen
+> /.,'`     `'.\   Memory: 11774MiB (12Gib)
 > ```
 
 ---

@@ -53,7 +53,7 @@
 ## LANGUAGES
 
 - Sundanese: Native
-- Indonesian: Fluent
+- Indonesian: Daily
 - 日本語: Advanced
 - English: Advanced
 
