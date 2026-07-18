@@ -2,7 +2,7 @@
 
 > Just People, Linux Enthusiast & Software Engineer. Find me online at adilhyz.github.io。
 
-Total 14 artikel by [Adilhyz](https://github.com/adilhyz).
+Total 13 artikel by [Adilhyz](https://github.com/adilhyz).
 
 ## 2026
 
@@ -16,10 +16,9 @@ Total 14 artikel by [Adilhyz](https://github.com/adilhyz).
 ## 2025
 
 <details>
-<summary>Total 10 artikel</summary>
+<summary>Total 9 artikel</summary>
 
 - 12-18 [Tabur Tuai](https://adilhyz.github.io/posts/tabur-tuai/ "2025-12-18 14:10:21")
-- 11-11 [Kehilangan Hewan Peliharaan](https://adilhyz.github.io/posts/kehilangan-kucing-kesayangan/ "2025-11-11 14:10:21")
 - 11-06 [Tab Vs Spasi: Pilihan yang tiada ujungnya](https://adilhyz.github.io/posts/tab-vs-spasi/ "2025-11-06 13:40:01")
 - 11-01 [Kebocoran Data, Fenomena atau Drama tahunan](https://adilhyz.github.io/posts/kebocoran-data/ "2025-11-01 21:36:24")
 - 10-24 [Konversi Markdown Ke Pdf dengan Nvim KNAP](https://adilhyz.github.io/posts/nvim-markdown-ke-pdf/ "2025-10-24 16:17:32")

@@ -36,16 +36,22 @@ events:
     type: success
   - timestamp: 2025-12-14 21:13:30
     content: Beralih ke domain sanrei.my.id
+    type: danger
   - timestamp: 2025-09-27 08:13:51
     content: Bermigrasi ke fixit.
+    type: secondary
   - timestamp: 2025-09-20 08:13:51
     content: Akun pulih kembali setelah beberapa kompensasi dan kembali normal.
+    type: primary
   - timestamp: 2025-05-28 08:13:51
     content: Akun terkena flagged untuk Pertama Kali.
+    type: danger
   - timestamp: 2023-09-20 08:13:51
     content: 'Beralih menggunakan SSG(HUGO).'
+    type: secondary
   - timestamp: 2023-08-20 08:13:51
     content: Membuat repo adilhyz.github.io dan menggunakan GitHub Pages lama。
+    type: secondary
 ```
 {{< /details >}}
 

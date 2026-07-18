@@ -1,7 +1,6 @@
 https://adilhyz.github.io/about/
 https://adilhyz.github.io/posts/aplikasi-makin-hari-makin-berat/
 https://adilhyz.github.io/posts/tabur-tuai/
-https://adilhyz.github.io/posts/kehilangan-kucing-kesayangan/
 https://adilhyz.github.io/posts/tab-vs-spasi/
 https://adilhyz.github.io/posts/kebocoran-data/
 https://adilhyz.github.io/posts/nvim-markdown-ke-pdf/
