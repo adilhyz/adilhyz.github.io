@@ -2,13 +2,14 @@
 
 > Just People, Linux Enthusiast & Software Engineer. Find me online at adilhyz.github.io。
 
-Total 13 artikel by [Adilhyz](https://github.com/adilhyz).
+Total 14 artikel by [Adilhyz](https://github.com/adilhyz).
 
 ## 2026
 
 <details open>
-<summary>Total 1 artikel</summary>
+<summary>Total 2 artikel</summary>
 
+- 07-22 [Pindah ke Linux Karena Iseng, Malah Tidak Mau Balik Lagi](https://adilhyz.github.io/posts/pengalaman-pindah-ke-linux/ "2026-07-22 21:45:00")
 - 01-15 [Kenapa Aplikasi Sekarang makin hari makin berat?](https://adilhyz.github.io/posts/aplikasi-makin-hari-makin-berat/ "2026-01-15 23:26:19")
 
 </details>

@@ -88,7 +88,7 @@ return blog(name, author, url)
 {{< /style >}}
 
 > [!artix] Sistem Yang Saya Gunakan
-> ```shell {title="neofetch"}
+> ```bash {mode=simple, linenos=false, shadow=never}
 >       /\         sanrei@ore
 >      /  \        OS: Artix Linux
 >     /`'.,\       Packages: 1179 (pacman)
